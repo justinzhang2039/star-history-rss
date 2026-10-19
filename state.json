@@ -1,33 +1,41 @@
 {
- "window": "Oct 11, 2026 – Oct 17, 2026",
+ "window": "Oct 12, 2026 – Oct 18, 2026",
  "top20": [
   "morluto/rea",
   "storytold/photocraft",
-  "storytold/artcraft",
   "debpalash/VoiceStudio",
+  "storytold/artcraft",
   "boykopovar/AnyPS5",
   "mattpocock/skills",
+  "MadsLorentzen/ai-job-search",
   "storytold/wordcraft",
-  "cathrynlavery/diagram-design",
   "NationalSecurityAgency/ghidra",
-  "storytold/pdfcraft",
-  "bilawalsidhu/gods-eye-view",
   "stablyai/orca",
+  "cathrynlavery/diagram-design",
   "affaan-m/ECC",
   "DietrichGebert/ponytail",
-  "ifixai-ai/iFixAi",
-  "heygen-com/hyperframes",
-  "xtool-org/xtool",
   "deepseek-ai/deepseek-harness",
+  "ifixai-ai/iFixAi",
+  "storytold/pdfcraft",
+  "bilawalsidhu/gods-eye-view",
+  "heygen-com/hyperframes",
   "vxcontrol/pentagi",
-  "LibreSpark/LibreTV"
+  "xtool-org/xtool"
  ],
  "top5": [
   "morluto/rea",
   "storytold/photocraft",
-  "storytold/artcraft",
   "debpalash/VoiceStudio",
+  "storytold/artcraft",
   "boykopovar/AnyPS5"
  ],
- "items": []
+ "items": [
+  {
+   "title": "🆕 新进榜单 Top20 #7 MadsLorentzen/ai-job-search（+8,192 ★）",
+   "link": "https://github.com/MadsLorentzen/ai-job-search",
+   "guid": "Oct 12, 2026 – Oct 18, 2026|new|MadsLorentzen/ai-job-search",
+   "pubDate": "Mon, 19 Oct 2026 19:23:34 +0000",
+   "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
+  }
+ ]
 }
