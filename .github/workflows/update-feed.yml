@@ -5,13 +5,39 @@ on:
     - cron: '30 1 * * *'   # 01:30 UTC daily
     - cron: '30 13 * * *'  # 13:30 UTC daily
   workflow_dispatch:
+  pull_request:
+  push:
+    branches: [main]
+    paths:
+      - star_weekly_feed.py
+      - test_star_weekly_feed.py
+      - .github/workflows/update-feed.yml
 
 permissions:
-  contents: write
+  contents: read
+
+concurrency:
+  group: star-history-rss-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
-  update-feed:
+  test:
     runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - run: python -m unittest -v
+
+  update-feed:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' || github.event_name == 'push'
+    needs: test
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      MAX_SOURCE_AGE_HOURS: ${{ vars.MAX_SOURCE_AGE_HOURS || '48' }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -22,16 +48,33 @@ jobs:
           python-version: '3.x'
 
       - name: Run feed update script
+        id: update
+        continue-on-error: true
         run: python star_weekly_feed.py
 
-      - name: Commit and push if changed
+      - name: Persist source health and valid feed changes
+        env:
+          UPDATE_OUTCOME: ${{ steps.update.outcome }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add state.json star-history-weekly.xml
+          if [ -f health.json ]; then
+            git add health.json
+          fi
+          if [ "$UPDATE_OUTCOME" = success ]; then
+            git add state.json star-history-weekly.xml
+          fi
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update Star History RSS feed"
+            git commit -m "Check Star History source and update RSS"
             git push
           fi
+
+      - name: Enforce source freshness
+        if: always()
+        env:
+          UPDATE_OUTCOME: ${{ steps.update.outcome }}
+        run: |
+          test "$UPDATE_OUTCOME" = success
+          python -c 'import json, sys; h = json.load(open("health.json")); print(h); sys.exit(0 if h["status"] == "fresh" else 1)'
