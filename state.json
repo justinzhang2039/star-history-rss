@@ -1,35 +1,98 @@
 {
- "window": "Oct 12, 2026 – Oct 18, 2026",
+ "window": "Oct 14, 2026 – Oct 20, 2026",
  "top20": [
   "morluto/rea",
-  "storytold/photocraft",
+  "google-research/harness2",
   "debpalash/VoiceStudio",
-  "storytold/artcraft",
+  "MadsLorentzen/ai-job-search",
+  "storytold/photocraft",
   "boykopovar/AnyPS5",
   "mattpocock/skills",
-  "MadsLorentzen/ai-job-search",
-  "storytold/wordcraft",
-  "NationalSecurityAgency/ghidra",
+  "xerj-org/xerj",
   "stablyai/orca",
-  "cathrynlavery/diagram-design",
-  "affaan-m/ECC",
+  "storytold/artcraft",
   "DietrichGebert/ponytail",
   "deepseek-ai/deepseek-harness",
-  "ifixai-ai/iFixAi",
-  "storytold/pdfcraft",
-  "bilawalsidhu/gods-eye-view",
+  "affaan-m/ECC",
+  "tangency-labs/solidcraft",
+  "yetone/magpie",
+  "anomalyco/opencode",
+  "NationalSecurityAgency/ghidra",
   "heygen-com/hyperframes",
-  "vxcontrol/pentagi",
-  "xtool-org/xtool"
+  "anthropics/claude-plugins-official",
+  "cloudflare/security-audit-skill"
  ],
  "top5": [
   "morluto/rea",
-  "storytold/photocraft",
+  "google-research/harness2",
   "debpalash/VoiceStudio",
-  "storytold/artcraft",
-  "boykopovar/AnyPS5"
+  "MadsLorentzen/ai-job-search",
+  "storytold/photocraft"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #4 MadsLorentzen/ai-job-search｜前5：rea +133,434 / harness2 +16,085 / VoiceStudio +15,318 / ai-job-search +14,869 / photocraft +11,317",
+   "link": "https://github.com/MadsLorentzen/ai-job-search",
+   "guid": "Oct 14, 2026 – Oct 20, 2026|top5|MadsLorentzen/ai-job-search",
+   "pubDate": "Wed, 21 Oct 2026 18:08:55 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +133,434 ★<br>#2 <a href='https://github.com/google-research/harness2'>google-research/harness2</a> +16,085 ★<br>#3 <a href='https://github.com/debpalash/VoiceStudio'>debpalash/VoiceStudio</a> +15,318 ★<br>#4 <a href='https://github.com/MadsLorentzen/ai-job-search'>MadsLorentzen/ai-job-search</a> +14,869 ★ ← 新进<br>#5 <a href='https://github.com/storytold/photocraft'>storytold/photocraft</a> +11,317 ★<br><br>统计窗口：Oct 14, 2026 – Oct 20, 2026<br>当前排名：#4<br>统计期内新增星：+14,869<br>总星数：62,397<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
+  },
+  {
+   "title": "🔥 新进前5 #2 google-research/harness2｜前5：rea +133,434 / harness2 +16,085 / VoiceStudio +15,318 / ai-job-search +14,869 / photocraft +11,317",
+   "link": "https://github.com/google-research/harness2",
+   "guid": "Oct 14, 2026 – Oct 20, 2026|top5|google-research/harness2",
+   "pubDate": "Wed, 21 Oct 2026 18:08:55 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +133,434 ★<br>#2 <a href='https://github.com/google-research/harness2'>google-research/harness2</a> +16,085 ★ ← 新进<br>#3 <a href='https://github.com/debpalash/VoiceStudio'>debpalash/VoiceStudio</a> +15,318 ★<br>#4 <a href='https://github.com/MadsLorentzen/ai-job-search'>MadsLorentzen/ai-job-search</a> +14,869 ★<br>#5 <a href='https://github.com/storytold/photocraft'>storytold/photocraft</a> +11,317 ★<br><br>统计窗口：Oct 14, 2026 – Oct 20, 2026<br>当前排名：#2<br>统计期内新增星：+16,085<br>总星数：16,757<br><a href='https://www.star-history.com/#google-research/harness2&amp;Date'>Star History 曲线</a> · <a href='https://github.com/google-research/harness2'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #20 cloudflare/security-audit-skill（+5,414 ★）",
+   "link": "https://github.com/cloudflare/security-audit-skill",
+   "guid": "Oct 14, 2026 – Oct 20, 2026|new|cloudflare/security-audit-skill",
+   "pubDate": "Wed, 21 Oct 2026 18:08:55 +0000",
+   "desc": "统计窗口：Oct 14, 2026 – Oct 20, 2026<br>当前排名：#20<br>统计期内新增星：+5,414<br>总星数：35,249<br><a href='https://www.star-history.com/#cloudflare/security-audit-skill&amp;Date'>Star History 曲线</a> · <a href='https://github.com/cloudflare/security-audit-skill'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #19 anthropics/claude-plugins-official（+5,620 ★）",
+   "link": "https://github.com/anthropics/claude-plugins-official",
+   "guid": "Oct 14, 2026 – Oct 20, 2026|new|anthropics/claude-plugins-official",
+   "pubDate": "Wed, 21 Oct 2026 18:08:55 +0000",
+   "desc": "统计窗口：Oct 14, 2026 – Oct 20, 2026<br>当前排名：#19<br>统计期内新增星：+5,620<br>总星数：43,533<br><a href='https://www.star-history.com/#anthropics/claude-plugins-official&amp;Date'>Star History 曲线</a> · <a href='https://github.com/anthropics/claude-plugins-official'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #16 anomalyco/opencode（+6,165 ★）",
+   "link": "https://github.com/anomalyco/opencode",
+   "guid": "Oct 14, 2026 – Oct 20, 2026|new|anomalyco/opencode",
+   "pubDate": "Wed, 21 Oct 2026 18:08:55 +0000",
+   "desc": "统计窗口：Oct 14, 2026 – Oct 20, 2026<br>当前排名：#16<br>统计期内新增星：+6,165<br>总星数：219,500<br><a href='https://www.star-history.com/#anomalyco/opencode&amp;Date'>Star History 曲线</a> · <a href='https://github.com/anomalyco/opencode'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #15 yetone/magpie（+6,299 ★）",
+   "link": "https://github.com/yetone/magpie",
+   "guid": "Oct 14, 2026 – Oct 20, 2026|new|yetone/magpie",
+   "pubDate": "Wed, 21 Oct 2026 18:08:55 +0000",
+   "desc": "统计窗口：Oct 14, 2026 – Oct 20, 2026<br>当前排名：#15<br>统计期内新增星：+6,299<br>总星数：18,651<br><a href='https://www.star-history.com/#yetone/magpie&amp;Date'>Star History 曲线</a> · <a href='https://github.com/yetone/magpie'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #14 tangency-labs/solidcraft（+6,504 ★）",
+   "link": "https://github.com/tangency-labs/solidcraft",
+   "guid": "Oct 14, 2026 – Oct 20, 2026|new|tangency-labs/solidcraft",
+   "pubDate": "Wed, 21 Oct 2026 18:08:55 +0000",
+   "desc": "统计窗口：Oct 14, 2026 – Oct 20, 2026<br>当前排名：#14<br>统计期内新增星：+6,504<br>总星数：8,660<br><a href='https://www.star-history.com/#tangency-labs/solidcraft&amp;Date'>Star History 曲线</a> · <a href='https://github.com/tangency-labs/solidcraft'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #8 xerj-org/xerj（+8,679 ★）",
+   "link": "https://github.com/xerj-org/xerj",
+   "guid": "Oct 14, 2026 – Oct 20, 2026|new|xerj-org/xerj",
+   "pubDate": "Wed, 21 Oct 2026 18:08:55 +0000",
+   "desc": "统计窗口：Oct 14, 2026 – Oct 20, 2026<br>当前排名：#8<br>统计期内新增星：+8,679<br>总星数：12,648<br><a href='https://www.star-history.com/#xerj-org/xerj&amp;Date'>Star History 曲线</a> · <a href='https://github.com/xerj-org/xerj'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #2 google-research/harness2（+16,085 ★）",
+   "link": "https://github.com/google-research/harness2",
+   "guid": "Oct 14, 2026 – Oct 20, 2026|new|google-research/harness2",
+   "pubDate": "Wed, 21 Oct 2026 18:08:55 +0000",
+   "desc": "统计窗口：Oct 14, 2026 – Oct 20, 2026<br>当前排名：#2<br>统计期内新增星：+16,085<br>总星数：16,757<br><a href='https://www.star-history.com/#google-research/harness2&amp;Date'>Star History 曲线</a> · <a href='https://github.com/google-research/harness2'>GitHub</a>"
+  },
   {
    "title": "🆕 新进榜单 Top20 #7 MadsLorentzen/ai-job-search（+8,192 ★）",
    "link": "https://github.com/MadsLorentzen/ai-job-search",
@@ -38,8 +101,16 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "acee94c52ec35d4991e20b90b61fa2996a2b172b3e8811b493d9747abf685eca",
+ "source_hash": "05b71527753ff660bf852a247cc75d0bebbbb751efe230d8eae3e1f688211cb5",
  "window_guids": [
-  "Oct 12, 2026 – Oct 18, 2026|new|MadsLorentzen/ai-job-search"
+  "Oct 14, 2026 – Oct 20, 2026|new|anomalyco/opencode",
+  "Oct 14, 2026 – Oct 20, 2026|new|anthropics/claude-plugins-official",
+  "Oct 14, 2026 – Oct 20, 2026|new|cloudflare/security-audit-skill",
+  "Oct 14, 2026 – Oct 20, 2026|new|google-research/harness2",
+  "Oct 14, 2026 – Oct 20, 2026|new|tangency-labs/solidcraft",
+  "Oct 14, 2026 – Oct 20, 2026|new|xerj-org/xerj",
+  "Oct 14, 2026 – Oct 20, 2026|new|yetone/magpie",
+  "Oct 14, 2026 – Oct 20, 2026|top5|MadsLorentzen/ai-job-search",
+  "Oct 14, 2026 – Oct 20, 2026|top5|google-research/harness2"
  ]
 }
