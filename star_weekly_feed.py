@@ -233,10 +233,11 @@ def run(state_path, out_path, health_path, now=None, max_age_hours=48):
         frm, to, repos, asset_url = fetch_weekly()
         _, end = validate_weekly(frm, to, repos, now.date())
         report.update(source_window=f"{frm} – {to}", source_asset_url=asset_url)
-        health = freshness(end, now, max_age_hours)
-        updated, count = update_state(st, frm, to, repos, now)
+        # Record valid observations even when state acceptance rejects a regression.
         if report["source_window"] != previous_health.get("source_window") or not report["window_first_observed_at"]:
             report["window_first_observed_at"] = now.isoformat()
+        health = freshness(end, now, max_age_hours)
+        updated, count = update_state(st, frm, to, repos, now)
         same_window = st.get("window") == updated["window"]
         content_changed = st.get("source_hash") != updated["source_hash"]
         # State is authoritative; a retry can rebuild the feed after an interrupted write.
