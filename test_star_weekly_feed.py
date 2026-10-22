@@ -267,11 +267,52 @@ class RunTests(unittest.TestCase):
         self.state_path.write_text(json.dumps(LEGACY_STATE, ensure_ascii=False, indent=1), encoding="utf-8")
         self.out_path.write_text(LEGACY_RSS, encoding="utf-8")
 
-    def run_feed(self, **kwargs):
+    def run_feed(self, now=NOW, **kwargs):
         # Negative cases deliberately exercise GitHub annotation output; keep
         # successful test runs from appearing to have workflow errors.
         with redirect_stdout(io.StringIO()):
-            return feed.run(self.state_path, self.out_path, self.health_path, now=NOW, **kwargs)
+            return feed.run(self.state_path, self.out_path, self.health_path, now=now, **kwargs)
+
+    def test_regressed_window_records_first_observation_and_preserves_it_on_retry(self):
+        with patch.object(feed, "fetch_weekly", return_value=(FROM, TO, sample_repos(), ASSET)):
+            self.assertEqual(self.run_feed(), 0)
+        accepted_health = json.loads(self.health_path.read_text())
+        state_before = self.state_path.read_bytes()
+        feed_before = self.out_path.read_bytes()
+        first_seen = NOW + dt.timedelta(hours=1)
+        source = ("Oct 5, 2026", "Oct 11, 2026", sample_repos(), ASSET)
+        with patch.object(feed, "fetch_weekly", return_value=source):
+            for checked_at in (first_seen, first_seen + dt.timedelta(hours=1)):
+                with self.subTest(checked_at=checked_at):
+                    self.assertEqual(self.run_feed(now=checked_at), 1)
+                    health = json.loads(self.health_path.read_text())
+                    self.assertEqual(health["checked_at"], checked_at.isoformat())
+                    self.assertEqual(health["source_window"], "Oct 5, 2026 – Oct 11, 2026")
+                    self.assertEqual(health["window_first_observed_at"], first_seen.isoformat())
+                    self.assertEqual(health["accepted_window"], accepted_health["accepted_window"])
+                    self.assertEqual(health["last_successful_fetch_at"],
+                                     accepted_health["last_successful_fetch_at"])
+                    self.assertEqual(health["status"], "error")
+                    self.assertIn("source window regressed", health["error"])
+                    self.assertEqual(self.state_path.read_bytes(), state_before)
+                    self.assertEqual(self.out_path.read_bytes(), feed_before)
+
+    def test_invalid_window_does_not_replace_previous_observation(self):
+        with patch.object(feed, "fetch_weekly", return_value=(FROM, TO, sample_repos(), ASSET)):
+            self.assertEqual(self.run_feed(), 0)
+        previous_health = json.loads(self.health_path.read_text())
+        state_before = self.state_path.read_bytes()
+        feed_before = self.out_path.read_bytes()
+        source = ("Oct 5, 2026", "Oct 12, 2026", sample_repos(), ASSET)
+        with patch.object(feed, "fetch_weekly", return_value=source):
+            self.assertEqual(self.run_feed(now=NOW + dt.timedelta(hours=1)), 1)
+        health = json.loads(self.health_path.read_text())
+        self.assertEqual(health["source_window"], previous_health["source_window"])
+        self.assertEqual(health["window_first_observed_at"], previous_health["window_first_observed_at"])
+        self.assertEqual(health["status"], "error")
+        self.assertIn("exactly seven days", health["error"])
+        self.assertEqual(self.state_path.read_bytes(), state_before)
+        self.assertEqual(self.out_path.read_bytes(), feed_before)
 
     def test_repeated_success_does_not_republish_or_duplicate_items(self):
         source = ("Oct 14, 2026", "Oct 20, 2026", sample_repos(), ASSET)
