@@ -1,35 +1,42 @@
 {
- "window": "Oct 14, 2026 – Oct 20, 2026",
+ "window": "Oct 15, 2026 – Oct 21, 2026",
  "top20": [
   "morluto/rea",
   "google-research/harness2",
-  "debpalash/VoiceStudio",
   "MadsLorentzen/ai-job-search",
+  "debpalash/VoiceStudio",
   "storytold/photocraft",
+  "stablyai/orca",
   "boykopovar/AnyPS5",
   "mattpocock/skills",
-  "xerj-org/xerj",
-  "stablyai/orca",
-  "storytold/artcraft",
   "DietrichGebert/ponytail",
+  "xerj-org/xerj",
   "deepseek-ai/deepseek-harness",
+  "cloudflare/security-audit-skill",
+  "storytold/artcraft",
   "affaan-m/ECC",
+  "anomalyco/opencode",
   "tangency-labs/solidcraft",
   "yetone/magpie",
-  "anomalyco/opencode",
-  "NationalSecurityAgency/ghidra",
-  "heygen-com/hyperframes",
   "anthropics/claude-plugins-official",
-  "cloudflare/security-audit-skill"
+  "heygen-com/hyperframes",
+  "Graphify-Labs/graphify"
  ],
  "top5": [
   "morluto/rea",
   "google-research/harness2",
-  "debpalash/VoiceStudio",
   "MadsLorentzen/ai-job-search",
+  "debpalash/VoiceStudio",
   "storytold/photocraft"
  ],
  "items": [
+  {
+   "title": "🆕 新进榜单 Top20 #20 Graphify-Labs/graphify（+5,526 ★）",
+   "link": "https://github.com/Graphify-Labs/graphify",
+   "guid": "Oct 15, 2026 – Oct 21, 2026|new|Graphify-Labs/graphify",
+   "pubDate": "Thu, 22 Oct 2026 18:03:40 +0000",
+   "desc": "统计窗口：Oct 15, 2026 – Oct 21, 2026<br>当前排名：#20<br>统计期内新增星：+5,526<br>总星数：131,062<br><a href='https://www.star-history.com/#Graphify-Labs/graphify&amp;Date'>Star History 曲线</a> · <a href='https://github.com/Graphify-Labs/graphify'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #4 MadsLorentzen/ai-job-search｜前5：rea +133,434 / harness2 +16,085 / VoiceStudio +15,318 / ai-job-search +14,869 / photocraft +11,317",
    "link": "https://github.com/MadsLorentzen/ai-job-search",
@@ -101,16 +108,8 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "05b71527753ff660bf852a247cc75d0bebbbb751efe230d8eae3e1f688211cb5",
+ "source_hash": "bc35de9db7b6f5254dd727b1b38e0c37bd1d0ab325c3f10f666bc9f025d9ea52",
  "window_guids": [
-  "Oct 14, 2026 – Oct 20, 2026|new|anomalyco/opencode",
-  "Oct 14, 2026 – Oct 20, 2026|new|anthropics/claude-plugins-official",
-  "Oct 14, 2026 – Oct 20, 2026|new|cloudflare/security-audit-skill",
-  "Oct 14, 2026 – Oct 20, 2026|new|google-research/harness2",
-  "Oct 14, 2026 – Oct 20, 2026|new|tangency-labs/solidcraft",
-  "Oct 14, 2026 – Oct 20, 2026|new|xerj-org/xerj",
-  "Oct 14, 2026 – Oct 20, 2026|new|yetone/magpie",
-  "Oct 14, 2026 – Oct 20, 2026|top5|MadsLorentzen/ai-job-search",
-  "Oct 14, 2026 – Oct 20, 2026|top5|google-research/harness2"
+  "Oct 15, 2026 – Oct 21, 2026|new|Graphify-Labs/graphify"
  ]
 }
