@@ -1,35 +1,63 @@
 {
- "window": "Oct 15, 2026 – Oct 21, 2026",
+ "window": "Oct 16, 2026 – Oct 22, 2026",
  "top20": [
   "morluto/rea",
   "google-research/harness2",
-  "MadsLorentzen/ai-job-search",
+  "ai-job-search-dev/ai-job-search",
   "debpalash/VoiceStudio",
-  "storytold/photocraft",
-  "stablyai/orca",
-  "boykopovar/AnyPS5",
-  "mattpocock/skills",
-  "DietrichGebert/ponytail",
-  "xerj-org/xerj",
-  "deepseek-ai/deepseek-harness",
   "cloudflare/security-audit-skill",
-  "storytold/artcraft",
-  "affaan-m/ECC",
+  "DietrichGebert/ponytail",
+  "stablyai/orca",
+  "mattpocock/skills",
+  "deepseek-ai/deepseek-harness",
+  "boykopovar/AnyPS5",
+  "storytold/photocraft",
+  "xerj-org/xerj",
   "anomalyco/opencode",
   "tangency-labs/solidcraft",
+  "Graphify-Labs/graphify",
+  "affaan-m/ECC",
+  "storytold/artcraft",
   "yetone/magpie",
-  "anthropics/claude-plugins-official",
   "heygen-com/hyperframes",
-  "Graphify-Labs/graphify"
+  "YuJunZhiXue/dsh-purge"
  ],
  "top5": [
   "morluto/rea",
   "google-research/harness2",
-  "MadsLorentzen/ai-job-search",
+  "ai-job-search-dev/ai-job-search",
   "debpalash/VoiceStudio",
-  "storytold/photocraft"
+  "cloudflare/security-audit-skill"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #5 cloudflare/security-audit-skill｜前5：rea +91,729 / harness2 +18,068 / ai-job-search +16,185 / VoiceStudio +12,625 / security-audit-skill +10,274",
+   "link": "https://github.com/cloudflare/security-audit-skill",
+   "guid": "Oct 16, 2026 – Oct 22, 2026|top5|cloudflare/security-audit-skill",
+   "pubDate": "Fri, 23 Oct 2026 17:55:14 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +91,729 ★<br>#2 <a href='https://github.com/google-research/harness2'>google-research/harness2</a> +18,068 ★<br>#3 <a href='https://github.com/ai-job-search-dev/ai-job-search'>ai-job-search-dev/ai-job-search</a> +16,185 ★<br>#4 <a href='https://github.com/debpalash/VoiceStudio'>debpalash/VoiceStudio</a> +12,625 ★<br>#5 <a href='https://github.com/cloudflare/security-audit-skill'>cloudflare/security-audit-skill</a> +10,274 ★ ← 新进<br><br>统计窗口：Oct 16, 2026 – Oct 22, 2026<br>当前排名：#5<br>统计期内新增星：+10,274<br>总星数：41,056<br><a href='https://www.star-history.com/#cloudflare/security-audit-skill&amp;Date'>Star History 曲线</a> · <a href='https://github.com/cloudflare/security-audit-skill'>GitHub</a>"
+  },
+  {
+   "title": "🔥 新进前5 #3 ai-job-search-dev/ai-job-search｜前5：rea +91,729 / harness2 +18,068 / ai-job-search +16,185 / VoiceStudio +12,625 / security-audit-skill +10,274",
+   "link": "https://github.com/ai-job-search-dev/ai-job-search",
+   "guid": "Oct 16, 2026 – Oct 22, 2026|top5|ai-job-search-dev/ai-job-search",
+   "pubDate": "Fri, 23 Oct 2026 17:55:14 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +91,729 ★<br>#2 <a href='https://github.com/google-research/harness2'>google-research/harness2</a> +18,068 ★<br>#3 <a href='https://github.com/ai-job-search-dev/ai-job-search'>ai-job-search-dev/ai-job-search</a> +16,185 ★ ← 新进<br>#4 <a href='https://github.com/debpalash/VoiceStudio'>debpalash/VoiceStudio</a> +12,625 ★<br>#5 <a href='https://github.com/cloudflare/security-audit-skill'>cloudflare/security-audit-skill</a> +10,274 ★<br><br>统计窗口：Oct 16, 2026 – Oct 22, 2026<br>当前排名：#3<br>统计期内新增星：+16,185<br>总星数：63,888<br><a href='https://www.star-history.com/#ai-job-search-dev/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/ai-job-search-dev/ai-job-search'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #20 YuJunZhiXue/dsh-purge（+5,271 ★）",
+   "link": "https://github.com/YuJunZhiXue/dsh-purge",
+   "guid": "Oct 16, 2026 – Oct 22, 2026|new|YuJunZhiXue/dsh-purge",
+   "pubDate": "Fri, 23 Oct 2026 17:55:14 +0000",
+   "desc": "统计窗口：Oct 16, 2026 – Oct 22, 2026<br>当前排名：#20<br>统计期内新增星：+5,271<br>总星数：6,772<br><a href='https://www.star-history.com/#YuJunZhiXue/dsh-purge&amp;Date'>Star History 曲线</a> · <a href='https://github.com/YuJunZhiXue/dsh-purge'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #3 ai-job-search-dev/ai-job-search（+16,185 ★）",
+   "link": "https://github.com/ai-job-search-dev/ai-job-search",
+   "guid": "Oct 16, 2026 – Oct 22, 2026|new|ai-job-search-dev/ai-job-search",
+   "pubDate": "Fri, 23 Oct 2026 17:55:14 +0000",
+   "desc": "统计窗口：Oct 16, 2026 – Oct 22, 2026<br>当前排名：#3<br>统计期内新增星：+16,185<br>总星数：63,888<br><a href='https://www.star-history.com/#ai-job-search-dev/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/ai-job-search-dev/ai-job-search'>GitHub</a>"
+  },
   {
    "title": "🆕 新进榜单 Top20 #20 Graphify-Labs/graphify（+5,526 ★）",
    "link": "https://github.com/Graphify-Labs/graphify",
@@ -108,8 +136,11 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "bc35de9db7b6f5254dd727b1b38e0c37bd1d0ab325c3f10f666bc9f025d9ea52",
+ "source_hash": "1587841ed38dac72d5cbf6a23d1f0570e2c1f62d01d5fa8f7b3363c6bd430882",
  "window_guids": [
-  "Oct 15, 2026 – Oct 21, 2026|new|Graphify-Labs/graphify"
+  "Oct 16, 2026 – Oct 22, 2026|new|YuJunZhiXue/dsh-purge",
+  "Oct 16, 2026 – Oct 22, 2026|new|ai-job-search-dev/ai-job-search",
+  "Oct 16, 2026 – Oct 22, 2026|top5|ai-job-search-dev/ai-job-search",
+  "Oct 16, 2026 – Oct 22, 2026|top5|cloudflare/security-audit-skill"
  ]
 }
