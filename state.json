@@ -1,35 +1,42 @@
 {
- "window": "Oct 16, 2026 – Oct 22, 2026",
+ "window": "Oct 17, 2026 – Oct 23, 2026",
  "top20": [
   "morluto/rea",
   "google-research/harness2",
   "ai-job-search-dev/ai-job-search",
-  "debpalash/VoiceStudio",
   "cloudflare/security-audit-skill",
+  "debpalash/VoiceStudio",
   "DietrichGebert/ponytail",
   "stablyai/orca",
-  "mattpocock/skills",
+  "peach-mitao/peach",
   "deepseek-ai/deepseek-harness",
+  "mattpocock/skills",
   "boykopovar/AnyPS5",
-  "storytold/photocraft",
   "xerj-org/xerj",
+  "storytold/photocraft",
+  "Graphify-Labs/graphify",
   "anomalyco/opencode",
   "tangency-labs/solidcraft",
-  "Graphify-Labs/graphify",
+  "YuJunZhiXue/dsh-purge",
   "affaan-m/ECC",
-  "storytold/artcraft",
   "yetone/magpie",
-  "heygen-com/hyperframes",
-  "YuJunZhiXue/dsh-purge"
+  "heygen-com/hyperframes"
  ],
  "top5": [
   "morluto/rea",
   "google-research/harness2",
   "ai-job-search-dev/ai-job-search",
-  "debpalash/VoiceStudio",
-  "cloudflare/security-audit-skill"
+  "cloudflare/security-audit-skill",
+  "debpalash/VoiceStudio"
  ],
  "items": [
+  {
+   "title": "🆕 新进榜单 Top20 #8 peach-mitao/peach（+9,263 ★）",
+   "link": "https://github.com/peach-mitao/peach",
+   "guid": "Oct 17, 2026 – Oct 23, 2026|new|peach-mitao/peach",
+   "pubDate": "Sat, 24 Oct 2026 16:45:02 +0000",
+   "desc": "统计窗口：Oct 17, 2026 – Oct 23, 2026<br>当前排名：#8<br>统计期内新增星：+9,263<br>总星数：10,196<br><a href='https://www.star-history.com/#peach-mitao/peach&amp;Date'>Star History 曲线</a> · <a href='https://github.com/peach-mitao/peach'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #5 cloudflare/security-audit-skill｜前5：rea +91,729 / harness2 +18,068 / ai-job-search +16,185 / VoiceStudio +12,625 / security-audit-skill +10,274",
    "link": "https://github.com/cloudflare/security-audit-skill",
@@ -136,11 +143,8 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "1587841ed38dac72d5cbf6a23d1f0570e2c1f62d01d5fa8f7b3363c6bd430882",
+ "source_hash": "6f9aac19f640677df8d02bc3b86f4d28c6dbdaef24bc1dc4f366e5d9a09bf549",
  "window_guids": [
-  "Oct 16, 2026 – Oct 22, 2026|new|YuJunZhiXue/dsh-purge",
-  "Oct 16, 2026 – Oct 22, 2026|new|ai-job-search-dev/ai-job-search",
-  "Oct 16, 2026 – Oct 22, 2026|top5|ai-job-search-dev/ai-job-search",
-  "Oct 16, 2026 – Oct 22, 2026|top5|cloudflare/security-audit-skill"
+  "Oct 17, 2026 – Oct 23, 2026|new|peach-mitao/peach"
  ]
 }
