@@ -1,32 +1,32 @@
 {
- "window": "Oct 17, 2026 – Oct 23, 2026",
+ "window": "Oct 18, 2026 – Oct 24, 2026",
  "top20": [
   "morluto/rea",
   "google-research/harness2",
-  "ai-job-search-dev/ai-job-search",
   "cloudflare/security-audit-skill",
+  "ai-job-search-dev/ai-job-search",
   "debpalash/VoiceStudio",
-  "DietrichGebert/ponytail",
-  "stablyai/orca",
   "peach-mitao/peach",
+  "stablyai/orca",
+  "DietrichGebert/ponytail",
   "deepseek-ai/deepseek-harness",
   "mattpocock/skills",
-  "boykopovar/AnyPS5",
   "xerj-org/xerj",
-  "storytold/photocraft",
   "Graphify-Labs/graphify",
-  "anomalyco/opencode",
-  "tangency-labs/solidcraft",
   "YuJunZhiXue/dsh-purge",
+  "storytold/photocraft",
+  "boykopovar/AnyPS5",
+  "anomalyco/opencode",
   "affaan-m/ECC",
   "yetone/magpie",
+  "tangency-labs/solidcraft",
   "heygen-com/hyperframes"
  ],
  "top5": [
   "morluto/rea",
   "google-research/harness2",
-  "ai-job-search-dev/ai-job-search",
   "cloudflare/security-audit-skill",
+  "ai-job-search-dev/ai-job-search",
   "debpalash/VoiceStudio"
  ],
  "items": [
@@ -143,8 +143,6 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "6f9aac19f640677df8d02bc3b86f4d28c6dbdaef24bc1dc4f366e5d9a09bf549",
- "window_guids": [
-  "Oct 17, 2026 – Oct 23, 2026|new|peach-mitao/peach"
- ]
+ "source_hash": "211634ff132fd347d9146d479de43bcbc004698e64aa916fa86abe634fe99a28",
+ "window_guids": []
 }
