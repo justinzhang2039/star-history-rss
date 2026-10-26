@@ -1,35 +1,56 @@
 {
- "window": "Oct 18, 2026 – Oct 24, 2026",
+ "window": "Oct 19, 2026 – Oct 25, 2026",
  "top20": [
   "morluto/rea",
-  "google-research/harness2",
   "cloudflare/security-audit-skill",
+  "google-research/harness2",
   "ai-job-search-dev/ai-job-search",
-  "debpalash/VoiceStudio",
   "peach-mitao/peach",
-  "stablyai/orca",
+  "debpalash/VoiceStudio",
   "DietrichGebert/ponytail",
+  "stablyai/orca",
   "deepseek-ai/deepseek-harness",
-  "mattpocock/skills",
   "xerj-org/xerj",
+  "mattpocock/skills",
   "Graphify-Labs/graphify",
   "YuJunZhiXue/dsh-purge",
-  "storytold/photocraft",
-  "boykopovar/AnyPS5",
-  "anomalyco/opencode",
   "affaan-m/ECC",
+  "ifixai-ai/iFixAi",
+  "heygen-com/hyperframes",
   "yetone/magpie",
-  "tangency-labs/solidcraft",
-  "heygen-com/hyperframes"
+  "storytold/photocraft",
+  "pbakaus/impeccable",
+  "anomalyco/opencode"
  ],
  "top5": [
   "morluto/rea",
-  "google-research/harness2",
   "cloudflare/security-audit-skill",
+  "google-research/harness2",
   "ai-job-search-dev/ai-job-search",
-  "debpalash/VoiceStudio"
+  "peach-mitao/peach"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #5 peach-mitao/peach｜前5：rea +60,520 / security-audit-skill +16,234 / harness2 +11,714 / ai-job-search +11,705 / peach +11,634",
+   "link": "https://github.com/peach-mitao/peach",
+   "guid": "Oct 19, 2026 – Oct 25, 2026|top5|peach-mitao/peach",
+   "pubDate": "Mon, 26 Oct 2026 19:26:39 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +60,520 ★<br>#2 <a href='https://github.com/cloudflare/security-audit-skill'>cloudflare/security-audit-skill</a> +16,234 ★<br>#3 <a href='https://github.com/google-research/harness2'>google-research/harness2</a> +11,714 ★<br>#4 <a href='https://github.com/ai-job-search-dev/ai-job-search'>ai-job-search-dev/ai-job-search</a> +11,705 ★<br>#5 <a href='https://github.com/peach-mitao/peach'>peach-mitao/peach</a> +11,634 ★ ← 新进<br><br>统计窗口：Oct 19, 2026 – Oct 25, 2026<br>当前排名：#5<br>统计期内新增星：+11,634<br>总星数：12,087<br><a href='https://www.star-history.com/#peach-mitao/peach&amp;Date'>Star History 曲线</a> · <a href='https://github.com/peach-mitao/peach'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #19 pbakaus/impeccable（+5,426 ★）",
+   "link": "https://github.com/pbakaus/impeccable",
+   "guid": "Oct 19, 2026 – Oct 25, 2026|new|pbakaus/impeccable",
+   "pubDate": "Mon, 26 Oct 2026 19:26:39 +0000",
+   "desc": "统计窗口：Oct 19, 2026 – Oct 25, 2026<br>当前排名：#19<br>统计期内新增星：+5,426<br>总星数：88,703<br><a href='https://www.star-history.com/#pbakaus/impeccable&amp;Date'>Star History 曲线</a> · <a href='https://github.com/pbakaus/impeccable'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #15 ifixai-ai/iFixAi（+5,554 ★）",
+   "link": "https://github.com/ifixai-ai/iFixAi",
+   "guid": "Oct 19, 2026 – Oct 25, 2026|new|ifixai-ai/iFixAi",
+   "pubDate": "Mon, 26 Oct 2026 19:26:39 +0000",
+   "desc": "统计窗口：Oct 19, 2026 – Oct 25, 2026<br>当前排名：#15<br>统计期内新增星：+5,554<br>总星数：34,852<br><a href='https://www.star-history.com/#ifixai-ai/iFixAi&amp;Date'>Star History 曲线</a> · <a href='https://github.com/ifixai-ai/iFixAi'>GitHub</a>"
+  },
   {
    "title": "🆕 新进榜单 Top20 #8 peach-mitao/peach（+9,263 ★）",
    "link": "https://github.com/peach-mitao/peach",
@@ -143,6 +164,10 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "211634ff132fd347d9146d479de43bcbc004698e64aa916fa86abe634fe99a28",
- "window_guids": []
+ "source_hash": "49faf32937a2b49fc7f45f9b79d1a4ea0791f33a348b551229a10183ec722106",
+ "window_guids": [
+  "Oct 19, 2026 – Oct 25, 2026|new|ifixai-ai/iFixAi",
+  "Oct 19, 2026 – Oct 25, 2026|new|pbakaus/impeccable",
+  "Oct 19, 2026 – Oct 25, 2026|top5|peach-mitao/peach"
+ ]
 }
