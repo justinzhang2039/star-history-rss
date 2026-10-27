@@ -1,35 +1,63 @@
 {
- "window": "Oct 19, 2026 – Oct 25, 2026",
+ "window": "Oct 20, 2026 – Oct 26, 2026",
  "top20": [
   "morluto/rea",
   "cloudflare/security-audit-skill",
-  "google-research/harness2",
-  "ai-job-search-dev/ai-job-search",
   "peach-mitao/peach",
   "debpalash/VoiceStudio",
   "DietrichGebert/ponytail",
   "stablyai/orca",
   "deepseek-ai/deepseek-harness",
-  "xerj-org/xerj",
-  "mattpocock/skills",
+  "ai-job-search-dev/ai-job-search",
+  "google-research/harness2",
   "Graphify-Labs/graphify",
-  "YuJunZhiXue/dsh-purge",
+  "Nutlope/hallmark",
+  "mattpocock/skills",
+  "xerj-org/xerj",
+  "pbakaus/impeccable",
   "affaan-m/ECC",
   "ifixai-ai/iFixAi",
-  "heygen-com/hyperframes",
   "yetone/magpie",
-  "storytold/photocraft",
-  "pbakaus/impeccable",
-  "anomalyco/opencode"
+  "YuJunZhiXue/dsh-purge",
+  "heygen-com/hyperframes",
+  "hmjz100/LinkSwift"
  ],
  "top5": [
   "morluto/rea",
   "cloudflare/security-audit-skill",
-  "google-research/harness2",
-  "ai-job-search-dev/ai-job-search",
-  "peach-mitao/peach"
+  "peach-mitao/peach",
+  "debpalash/VoiceStudio",
+  "DietrichGebert/ponytail"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #5 DietrichGebert/ponytail｜前5：rea +54,125 / security-audit-skill +16,209 / peach +12,255 / VoiceStudio +12,194 / ponytail +9,331",
+   "link": "https://github.com/DietrichGebert/ponytail",
+   "guid": "Oct 20, 2026 – Oct 26, 2026|top5|DietrichGebert/ponytail",
+   "pubDate": "Tue, 27 Oct 2026 18:47:08 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +54,125 ★<br>#2 <a href='https://github.com/cloudflare/security-audit-skill'>cloudflare/security-audit-skill</a> +16,209 ★<br>#3 <a href='https://github.com/peach-mitao/peach'>peach-mitao/peach</a> +12,255 ★<br>#4 <a href='https://github.com/debpalash/VoiceStudio'>debpalash/VoiceStudio</a> +12,194 ★<br>#5 <a href='https://github.com/DietrichGebert/ponytail'>DietrichGebert/ponytail</a> +9,331 ★ ← 新进<br><br>统计窗口：Oct 20, 2026 – Oct 26, 2026<br>当前排名：#5<br>统计期内新增星：+9,331<br>总星数：177,824<br><a href='https://www.star-history.com/#DietrichGebert/ponytail&amp;Date'>Star History 曲线</a> · <a href='https://github.com/DietrichGebert/ponytail'>GitHub</a>"
+  },
+  {
+   "title": "🔥 新进前5 #4 debpalash/VoiceStudio｜前5：rea +54,125 / security-audit-skill +16,209 / peach +12,255 / VoiceStudio +12,194 / ponytail +9,331",
+   "link": "https://github.com/debpalash/VoiceStudio",
+   "guid": "Oct 20, 2026 – Oct 26, 2026|top5|debpalash/VoiceStudio",
+   "pubDate": "Tue, 27 Oct 2026 18:47:08 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +54,125 ★<br>#2 <a href='https://github.com/cloudflare/security-audit-skill'>cloudflare/security-audit-skill</a> +16,209 ★<br>#3 <a href='https://github.com/peach-mitao/peach'>peach-mitao/peach</a> +12,255 ★<br>#4 <a href='https://github.com/debpalash/VoiceStudio'>debpalash/VoiceStudio</a> +12,194 ★ ← 新进<br>#5 <a href='https://github.com/DietrichGebert/ponytail'>DietrichGebert/ponytail</a> +9,331 ★<br><br>统计窗口：Oct 20, 2026 – Oct 26, 2026<br>当前排名：#4<br>统计期内新增星：+12,194<br>总星数：90,766<br><a href='https://www.star-history.com/#debpalash/VoiceStudio&amp;Date'>Star History 曲线</a> · <a href='https://github.com/debpalash/VoiceStudio'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #20 hmjz100/LinkSwift（+5,313 ★）",
+   "link": "https://github.com/hmjz100/LinkSwift",
+   "guid": "Oct 20, 2026 – Oct 26, 2026|new|hmjz100/LinkSwift",
+   "pubDate": "Tue, 27 Oct 2026 18:47:08 +0000",
+   "desc": "统计窗口：Oct 20, 2026 – Oct 26, 2026<br>当前排名：#20<br>统计期内新增星：+5,313<br>总星数：32,561<br><a href='https://www.star-history.com/#hmjz100/LinkSwift&amp;Date'>Star History 曲线</a> · <a href='https://github.com/hmjz100/LinkSwift'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #11 Nutlope/hallmark（+6,821 ★）",
+   "link": "https://github.com/Nutlope/hallmark",
+   "guid": "Oct 20, 2026 – Oct 26, 2026|new|Nutlope/hallmark",
+   "pubDate": "Tue, 27 Oct 2026 18:47:08 +0000",
+   "desc": "统计窗口：Oct 20, 2026 – Oct 26, 2026<br>当前排名：#11<br>统计期内新增星：+6,821<br>总星数：38,257<br><a href='https://www.star-history.com/#Nutlope/hallmark&amp;Date'>Star History 曲线</a> · <a href='https://github.com/Nutlope/hallmark'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #5 peach-mitao/peach｜前5：rea +60,520 / security-audit-skill +16,234 / harness2 +11,714 / ai-job-search +11,705 / peach +11,634",
    "link": "https://github.com/peach-mitao/peach",
@@ -164,10 +192,11 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "49faf32937a2b49fc7f45f9b79d1a4ea0791f33a348b551229a10183ec722106",
+ "source_hash": "a4930a12f5f7b6f3e0cbfa91095139b3fff1927b28429016346ac6124328b20f",
  "window_guids": [
-  "Oct 19, 2026 – Oct 25, 2026|new|ifixai-ai/iFixAi",
-  "Oct 19, 2026 – Oct 25, 2026|new|pbakaus/impeccable",
-  "Oct 19, 2026 – Oct 25, 2026|top5|peach-mitao/peach"
+  "Oct 20, 2026 – Oct 26, 2026|new|Nutlope/hallmark",
+  "Oct 20, 2026 – Oct 26, 2026|new|hmjz100/LinkSwift",
+  "Oct 20, 2026 – Oct 26, 2026|top5|DietrichGebert/ponytail",
+  "Oct 20, 2026 – Oct 26, 2026|top5|debpalash/VoiceStudio"
  ]
 }
