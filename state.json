@@ -1,35 +1,56 @@
 {
- "window": "Oct 20, 2026 – Oct 26, 2026",
+ "window": "Oct 21, 2026 – Oct 27, 2026",
  "top20": [
   "morluto/rea",
   "cloudflare/security-audit-skill",
   "peach-mitao/peach",
   "debpalash/VoiceStudio",
+  "Nutlope/hallmark",
   "DietrichGebert/ponytail",
   "stablyai/orca",
   "deepseek-ai/deepseek-harness",
-  "ai-job-search-dev/ai-job-search",
-  "google-research/harness2",
-  "Graphify-Labs/graphify",
-  "Nutlope/hallmark",
-  "mattpocock/skills",
-  "xerj-org/xerj",
+  "elayadesign/ai-design-skills",
   "pbakaus/impeccable",
+  "hmjz100/LinkSwift",
+  "Graphify-Labs/graphify",
   "affaan-m/ECC",
+  "mattpocock/skills",
   "ifixai-ai/iFixAi",
   "yetone/magpie",
-  "YuJunZhiXue/dsh-purge",
+  "ai-job-search-dev/ai-job-search",
   "heygen-com/hyperframes",
-  "hmjz100/LinkSwift"
+  "YuJunZhiXue/dsh-purge",
+  "TauricResearch/TradingAgents"
  ],
  "top5": [
   "morluto/rea",
   "cloudflare/security-audit-skill",
   "peach-mitao/peach",
   "debpalash/VoiceStudio",
-  "DietrichGebert/ponytail"
+  "Nutlope/hallmark"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #5 Nutlope/hallmark｜前5：rea +48,657 / security-audit-skill +15,959 / peach +12,766 / VoiceStudio +12,699 / hallmark +9,067",
+   "link": "https://github.com/Nutlope/hallmark",
+   "guid": "Oct 21, 2026 – Oct 27, 2026|top5|Nutlope/hallmark",
+   "pubDate": "Wed, 28 Oct 2026 18:57:14 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +48,657 ★<br>#2 <a href='https://github.com/cloudflare/security-audit-skill'>cloudflare/security-audit-skill</a> +15,959 ★<br>#3 <a href='https://github.com/peach-mitao/peach'>peach-mitao/peach</a> +12,766 ★<br>#4 <a href='https://github.com/debpalash/VoiceStudio'>debpalash/VoiceStudio</a> +12,699 ★<br>#5 <a href='https://github.com/Nutlope/hallmark'>Nutlope/hallmark</a> +9,067 ★ ← 新进<br><br>统计窗口：Oct 21, 2026 – Oct 27, 2026<br>当前排名：#5<br>统计期内新增星：+9,067<br>总星数：40,250<br><a href='https://www.star-history.com/#Nutlope/hallmark&amp;Date'>Star History 曲线</a> · <a href='https://github.com/Nutlope/hallmark'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #20 TauricResearch/TradingAgents（+5,221 ★）",
+   "link": "https://github.com/TauricResearch/TradingAgents",
+   "guid": "Oct 21, 2026 – Oct 27, 2026|new|TauricResearch/TradingAgents",
+   "pubDate": "Wed, 28 Oct 2026 18:57:14 +0000",
+   "desc": "统计窗口：Oct 21, 2026 – Oct 27, 2026<br>当前排名：#20<br>统计期内新增星：+5,221<br>总星数：117,709<br><a href='https://www.star-history.com/#TauricResearch/TradingAgents&amp;Date'>Star History 曲线</a> · <a href='https://github.com/TauricResearch/TradingAgents'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #9 elayadesign/ai-design-skills（+7,215 ★）",
+   "link": "https://github.com/elayadesign/ai-design-skills",
+   "guid": "Oct 21, 2026 – Oct 27, 2026|new|elayadesign/ai-design-skills",
+   "pubDate": "Wed, 28 Oct 2026 18:57:14 +0000",
+   "desc": "统计窗口：Oct 21, 2026 – Oct 27, 2026<br>当前排名：#9<br>统计期内新增星：+7,215<br>总星数：10,767<br><a href='https://www.star-history.com/#elayadesign/ai-design-skills&amp;Date'>Star History 曲线</a> · <a href='https://github.com/elayadesign/ai-design-skills'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #5 DietrichGebert/ponytail｜前5：rea +54,125 / security-audit-skill +16,209 / peach +12,255 / VoiceStudio +12,194 / ponytail +9,331",
    "link": "https://github.com/DietrichGebert/ponytail",
@@ -192,11 +213,10 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "a4930a12f5f7b6f3e0cbfa91095139b3fff1927b28429016346ac6124328b20f",
+ "source_hash": "e4e9b83db263b339fa601aca38b32297c75fa86ee743953d9b8e3e479ea3e728",
  "window_guids": [
-  "Oct 20, 2026 – Oct 26, 2026|new|Nutlope/hallmark",
-  "Oct 20, 2026 – Oct 26, 2026|new|hmjz100/LinkSwift",
-  "Oct 20, 2026 – Oct 26, 2026|top5|DietrichGebert/ponytail",
-  "Oct 20, 2026 – Oct 26, 2026|top5|debpalash/VoiceStudio"
+  "Oct 21, 2026 – Oct 27, 2026|new|TauricResearch/TradingAgents",
+  "Oct 21, 2026 – Oct 27, 2026|new|elayadesign/ai-design-skills",
+  "Oct 21, 2026 – Oct 27, 2026|top5|Nutlope/hallmark"
  ]
 }
