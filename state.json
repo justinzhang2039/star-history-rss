@@ -1,35 +1,56 @@
 {
- "window": "Oct 21, 2026 – Oct 27, 2026",
+ "window": "Oct 22, 2026 – Oct 28, 2026",
  "top20": [
   "morluto/rea",
+  "Gathin23/cleanyourtv",
   "cloudflare/security-audit-skill",
-  "peach-mitao/peach",
   "debpalash/VoiceStudio",
+  "peach-mitao/peach",
   "Nutlope/hallmark",
-  "DietrichGebert/ponytail",
-  "stablyai/orca",
-  "deepseek-ai/deepseek-harness",
-  "elayadesign/ai-design-skills",
   "pbakaus/impeccable",
   "hmjz100/LinkSwift",
-  "Graphify-Labs/graphify",
-  "affaan-m/ECC",
-  "mattpocock/skills",
-  "ifixai-ai/iFixAi",
-  "yetone/magpie",
-  "ai-job-search-dev/ai-job-search",
-  "heygen-com/hyperframes",
+  "elayadesign/ai-design-skills",
+  "deepseek-ai/deepseek-harness",
+  "stablyai/orca",
+  "DietrichGebert/ponytail",
+  "HKUDS/DeepTutor",
   "YuJunZhiXue/dsh-purge",
-  "TauricResearch/TradingAgents"
+  "affaan-m/ECC",
+  "Graphify-Labs/graphify",
+  "mattpocock/skills",
+  "yetone/magpie",
+  "ifixai-ai/iFixAi",
+  "heygen-com/hyperframes"
  ],
  "top5": [
   "morluto/rea",
+  "Gathin23/cleanyourtv",
   "cloudflare/security-audit-skill",
-  "peach-mitao/peach",
   "debpalash/VoiceStudio",
-  "Nutlope/hallmark"
+  "peach-mitao/peach"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #2 Gathin23/cleanyourtv｜前5：rea +44,697 / cleanyourtv +23,651 / security-audit-skill +14,697 / VoiceStudio +12,731 / peach +12,297",
+   "link": "https://github.com/Gathin23/cleanyourtv",
+   "guid": "Oct 22, 2026 – Oct 28, 2026|top5|Gathin23/cleanyourtv",
+   "pubDate": "Thu, 29 Oct 2026 19:03:15 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +44,697 ★<br>#2 <a href='https://github.com/Gathin23/cleanyourtv'>Gathin23/cleanyourtv</a> +23,651 ★ ← 新进<br>#3 <a href='https://github.com/cloudflare/security-audit-skill'>cloudflare/security-audit-skill</a> +14,697 ★<br>#4 <a href='https://github.com/debpalash/VoiceStudio'>debpalash/VoiceStudio</a> +12,731 ★<br>#5 <a href='https://github.com/peach-mitao/peach'>peach-mitao/peach</a> +12,297 ★<br><br>统计窗口：Oct 22, 2026 – Oct 28, 2026<br>当前排名：#2<br>统计期内新增星：+23,651<br>总星数：44,962<br><a href='https://www.star-history.com/#Gathin23/cleanyourtv&amp;Date'>Star History 曲线</a> · <a href='https://github.com/Gathin23/cleanyourtv'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #13 HKUDS/DeepTutor（+6,604 ★）",
+   "link": "https://github.com/HKUDS/DeepTutor",
+   "guid": "Oct 22, 2026 – Oct 28, 2026|new|HKUDS/DeepTutor",
+   "pubDate": "Thu, 29 Oct 2026 19:03:15 +0000",
+   "desc": "统计窗口：Oct 22, 2026 – Oct 28, 2026<br>当前排名：#13<br>统计期内新增星：+6,604<br>总星数：49,448<br><a href='https://www.star-history.com/#HKUDS/DeepTutor&amp;Date'>Star History 曲线</a> · <a href='https://github.com/HKUDS/DeepTutor'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #2 Gathin23/cleanyourtv（+23,651 ★）",
+   "link": "https://github.com/Gathin23/cleanyourtv",
+   "guid": "Oct 22, 2026 – Oct 28, 2026|new|Gathin23/cleanyourtv",
+   "pubDate": "Thu, 29 Oct 2026 19:03:15 +0000",
+   "desc": "统计窗口：Oct 22, 2026 – Oct 28, 2026<br>当前排名：#2<br>统计期内新增星：+23,651<br>总星数：44,962<br><a href='https://www.star-history.com/#Gathin23/cleanyourtv&amp;Date'>Star History 曲线</a> · <a href='https://github.com/Gathin23/cleanyourtv'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #5 Nutlope/hallmark｜前5：rea +48,657 / security-audit-skill +15,959 / peach +12,766 / VoiceStudio +12,699 / hallmark +9,067",
    "link": "https://github.com/Nutlope/hallmark",
@@ -213,10 +234,10 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "e4e9b83db263b339fa601aca38b32297c75fa86ee743953d9b8e3e479ea3e728",
+ "source_hash": "5f7e38e93eaeeeb5eb1fd649d3eff37d928629954c56b2a0bec5fda35f498e02",
  "window_guids": [
-  "Oct 21, 2026 – Oct 27, 2026|new|TauricResearch/TradingAgents",
-  "Oct 21, 2026 – Oct 27, 2026|new|elayadesign/ai-design-skills",
-  "Oct 21, 2026 – Oct 27, 2026|top5|Nutlope/hallmark"
+  "Oct 22, 2026 – Oct 28, 2026|new|Gathin23/cleanyourtv",
+  "Oct 22, 2026 – Oct 28, 2026|new|HKUDS/DeepTutor",
+  "Oct 22, 2026 – Oct 28, 2026|top5|Gathin23/cleanyourtv"
  ]
 }
