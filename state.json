@@ -1,25 +1,25 @@
 {
- "window": "Oct 22, 2026 – Oct 28, 2026",
+ "window": "Oct 23, 2026 – Oct 29, 2026",
  "top20": [
   "morluto/rea",
   "Gathin23/cleanyourtv",
   "cloudflare/security-audit-skill",
   "debpalash/VoiceStudio",
-  "peach-mitao/peach",
   "Nutlope/hallmark",
   "pbakaus/impeccable",
-  "hmjz100/LinkSwift",
   "elayadesign/ai-design-skills",
+  "hmjz100/LinkSwift",
+  "peach-mitao/peach",
+  "HKUDS/DeepTutor",
   "deepseek-ai/deepseek-harness",
   "stablyai/orca",
-  "DietrichGebert/ponytail",
-  "HKUDS/DeepTutor",
   "YuJunZhiXue/dsh-purge",
+  "DietrichGebert/ponytail",
   "affaan-m/ECC",
-  "Graphify-Labs/graphify",
-  "mattpocock/skills",
+  "togg53192-cmd/jailbreaks",
   "yetone/magpie",
-  "ifixai-ai/iFixAi",
+  "mattpocock/skills",
+  "Graphify-Labs/graphify",
   "heygen-com/hyperframes"
  ],
  "top5": [
@@ -27,9 +27,23 @@
   "Gathin23/cleanyourtv",
   "cloudflare/security-audit-skill",
   "debpalash/VoiceStudio",
-  "peach-mitao/peach"
+  "Nutlope/hallmark"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #5 Nutlope/hallmark｜前5：rea +41,585 / cleanyourtv +20,597 / security-audit-skill +13,078 / VoiceStudio +12,787 / hallmark +11,445",
+   "link": "https://github.com/Nutlope/hallmark",
+   "guid": "Oct 23, 2026 – Oct 29, 2026|top5|Nutlope/hallmark",
+   "pubDate": "Fri, 30 Oct 2026 18:41:27 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +41,585 ★<br>#2 <a href='https://github.com/Gathin23/cleanyourtv'>Gathin23/cleanyourtv</a> +20,597 ★<br>#3 <a href='https://github.com/cloudflare/security-audit-skill'>cloudflare/security-audit-skill</a> +13,078 ★<br>#4 <a href='https://github.com/debpalash/VoiceStudio'>debpalash/VoiceStudio</a> +12,787 ★<br>#5 <a href='https://github.com/Nutlope/hallmark'>Nutlope/hallmark</a> +11,445 ★ ← 新进<br><br>统计窗口：Oct 23, 2026 – Oct 29, 2026<br>当前排名：#5<br>统计期内新增星：+11,445<br>总星数：42,514<br><a href='https://www.star-history.com/#Nutlope/hallmark&amp;Date'>Star History 曲线</a> · <a href='https://github.com/Nutlope/hallmark'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #16 togg53192-cmd/jailbreaks（+6,087 ★）",
+   "link": "https://github.com/togg53192-cmd/jailbreaks",
+   "guid": "Oct 23, 2026 – Oct 29, 2026|new|togg53192-cmd/jailbreaks",
+   "pubDate": "Fri, 30 Oct 2026 18:41:27 +0000",
+   "desc": "统计窗口：Oct 23, 2026 – Oct 29, 2026<br>当前排名：#16<br>统计期内新增星：+6,087<br>总星数：10,266<br><a href='https://www.star-history.com/#togg53192-cmd/jailbreaks&amp;Date'>Star History 曲线</a> · <a href='https://github.com/togg53192-cmd/jailbreaks'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #2 Gathin23/cleanyourtv｜前5：rea +44,697 / cleanyourtv +23,651 / security-audit-skill +14,697 / VoiceStudio +12,731 / peach +12,297",
    "link": "https://github.com/Gathin23/cleanyourtv",
@@ -234,10 +248,9 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "5f7e38e93eaeeeb5eb1fd649d3eff37d928629954c56b2a0bec5fda35f498e02",
+ "source_hash": "525fbd31d9005b4fb9d678dee7e0966691d1ff20fad172f2b06834e6e9a75b75",
  "window_guids": [
-  "Oct 22, 2026 – Oct 28, 2026|new|Gathin23/cleanyourtv",
-  "Oct 22, 2026 – Oct 28, 2026|new|HKUDS/DeepTutor",
-  "Oct 22, 2026 – Oct 28, 2026|top5|Gathin23/cleanyourtv"
+  "Oct 23, 2026 – Oct 29, 2026|new|togg53192-cmd/jailbreaks",
+  "Oct 23, 2026 – Oct 29, 2026|top5|Nutlope/hallmark"
  ]
 }
