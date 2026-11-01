@@ -1,35 +1,49 @@
 {
- "window": "Oct 24, 2026 – Oct 30, 2026",
+ "window": "Oct 25, 2026 – Oct 31, 2026",
  "top20": [
   "morluto/rea",
   "Gathin23/cleanyourtv",
+  "pbakaus/impeccable",
   "debpalash/VoiceStudio",
   "Nutlope/hallmark",
-  "pbakaus/impeccable",
+  "HKUDS/DeepTutor",
   "cloudflare/security-audit-skill",
   "elayadesign/ai-design-skills",
-  "HKUDS/DeepTutor",
   "hmjz100/LinkSwift",
   "togg53192-cmd/jailbreaks",
+  "ifixai-ai/iFixAi",
   "deepseek-ai/deepseek-harness",
   "stablyai/orca",
-  "ifixai-ai/iFixAi",
   "YuJunZhiXue/dsh-purge",
-  "affaan-m/ECC",
-  "DietrichGebert/ponytail",
   "yetone/magpie",
+  "affaan-m/ECC",
+  "pingdotgg/t3code",
   "mattpocock/skills",
-  "Graphify-Labs/graphify",
-  "Panniantong/Agent-Reach"
+  "DietrichGebert/ponytail",
+  "obra/superpowers"
  ],
  "top5": [
   "morluto/rea",
   "Gathin23/cleanyourtv",
+  "pbakaus/impeccable",
   "debpalash/VoiceStudio",
-  "Nutlope/hallmark",
-  "pbakaus/impeccable"
+  "Nutlope/hallmark"
  ],
  "items": [
+  {
+   "title": "🆕 新进榜单 Top20 #20 obra/superpowers（+5,822 ★）",
+   "link": "https://github.com/obra/superpowers",
+   "guid": "Oct 25, 2026 – Oct 31, 2026|new|obra/superpowers",
+   "pubDate": "Sun, 01 Nov 2026 18:28:24 +0000",
+   "desc": "统计窗口：Oct 25, 2026 – Oct 31, 2026<br>当前排名：#20<br>统计期内新增星：+5,822<br>总星数：310,438<br><a href='https://www.star-history.com/#obra/superpowers&amp;Date'>Star History 曲线</a> · <a href='https://github.com/obra/superpowers'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #17 pingdotgg/t3code（+6,249 ★）",
+   "link": "https://github.com/pingdotgg/t3code",
+   "guid": "Oct 25, 2026 – Oct 31, 2026|new|pingdotgg/t3code",
+   "pubDate": "Sun, 01 Nov 2026 18:28:24 +0000",
+   "desc": "统计窗口：Oct 25, 2026 – Oct 31, 2026<br>当前排名：#17<br>统计期内新增星：+6,249<br>总星数：36,995<br><a href='https://www.star-history.com/#pingdotgg/t3code&amp;Date'>Star History 曲线</a> · <a href='https://github.com/pingdotgg/t3code'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #5 pbakaus/impeccable｜前5：rea +39,396 / cleanyourtv +18,436 / VoiceStudio +12,496 / hallmark +11,904 / impeccable +11,896",
    "link": "https://github.com/pbakaus/impeccable",
@@ -269,10 +283,9 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "c41ba584c387c8e8ddc04c20a7386f38e09bf3d3dd70a645ec4346b73851b2fe",
+ "source_hash": "f63f17f120ff1f2cbdb9c087c5f86f08274ef21c8b307ae3cc6c49640484a5a7",
  "window_guids": [
-  "Oct 24, 2026 – Oct 30, 2026|new|Panniantong/Agent-Reach",
-  "Oct 24, 2026 – Oct 30, 2026|new|ifixai-ai/iFixAi",
-  "Oct 24, 2026 – Oct 30, 2026|top5|pbakaus/impeccable"
+  "Oct 25, 2026 – Oct 31, 2026|new|obra/superpowers",
+  "Oct 25, 2026 – Oct 31, 2026|new|pingdotgg/t3code"
  ]
 }
