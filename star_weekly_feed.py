@@ -3,6 +3,7 @@
 import argparse
 import copy
 import datetime as dt
+from decimal import Decimal
 import hashlib
 import html
 import json
@@ -30,6 +31,15 @@ def get(url):
         return response.read().decode("utf-8")
 
 
+def parse_integer_number(token):
+    # Minifiers emit integer counts as e.g. 308e3. Decode the numeric token
+    # exactly, before validation; binary floats can round fractional values.
+    value = Decimal(token)
+    if not value.is_finite() or value != value.to_integral_value():
+        raise ValueError(f"non-integral Weekly number: {token}")
+    return int(value)
+
+
 def parse_weekly(bundle):
     # Require the from/to/repos binding used by the deployed Weekly component.
     # Ambiguous or changed layouts must fail instead of choosing an arbitrary list.
@@ -45,7 +55,7 @@ def parse_weekly(bundle):
     match = matches[0]
     rows = re.sub(r'([{,])(\w+):', r'\1"\2":', match["rows"])
     rows = rows.replace("void 0", "null")
-    return match["frm"], match["to"], json.loads(rows)
+    return match["frm"], match["to"], json.loads(rows, parse_float=parse_integer_number)
 
 
 def fetch_weekly():
@@ -274,3 +284,4 @@ def main():
 
 if __name__ == "__main__":
     raise SystemExit(main())
+

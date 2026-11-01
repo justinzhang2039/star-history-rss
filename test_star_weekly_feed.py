@@ -80,6 +80,34 @@ def bundle(repos=None, frm=FROM, to=TO, prefix="a"):
 
 
 class ParsingTests(unittest.TestCase):
+    def test_published_skills_scientific_notation_is_an_exact_integer(self):
+        # Weekly index-MakNdsl4.js, Oct 24–30, observed 2026-11-01:
+        # {name:"mattpocock/skills",new_stars:5964,stars_total:308e3,rank_change:0}
+        rows = sample_repos()
+        rows[5] = {"name": "mattpocock/skills", "new_stars": 5964,
+                   "stars_total": 308000, "rank_change": 0}
+        source = bundle(rows).replace("stars_total:308000", "stars_total:308e3")
+        frm, to, parsed = feed.parse_weekly(source)
+        self.assertEqual(parsed, rows)
+        self.assertIs(type(parsed[5]["stars_total"]), int)
+        feed.validate_weekly(frm, to, parsed, NOW.date())
+        scientific, _ = feed.update_state(legacy_state(), frm, to, parsed, NOW)
+        plain, _ = feed.update_state(legacy_state(), frm, to, rows, NOW)
+        self.assertEqual(scientific, plain)
+
+    def test_exponent_numbers_do_not_use_binary_float_rounding(self):
+        for token, expected in (("308e3", 308000), ("3.08E+5", 308000),
+                                ("308000.0", 308000), ("3080000e-1", 308000),
+                                ("9007199254740993e0", 9007199254740993)):
+            with self.subTest(token=token):
+                source = bundle().replace("stars_total:100000", "stars_total:" + token)
+                parsed = feed.parse_weekly(source)[2]
+                self.assertEqual(parsed[0]["stars_total"], expected)
+                self.assertIs(type(parsed[0]["stars_total"]), int)
+        for token in ("3.08e-1", "3.080000000000000000001e5"):
+            with self.subTest(token=token), self.assertRaisesRegex(ValueError, "non-integral"):
+                feed.parse_weekly(bundle().replace("stars_total:100000", "stars_total:" + token))
+
     def test_current_bundle_format_and_null_rank_change(self):
         frm, to, repos = feed.parse_weekly(bundle())
         self.assertEqual((frm, to), (FROM, TO))
@@ -273,6 +301,43 @@ class RunTests(unittest.TestCase):
         with redirect_stdout(io.StringIO()):
             return feed.run(self.state_path, self.out_path, self.health_path, now=now, **kwargs)
 
+    def test_scientific_notation_full_path_preserves_history_and_deduplicates(self):
+        rows = sample_repos()
+        rows[0]["name"] = "example/new-entry"
+        rows[5].update(new_stars=5964, stars_total=308000, rank_change=0)
+        source = bundle(rows).replace("stars_total:308000", "stars_total:308e3")
+        home = '<script src="/assets/index-regression.js"></script>'
+        with patch.object(feed, "get", side_effect=[home, source] * 2):
+            self.assertEqual(self.run_feed(), 0)
+            state_before = self.state_path.read_bytes()
+            feed_before = self.out_path.read_bytes()
+            self.assertEqual(self.run_feed(), 0)
+        self.assertEqual(self.state_path.read_bytes(), state_before)
+        self.assertEqual(self.out_path.read_bytes(), feed_before)
+        updated = json.loads(state_before)
+        self.assertEqual(updated["items"][-len(LEGACY_STATE["items"]):], LEGACY_STATE["items"])
+        self.assertEqual(len(updated["items"]), len(LEGACY_STATE["items"]) + 2)
+        self.assertEqual(len({i["guid"] for i in updated["items"]}), len(updated["items"]))
+        self.assertEqual(json.loads(self.health_path.read_text())["new_items"], 0)
+
+    def test_invalid_numeric_tokens_preserve_files_and_last_success(self):
+        source = ("Oct 14, 2026", "Oct 20, 2026", sample_repos(), ASSET)
+        with patch.object(feed, "fetch_weekly", return_value=source):
+            self.assertEqual(self.run_feed(), 0)
+        successful = json.loads(self.health_path.read_text())["last_successful_fetch_at"]
+        state_before, feed_before = self.state_path.read_bytes(), self.out_path.read_bytes()
+        for token in ("-308e3", "3.08e-1", "3.080000000000000000001e5",
+                      '"308e3"', "null", "true", "NaN", "Infinity"):
+            source = bundle().replace("stars_total:100000", "stars_total:" + token)
+            home = '<script src="/assets/index-regression.js"></script>'
+            with self.subTest(token=token), patch.object(feed, "get", side_effect=[home, source]):
+                self.assertEqual(self.run_feed(now=NOW + dt.timedelta(hours=1)), 1)
+                self.assertEqual(self.state_path.read_bytes(), state_before)
+                self.assertEqual(self.out_path.read_bytes(), feed_before)
+                health = json.loads(self.health_path.read_text())
+                self.assertEqual(health["status"], "error")
+                self.assertEqual(health["last_successful_fetch_at"], successful)
+
     def test_regressed_window_records_first_observation_and_preserves_it_on_retry(self):
         with patch.object(feed, "fetch_weekly", return_value=(FROM, TO, sample_repos(), ASSET)):
             self.assertEqual(self.run_feed(), 0)
@@ -374,3 +439,4 @@ class RunTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
