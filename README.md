@@ -35,6 +35,23 @@ GitHub Actions 每天计划于 01:30 和 13:30 UTC 各检查一次（约北京�
 
 ## 如何判断运行状态
 
+### 2026-11-01：科学计数法解析修复
+
+10 月 31 日 [失败运行 41226411832](https://github.com/justinzhang2039/star-history-rss/actions/runs/41226411832)报 `invalid stars_total for mattpocock/skills`。11 月 1 日约 00:15 UTC 直接下载现网首页及其引用的数据包后，对比结果如下：
+
+| 来源 | Weekly 窗口 | `new_stars` | `stars_total` 原始字面量 | 原解析类型 |
+| --- | --- | --- | --- | --- |
+| [成功运行 41180562350](https://github.com/justinzhang2039/star-history-rss/actions/runs/41180562350)对应的[旧数据包](https://www.star-history.com/assets/index-BMeZ4phw.js) | Oct 23–29, 2026 | 5907 | `307167` | `int` |
+| 首页当前引用的[现网数据包](https://www.star-history.com/assets/index-MakNdsl4.js) | Oct 24–30, 2026 | 5964 | `308e3`（308000） | `float`，值 `308000.0` |
+
+旧数据包的规范化榜单 SHA-256 为 `525fbd31d9005b4fb9d678dee7e0966691d1ff20fad172f2b06834e6e9a75b75`，与成功运行日志一致。当前数据的字段和 Weekly 结构未变；问题是本地把有效的科学计数法整数解码为浮点数后，触发了严格类型校验。当前包可复现同一错误；失败运行未保存原始包，不能独立证明当时读取的字节与当前包完全一致。
+
+修复仅改变数字解码：用标准库 `Decimal` 精确判断数值是否为整数，再转换为 `int`；不经二进制浮点数四舍五入或截断。仍拒绝小数、负数、字符串、布尔值、缺失字段等无效数据。完整 Top20、窗口校验、GUID 去重、失败时保护正式数据和 48 小时策略保持原样，无新增依赖。
+
+验证：`python3 -m unittest -v`，28 项通过；新增覆盖真实 `308e3`、大整数精度、极小小数尾差、无效数字保留文件和最后成功时间，以及从抓取入口到历史保留及重复运行去重。另在正式数据的临时副本上回放刚下载的首页与数据包：得到 `fresh`、34 条记录（原 31 条全部保留，新增 3 条），再次回放新增 0 条且状态/RSS 字节一致。
+
+本机直接调用脚本联网抓取遇到 TLS/EOF 错误；上述回放只替换网络读取，使用真实下载数据，不能冒充 GitHub Actions 联网运行成功。合入后仍需由现有主分支工作流确认实际抓取、数据提交与健康状态；本次未手改正式 RSS、状态或健康文件。复测步骤见下方“本地验证”。
+
 每次检查写入 `health.json`，并在 Actions 摘要中展示结果：
 
 | 字段 | 含义 |
@@ -102,3 +119,4 @@ PY
 ```
 
 若需调整容忍时间，本地设置环境变量 `MAX_SOURCE_AGE_HOURS`，Actions 在仓库 Settings → Secrets and variables → Actions → Variables 设置同名变量；不要仅为消除失败状态放宽阈值，应先核对源窗口与上游证据。
+
