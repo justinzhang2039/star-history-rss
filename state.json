@@ -1,35 +1,56 @@
 {
- "window": "Oct 23, 2026 – Oct 29, 2026",
+ "window": "Oct 24, 2026 – Oct 30, 2026",
  "top20": [
   "morluto/rea",
   "Gathin23/cleanyourtv",
-  "cloudflare/security-audit-skill",
   "debpalash/VoiceStudio",
   "Nutlope/hallmark",
   "pbakaus/impeccable",
+  "cloudflare/security-audit-skill",
   "elayadesign/ai-design-skills",
-  "hmjz100/LinkSwift",
-  "peach-mitao/peach",
   "HKUDS/DeepTutor",
+  "hmjz100/LinkSwift",
+  "togg53192-cmd/jailbreaks",
   "deepseek-ai/deepseek-harness",
   "stablyai/orca",
+  "ifixai-ai/iFixAi",
   "YuJunZhiXue/dsh-purge",
-  "DietrichGebert/ponytail",
   "affaan-m/ECC",
-  "togg53192-cmd/jailbreaks",
+  "DietrichGebert/ponytail",
   "yetone/magpie",
   "mattpocock/skills",
   "Graphify-Labs/graphify",
-  "heygen-com/hyperframes"
+  "Panniantong/Agent-Reach"
  ],
  "top5": [
   "morluto/rea",
   "Gathin23/cleanyourtv",
-  "cloudflare/security-audit-skill",
   "debpalash/VoiceStudio",
-  "Nutlope/hallmark"
+  "Nutlope/hallmark",
+  "pbakaus/impeccable"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #5 pbakaus/impeccable｜前5：rea +39,396 / cleanyourtv +18,436 / VoiceStudio +12,496 / hallmark +11,904 / impeccable +11,896",
+   "link": "https://github.com/pbakaus/impeccable",
+   "guid": "Oct 24, 2026 – Oct 30, 2026|top5|pbakaus/impeccable",
+   "pubDate": "Sun, 01 Nov 2026 00:20:08 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +39,396 ★<br>#2 <a href='https://github.com/Gathin23/cleanyourtv'>Gathin23/cleanyourtv</a> +18,436 ★<br>#3 <a href='https://github.com/debpalash/VoiceStudio'>debpalash/VoiceStudio</a> +12,496 ★<br>#4 <a href='https://github.com/Nutlope/hallmark'>Nutlope/hallmark</a> +11,904 ★<br>#5 <a href='https://github.com/pbakaus/impeccable'>pbakaus/impeccable</a> +11,896 ★ ← 新进<br><br>统计窗口：Oct 24, 2026 – Oct 30, 2026<br>当前排名：#5<br>统计期内新增星：+11,896<br>总星数：97,829<br><a href='https://www.star-history.com/#pbakaus/impeccable&amp;Date'>Star History 曲线</a> · <a href='https://github.com/pbakaus/impeccable'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #20 Panniantong/Agent-Reach（+5,653 ★）",
+   "link": "https://github.com/Panniantong/Agent-Reach",
+   "guid": "Oct 24, 2026 – Oct 30, 2026|new|Panniantong/Agent-Reach",
+   "pubDate": "Sun, 01 Nov 2026 00:20:08 +0000",
+   "desc": "统计窗口：Oct 24, 2026 – Oct 30, 2026<br>当前排名：#20<br>统计期内新增星：+5,653<br>总星数：107,114<br><a href='https://www.star-history.com/#Panniantong/Agent-Reach&amp;Date'>Star History 曲线</a> · <a href='https://github.com/Panniantong/Agent-Reach'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #13 ifixai-ai/iFixAi（+6,733 ★）",
+   "link": "https://github.com/ifixai-ai/iFixAi",
+   "guid": "Oct 24, 2026 – Oct 30, 2026|new|ifixai-ai/iFixAi",
+   "pubDate": "Sun, 01 Nov 2026 00:20:08 +0000",
+   "desc": "统计窗口：Oct 24, 2026 – Oct 30, 2026<br>当前排名：#13<br>统计期内新增星：+6,733<br>总星数：40,742<br><a href='https://www.star-history.com/#ifixai-ai/iFixAi&amp;Date'>Star History 曲线</a> · <a href='https://github.com/ifixai-ai/iFixAi'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #5 Nutlope/hallmark｜前5：rea +41,585 / cleanyourtv +20,597 / security-audit-skill +13,078 / VoiceStudio +12,787 / hallmark +11,445",
    "link": "https://github.com/Nutlope/hallmark",
@@ -248,9 +269,10 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "525fbd31d9005b4fb9d678dee7e0966691d1ff20fad172f2b06834e6e9a75b75",
+ "source_hash": "c41ba584c387c8e8ddc04c20a7386f38e09bf3d3dd70a645ec4346b73851b2fe",
  "window_guids": [
-  "Oct 23, 2026 – Oct 29, 2026|new|togg53192-cmd/jailbreaks",
-  "Oct 23, 2026 – Oct 29, 2026|top5|Nutlope/hallmark"
+  "Oct 24, 2026 – Oct 30, 2026|new|Panniantong/Agent-Reach",
+  "Oct 24, 2026 – Oct 30, 2026|new|ifixai-ai/iFixAi",
+  "Oct 24, 2026 – Oct 30, 2026|top5|pbakaus/impeccable"
  ]
 }

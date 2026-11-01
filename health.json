@@ -1,10 +1,18 @@
 {
-  "checked_at": "2026-10-31T17:50:07.569050+00:00",
-  "status": "error",
+  "checked_at": "2026-11-01T00:20:08.059094+00:00",
+  "status": "fresh",
   "source_url": "https://www.star-history.com/",
-  "last_successful_fetch_at": "2026-10-31T07:25:57.655080+00:00",
-  "source_window": "Oct 23, 2026 – Oct 29, 2026",
-  "window_first_observed_at": "2026-10-30T18:41:27.422622+00:00",
-  "accepted_window": "Oct 23, 2026 – Oct 29, 2026",
-  "error": "invalid stars_total for mattpocock/skills"
+  "last_successful_fetch_at": "2026-11-01T00:20:08.059094+00:00",
+  "source_window": "Oct 24, 2026 – Oct 30, 2026",
+  "window_first_observed_at": "2026-11-01T00:20:08.059094+00:00",
+  "accepted_window": "Oct 24, 2026 – Oct 30, 2026",
+  "source_asset_url": "https://www.star-history.com/assets/index-MakNdsl4.js",
+  "source_age_hours": 24.34,
+  "max_source_age_hours": 48.0,
+  "source_hash": "c41ba584c387c8e8ddc04c20a7386f38e09bf3d3dd70a645ec4346b73851b2fe",
+  "window_unchanged": false,
+  "content_changed": true,
+  "new_items": 3,
+  "item_count": 34,
+  "error": null
 }
