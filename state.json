@@ -1,35 +1,49 @@
 {
- "window": "Oct 25, 2026 – Oct 31, 2026",
+ "window": "Oct 26, 2026 – Nov 1, 2026",
  "top20": [
   "morluto/rea",
   "Gathin23/cleanyourtv",
   "pbakaus/impeccable",
+  "HKUDS/DeepTutor",
   "debpalash/VoiceStudio",
   "Nutlope/hallmark",
-  "HKUDS/DeepTutor",
-  "cloudflare/security-audit-skill",
-  "elayadesign/ai-design-skills",
   "hmjz100/LinkSwift",
   "togg53192-cmd/jailbreaks",
+  "cloudflare/security-audit-skill",
+  "pingdotgg/t3code",
   "ifixai-ai/iFixAi",
   "deepseek-ai/deepseek-harness",
+  "elayadesign/ai-design-skills",
   "stablyai/orca",
+  "thedotmack/claude-mem",
   "YuJunZhiXue/dsh-purge",
   "yetone/magpie",
-  "affaan-m/ECC",
-  "pingdotgg/t3code",
   "mattpocock/skills",
-  "DietrichGebert/ponytail",
-  "obra/superpowers"
+  "affaan-m/ECC",
+  "DietrichGebert/ponytail"
  ],
  "top5": [
   "morluto/rea",
   "Gathin23/cleanyourtv",
   "pbakaus/impeccable",
-  "debpalash/VoiceStudio",
-  "Nutlope/hallmark"
+  "HKUDS/DeepTutor",
+  "debpalash/VoiceStudio"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #4 HKUDS/DeepTutor｜前5：rea +34,332 / cleanyourtv +13,312 / impeccable +11,819 / DeepTutor +11,153 / VoiceStudio +11,076",
+   "link": "https://github.com/HKUDS/DeepTutor",
+   "guid": "Oct 26, 2026 – Nov 1, 2026|top5|HKUDS/DeepTutor",
+   "pubDate": "Mon, 02 Nov 2026 22:23:13 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +34,332 ★<br>#2 <a href='https://github.com/Gathin23/cleanyourtv'>Gathin23/cleanyourtv</a> +13,312 ★<br>#3 <a href='https://github.com/pbakaus/impeccable'>pbakaus/impeccable</a> +11,819 ★<br>#4 <a href='https://github.com/HKUDS/DeepTutor'>HKUDS/DeepTutor</a> +11,153 ★ ← 新进<br>#5 <a href='https://github.com/debpalash/VoiceStudio'>debpalash/VoiceStudio</a> +11,076 ★<br><br>统计窗口：Oct 26, 2026 – Nov 1, 2026<br>当前排名：#4<br>统计期内新增星：+11,153<br>总星数：54,238<br><a href='https://www.star-history.com/#HKUDS/DeepTutor&amp;Date'>Star History 曲线</a> · <a href='https://github.com/HKUDS/DeepTutor'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #15 thedotmack/claude-mem（+6,863 ★）",
+   "link": "https://github.com/thedotmack/claude-mem",
+   "guid": "Oct 26, 2026 – Nov 1, 2026|new|thedotmack/claude-mem",
+   "pubDate": "Mon, 02 Nov 2026 22:23:13 +0000",
+   "desc": "统计窗口：Oct 26, 2026 – Nov 1, 2026<br>当前排名：#15<br>统计期内新增星：+6,863<br>总星数：110,522<br><a href='https://www.star-history.com/#thedotmack/claude-mem&amp;Date'>Star History 曲线</a> · <a href='https://github.com/thedotmack/claude-mem'>GitHub</a>"
+  },
   {
    "title": "🆕 新进榜单 Top20 #20 obra/superpowers（+5,822 ★）",
    "link": "https://github.com/obra/superpowers",
@@ -283,9 +297,9 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "f63f17f120ff1f2cbdb9c087c5f86f08274ef21c8b307ae3cc6c49640484a5a7",
+ "source_hash": "b0d28196b2d285f3ef16456f43af97cd3aba3f76884648aecfb0924dc486dcdb",
  "window_guids": [
-  "Oct 25, 2026 – Oct 31, 2026|new|obra/superpowers",
-  "Oct 25, 2026 – Oct 31, 2026|new|pingdotgg/t3code"
+  "Oct 26, 2026 – Nov 1, 2026|new|thedotmack/claude-mem",
+  "Oct 26, 2026 – Nov 1, 2026|top5|HKUDS/DeepTutor"
  ]
 }
