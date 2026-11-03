@@ -1,35 +1,70 @@
 {
- "window": "Oct 26, 2026 – Nov 1, 2026",
+ "window": "Oct 27, 2026 – Nov 2, 2026",
  "top20": [
   "morluto/rea",
-  "Gathin23/cleanyourtv",
+  "pingdotgg/t3code",
   "pbakaus/impeccable",
+  "Gathin23/cleanyourtv",
   "HKUDS/DeepTutor",
   "debpalash/VoiceStudio",
   "Nutlope/hallmark",
-  "hmjz100/LinkSwift",
+  "vercel-labs/agent-desktop",
   "togg53192-cmd/jailbreaks",
   "cloudflare/security-audit-skill",
-  "pingdotgg/t3code",
   "ifixai-ai/iFixAi",
-  "deepseek-ai/deepseek-harness",
-  "elayadesign/ai-design-skills",
-  "stablyai/orca",
   "thedotmack/claude-mem",
-  "YuJunZhiXue/dsh-purge",
-  "yetone/magpie",
+  "deepseek-ai/deepseek-harness",
+  "stablyai/orca",
   "mattpocock/skills",
-  "affaan-m/ECC",
-  "DietrichGebert/ponytail"
+  "Orkas-AI/Orkas",
+  "HunYiSage/dsh-purge",
+  "Donchitos/Claude-Code-Game-Studios",
+  "hmjz100/LinkSwift",
+  "affaan-m/ECC"
  ],
  "top5": [
   "morluto/rea",
-  "Gathin23/cleanyourtv",
+  "pingdotgg/t3code",
   "pbakaus/impeccable",
-  "HKUDS/DeepTutor",
-  "debpalash/VoiceStudio"
+  "Gathin23/cleanyourtv",
+  "HKUDS/DeepTutor"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #2 pingdotgg/t3code｜前5：rea +31,602 / t3code +12,143 / impeccable +11,472 / cleanyourtv +10,857 / DeepTutor +10,212",
+   "link": "https://github.com/pingdotgg/t3code",
+   "guid": "Oct 27, 2026 – Nov 2, 2026|top5|pingdotgg/t3code",
+   "pubDate": "Tue, 03 Nov 2026 20:11:08 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +31,602 ★<br>#2 <a href='https://github.com/pingdotgg/t3code'>pingdotgg/t3code</a> +12,143 ★ ← 新进<br>#3 <a href='https://github.com/pbakaus/impeccable'>pbakaus/impeccable</a> +11,472 ★<br>#4 <a href='https://github.com/Gathin23/cleanyourtv'>Gathin23/cleanyourtv</a> +10,857 ★<br>#5 <a href='https://github.com/HKUDS/DeepTutor'>HKUDS/DeepTutor</a> +10,212 ★<br><br>统计窗口：Oct 27, 2026 – Nov 2, 2026<br>当前排名：#2<br>统计期内新增星：+12,143<br>总星数：43,712<br><a href='https://www.star-history.com/#pingdotgg/t3code&amp;Date'>Star History 曲线</a> · <a href='https://github.com/pingdotgg/t3code'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #18 Donchitos/Claude-Code-Game-Studios（+6,268 ★）",
+   "link": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+   "guid": "Oct 27, 2026 – Nov 2, 2026|new|Donchitos/Claude-Code-Game-Studios",
+   "pubDate": "Tue, 03 Nov 2026 20:11:08 +0000",
+   "desc": "统计窗口：Oct 27, 2026 – Nov 2, 2026<br>当前排名：#18<br>统计期内新增星：+6,268<br>总星数：34,401<br><a href='https://www.star-history.com/#Donchitos/Claude-Code-Game-Studios&amp;Date'>Star History 曲线</a> · <a href='https://github.com/Donchitos/Claude-Code-Game-Studios'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #17 HunYiSage/dsh-purge（+6,363 ★）",
+   "link": "https://github.com/HunYiSage/dsh-purge",
+   "guid": "Oct 27, 2026 – Nov 2, 2026|new|HunYiSage/dsh-purge",
+   "pubDate": "Tue, 03 Nov 2026 20:11:08 +0000",
+   "desc": "统计窗口：Oct 27, 2026 – Nov 2, 2026<br>当前排名：#17<br>统计期内新增星：+6,363<br>总星数：16,969<br><a href='https://www.star-history.com/#HunYiSage/dsh-purge&amp;Date'>Star History 曲线</a> · <a href='https://github.com/HunYiSage/dsh-purge'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #16 Orkas-AI/Orkas（+6,462 ★）",
+   "link": "https://github.com/Orkas-AI/Orkas",
+   "guid": "Oct 27, 2026 – Nov 2, 2026|new|Orkas-AI/Orkas",
+   "pubDate": "Tue, 03 Nov 2026 20:11:08 +0000",
+   "desc": "统计窗口：Oct 27, 2026 – Nov 2, 2026<br>当前排名：#16<br>统计期内新增星：+6,462<br>总星数：8,970<br><a href='https://www.star-history.com/#Orkas-AI/Orkas&amp;Date'>Star History 曲线</a> · <a href='https://github.com/Orkas-AI/Orkas'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #8 vercel-labs/agent-desktop（+9,148 ★）",
+   "link": "https://github.com/vercel-labs/agent-desktop",
+   "guid": "Oct 27, 2026 – Nov 2, 2026|new|vercel-labs/agent-desktop",
+   "pubDate": "Tue, 03 Nov 2026 20:11:08 +0000",
+   "desc": "统计窗口：Oct 27, 2026 – Nov 2, 2026<br>当前排名：#8<br>统计期内新增星：+9,148<br>总星数：12,077<br><a href='https://www.star-history.com/#vercel-labs/agent-desktop&amp;Date'>Star History 曲线</a> · <a href='https://github.com/vercel-labs/agent-desktop'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #4 HKUDS/DeepTutor｜前5：rea +34,332 / cleanyourtv +13,312 / impeccable +11,819 / DeepTutor +11,153 / VoiceStudio +11,076",
    "link": "https://github.com/HKUDS/DeepTutor",
@@ -297,9 +332,12 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "b0d28196b2d285f3ef16456f43af97cd3aba3f76884648aecfb0924dc486dcdb",
+ "source_hash": "186de9a7429763463a39e49695420a34086233c1ae8b470e2aa4658f4dbcaeb2",
  "window_guids": [
-  "Oct 26, 2026 – Nov 1, 2026|new|thedotmack/claude-mem",
-  "Oct 26, 2026 – Nov 1, 2026|top5|HKUDS/DeepTutor"
+  "Oct 27, 2026 – Nov 2, 2026|new|Donchitos/Claude-Code-Game-Studios",
+  "Oct 27, 2026 – Nov 2, 2026|new|HunYiSage/dsh-purge",
+  "Oct 27, 2026 – Nov 2, 2026|new|Orkas-AI/Orkas",
+  "Oct 27, 2026 – Nov 2, 2026|new|vercel-labs/agent-desktop",
+  "Oct 27, 2026 – Nov 2, 2026|top5|pingdotgg/t3code"
  ]
 }
