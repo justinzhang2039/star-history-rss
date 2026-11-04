@@ -1,35 +1,56 @@
 {
- "window": "Oct 27, 2026 – Nov 2, 2026",
+ "window": "Oct 28, 2026 – Nov 3, 2026",
  "top20": [
   "morluto/rea",
   "pingdotgg/t3code",
+  "vercel-labs/agent-desktop",
   "pbakaus/impeccable",
   "Gathin23/cleanyourtv",
-  "HKUDS/DeepTutor",
   "debpalash/VoiceStudio",
-  "Nutlope/hallmark",
-  "vercel-labs/agent-desktop",
+  "thedotmack/claude-mem",
+  "HKUDS/DeepTutor",
   "togg53192-cmd/jailbreaks",
   "cloudflare/security-audit-skill",
-  "ifixai-ai/iFixAi",
-  "thedotmack/claude-mem",
+  "Nutlope/hallmark",
   "deepseek-ai/deepseek-harness",
-  "stablyai/orca",
+  "ifixai-ai/iFixAi",
   "mattpocock/skills",
+  "Donchitos/Claude-Code-Game-Studios",
+  "Renhuai123/ziwei-doushu",
+  "stablyai/orca",
   "Orkas-AI/Orkas",
   "HunYiSage/dsh-purge",
-  "Donchitos/Claude-Code-Game-Studios",
-  "hmjz100/LinkSwift",
-  "affaan-m/ECC"
+  "milind-soni/OpenMausBot"
  ],
  "top5": [
   "morluto/rea",
   "pingdotgg/t3code",
+  "vercel-labs/agent-desktop",
   "pbakaus/impeccable",
-  "Gathin23/cleanyourtv",
-  "HKUDS/DeepTutor"
+  "Gathin23/cleanyourtv"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #3 vercel-labs/agent-desktop｜前5：rea +30,252 / t3code +14,179 / agent-desktop +11,714 / impeccable +11,031 / cleanyourtv +9,338",
+   "link": "https://github.com/vercel-labs/agent-desktop",
+   "guid": "Oct 28, 2026 – Nov 3, 2026|top5|vercel-labs/agent-desktop",
+   "pubDate": "Wed, 04 Nov 2026 20:28:35 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +30,252 ★<br>#2 <a href='https://github.com/pingdotgg/t3code'>pingdotgg/t3code</a> +14,179 ★<br>#3 <a href='https://github.com/vercel-labs/agent-desktop'>vercel-labs/agent-desktop</a> +11,714 ★ ← 新进<br>#4 <a href='https://github.com/pbakaus/impeccable'>pbakaus/impeccable</a> +11,031 ★<br>#5 <a href='https://github.com/Gathin23/cleanyourtv'>Gathin23/cleanyourtv</a> +9,338 ★<br><br>统计窗口：Oct 28, 2026 – Nov 3, 2026<br>当前排名：#3<br>统计期内新增星：+11,714<br>总星数：14,473<br><a href='https://www.star-history.com/#vercel-labs/agent-desktop&amp;Date'>Star History 曲线</a> · <a href='https://github.com/vercel-labs/agent-desktop'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #20 milind-soni/OpenMausBot（+6,050 ★）",
+   "link": "https://github.com/milind-soni/OpenMausBot",
+   "guid": "Oct 28, 2026 – Nov 3, 2026|new|milind-soni/OpenMausBot",
+   "pubDate": "Wed, 04 Nov 2026 20:28:35 +0000",
+   "desc": "统计窗口：Oct 28, 2026 – Nov 3, 2026<br>当前排名：#20<br>统计期内新增星：+6,050<br>总星数：11,956<br><a href='https://www.star-history.com/#milind-soni/OpenMausBot&amp;Date'>Star History 曲线</a> · <a href='https://github.com/milind-soni/OpenMausBot'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #16 Renhuai123/ziwei-doushu（+6,829 ★）",
+   "link": "https://github.com/Renhuai123/ziwei-doushu",
+   "guid": "Oct 28, 2026 – Nov 3, 2026|new|Renhuai123/ziwei-doushu",
+   "pubDate": "Wed, 04 Nov 2026 20:28:35 +0000",
+   "desc": "统计窗口：Oct 28, 2026 – Nov 3, 2026<br>当前排名：#16<br>统计期内新增星：+6,829<br>总星数：15,704<br><a href='https://www.star-history.com/#Renhuai123/ziwei-doushu&amp;Date'>Star History 曲线</a> · <a href='https://github.com/Renhuai123/ziwei-doushu'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #2 pingdotgg/t3code｜前5：rea +31,602 / t3code +12,143 / impeccable +11,472 / cleanyourtv +10,857 / DeepTutor +10,212",
    "link": "https://github.com/pingdotgg/t3code",
@@ -332,12 +353,10 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "186de9a7429763463a39e49695420a34086233c1ae8b470e2aa4658f4dbcaeb2",
+ "source_hash": "71a408d3bfed632c308664563d4cb57304faf8c613026260563525fa17065543",
  "window_guids": [
-  "Oct 27, 2026 – Nov 2, 2026|new|Donchitos/Claude-Code-Game-Studios",
-  "Oct 27, 2026 – Nov 2, 2026|new|HunYiSage/dsh-purge",
-  "Oct 27, 2026 – Nov 2, 2026|new|Orkas-AI/Orkas",
-  "Oct 27, 2026 – Nov 2, 2026|new|vercel-labs/agent-desktop",
-  "Oct 27, 2026 – Nov 2, 2026|top5|pingdotgg/t3code"
+  "Oct 28, 2026 – Nov 3, 2026|new|Renhuai123/ziwei-doushu",
+  "Oct 28, 2026 – Nov 3, 2026|new|milind-soni/OpenMausBot",
+  "Oct 28, 2026 – Nov 3, 2026|top5|vercel-labs/agent-desktop"
  ]
 }
