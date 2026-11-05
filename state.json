@@ -1,35 +1,56 @@
 {
- "window": "Oct 28, 2026 – Nov 3, 2026",
+ "window": "Oct 29, 2026 – Nov 4, 2026",
  "top20": [
   "morluto/rea",
   "pingdotgg/t3code",
   "vercel-labs/agent-desktop",
   "pbakaus/impeccable",
-  "Gathin23/cleanyourtv",
-  "debpalash/VoiceStudio",
   "thedotmack/claude-mem",
-  "HKUDS/DeepTutor",
-  "togg53192-cmd/jailbreaks",
+  "deepseek-ai/deepseek-harness",
+  "debpalash/VoiceStudio",
+  "mattpocock/skills",
+  "Gathin23/cleanyourtv",
   "cloudflare/security-audit-skill",
   "Nutlope/hallmark",
-  "deepseek-ai/deepseek-harness",
-  "ifixai-ai/iFixAi",
-  "mattpocock/skills",
   "Donchitos/Claude-Code-Game-Studios",
-  "Renhuai123/ziwei-doushu",
+  "D4Vinci/Scrapling",
+  "ifixai-ai/iFixAi",
+  "togg53192-cmd/jailbreaks",
+  "JiaFeiMiao-K-Cat/DiscImageStudio",
   "stablyai/orca",
-  "Orkas-AI/Orkas",
-  "HunYiSage/dsh-purge",
-  "milind-soni/OpenMausBot"
+  "Renhuai123/ziwei-doushu",
+  "HKUDS/DeepTutor",
+  "HunYiSage/dsh-purge"
  ],
  "top5": [
   "morluto/rea",
   "pingdotgg/t3code",
   "vercel-labs/agent-desktop",
   "pbakaus/impeccable",
-  "Gathin23/cleanyourtv"
+  "thedotmack/claude-mem"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #5 thedotmack/claude-mem｜前5：rea +28,729 / t3code +15,908 / agent-desktop +13,998 / impeccable +9,841 / claude-mem +9,190",
+   "link": "https://github.com/thedotmack/claude-mem",
+   "guid": "Oct 29, 2026 – Nov 4, 2026|top5|thedotmack/claude-mem",
+   "pubDate": "Thu, 05 Nov 2026 20:44:07 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +28,729 ★<br>#2 <a href='https://github.com/pingdotgg/t3code'>pingdotgg/t3code</a> +15,908 ★<br>#3 <a href='https://github.com/vercel-labs/agent-desktop'>vercel-labs/agent-desktop</a> +13,998 ★<br>#4 <a href='https://github.com/pbakaus/impeccable'>pbakaus/impeccable</a> +9,841 ★<br>#5 <a href='https://github.com/thedotmack/claude-mem'>thedotmack/claude-mem</a> +9,190 ★ ← 新进<br><br>统计窗口：Oct 29, 2026 – Nov 4, 2026<br>当前排名：#5<br>统计期内新增星：+9,190<br>总星数：113,390<br><a href='https://www.star-history.com/#thedotmack/claude-mem&amp;Date'>Star History 曲线</a> · <a href='https://github.com/thedotmack/claude-mem'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #16 JiaFeiMiao-K-Cat/DiscImageStudio（+6,844 ★）",
+   "link": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+   "guid": "Oct 29, 2026 – Nov 4, 2026|new|JiaFeiMiao-K-Cat/DiscImageStudio",
+   "pubDate": "Thu, 05 Nov 2026 20:44:07 +0000",
+   "desc": "统计窗口：Oct 29, 2026 – Nov 4, 2026<br>当前排名：#16<br>统计期内新增星：+6,844<br>总星数：7,122<br><a href='https://www.star-history.com/#JiaFeiMiao-K-Cat/DiscImageStudio&amp;Date'>Star History 曲线</a> · <a href='https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #13 D4Vinci/Scrapling（+6,920 ★）",
+   "link": "https://github.com/D4Vinci/Scrapling",
+   "guid": "Oct 29, 2026 – Nov 4, 2026|new|D4Vinci/Scrapling",
+   "pubDate": "Thu, 05 Nov 2026 20:44:07 +0000",
+   "desc": "统计窗口：Oct 29, 2026 – Nov 4, 2026<br>当前排名：#13<br>统计期内新增星：+6,920<br>总星数：97,658<br><a href='https://www.star-history.com/#D4Vinci/Scrapling&amp;Date'>Star History 曲线</a> · <a href='https://github.com/D4Vinci/Scrapling'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #3 vercel-labs/agent-desktop｜前5：rea +30,252 / t3code +14,179 / agent-desktop +11,714 / impeccable +11,031 / cleanyourtv +9,338",
    "link": "https://github.com/vercel-labs/agent-desktop",
@@ -353,10 +374,10 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "71a408d3bfed632c308664563d4cb57304faf8c613026260563525fa17065543",
+ "source_hash": "c295f0fc8b44063962fc00d0a1c388961ac65ccd70916b613dd6abfff44e2417",
  "window_guids": [
-  "Oct 28, 2026 – Nov 3, 2026|new|Renhuai123/ziwei-doushu",
-  "Oct 28, 2026 – Nov 3, 2026|new|milind-soni/OpenMausBot",
-  "Oct 28, 2026 – Nov 3, 2026|top5|vercel-labs/agent-desktop"
+  "Oct 29, 2026 – Nov 4, 2026|new|D4Vinci/Scrapling",
+  "Oct 29, 2026 – Nov 4, 2026|new|JiaFeiMiao-K-Cat/DiscImageStudio",
+  "Oct 29, 2026 – Nov 4, 2026|top5|thedotmack/claude-mem"
  ]
 }
