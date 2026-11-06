@@ -1,35 +1,63 @@
 {
- "window": "Oct 29, 2026 – Nov 4, 2026",
+ "window": "Oct 30, 2026 – Nov 5, 2026",
  "top20": [
   "morluto/rea",
   "pingdotgg/t3code",
   "vercel-labs/agent-desktop",
-  "pbakaus/impeccable",
-  "thedotmack/claude-mem",
-  "deepseek-ai/deepseek-harness",
-  "debpalash/VoiceStudio",
   "mattpocock/skills",
-  "Gathin23/cleanyourtv",
   "cloudflare/security-audit-skill",
-  "Nutlope/hallmark",
-  "Donchitos/Claude-Code-Game-Studios",
+  "thedotmack/claude-mem",
+  "pbakaus/impeccable",
+  "deepseek-ai/deepseek-harness",
   "D4Vinci/Scrapling",
-  "ifixai-ai/iFixAi",
-  "togg53192-cmd/jailbreaks",
+  "debpalash/VoiceStudio",
   "JiaFeiMiao-K-Cat/DiscImageStudio",
+  "NVIDIA/auto-ontology",
+  "Gathin23/cleanyourtv",
+  "Nutlope/hallmark",
   "stablyai/orca",
-  "Renhuai123/ziwei-doushu",
-  "HKUDS/DeepTutor",
-  "HunYiSage/dsh-purge"
+  "Donchitos/Claude-Code-Game-Studios",
+  "HunYiSage/dsh-purge",
+  "ifixai-ai/iFixAi",
+  "milind-soni/OpenMausBot",
+  "Renhuai123/ziwei-doushu"
  ],
  "top5": [
   "morluto/rea",
   "pingdotgg/t3code",
   "vercel-labs/agent-desktop",
-  "pbakaus/impeccable",
-  "thedotmack/claude-mem"
+  "mattpocock/skills",
+  "cloudflare/security-audit-skill"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #5 cloudflare/security-audit-skill｜前5：rea +27,195 / t3code +16,705 / agent-desktop +15,586 / skills +9,288 / security-audit-skill +9,246",
+   "link": "https://github.com/cloudflare/security-audit-skill",
+   "guid": "Oct 30, 2026 – Nov 5, 2026|top5|cloudflare/security-audit-skill",
+   "pubDate": "Fri, 06 Nov 2026 19:59:51 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +27,195 ★<br>#2 <a href='https://github.com/pingdotgg/t3code'>pingdotgg/t3code</a> +16,705 ★<br>#3 <a href='https://github.com/vercel-labs/agent-desktop'>vercel-labs/agent-desktop</a> +15,586 ★<br>#4 <a href='https://github.com/mattpocock/skills'>mattpocock/skills</a> +9,288 ★<br>#5 <a href='https://github.com/cloudflare/security-audit-skill'>cloudflare/security-audit-skill</a> +9,246 ★ ← 新进<br><br>统计窗口：Oct 30, 2026 – Nov 5, 2026<br>当前排名：#5<br>统计期内新增星：+9,246<br>总星数：63,260<br><a href='https://www.star-history.com/#cloudflare/security-audit-skill&amp;Date'>Star History 曲线</a> · <a href='https://github.com/cloudflare/security-audit-skill'>GitHub</a>"
+  },
+  {
+   "title": "🔥 新进前5 #4 mattpocock/skills｜前5：rea +27,195 / t3code +16,705 / agent-desktop +15,586 / skills +9,288 / security-audit-skill +9,246",
+   "link": "https://github.com/mattpocock/skills",
+   "guid": "Oct 30, 2026 – Nov 5, 2026|top5|mattpocock/skills",
+   "pubDate": "Fri, 06 Nov 2026 19:59:51 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +27,195 ★<br>#2 <a href='https://github.com/pingdotgg/t3code'>pingdotgg/t3code</a> +16,705 ★<br>#3 <a href='https://github.com/vercel-labs/agent-desktop'>vercel-labs/agent-desktop</a> +15,586 ★<br>#4 <a href='https://github.com/mattpocock/skills'>mattpocock/skills</a> +9,288 ★ ← 新进<br>#5 <a href='https://github.com/cloudflare/security-audit-skill'>cloudflare/security-audit-skill</a> +9,246 ★<br><br>统计窗口：Oct 30, 2026 – Nov 5, 2026<br>当前排名：#4<br>统计期内新增星：+9,288<br>总星数：316,338<br><a href='https://www.star-history.com/#mattpocock/skills&amp;Date'>Star History 曲线</a> · <a href='https://github.com/mattpocock/skills'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #19 milind-soni/OpenMausBot（+6,244 ★）",
+   "link": "https://github.com/milind-soni/OpenMausBot",
+   "guid": "Oct 30, 2026 – Nov 5, 2026|new|milind-soni/OpenMausBot",
+   "pubDate": "Fri, 06 Nov 2026 19:59:51 +0000",
+   "desc": "统计窗口：Oct 30, 2026 – Nov 5, 2026<br>当前排名：#19<br>统计期内新增星：+6,244<br>总星数：14,765<br><a href='https://www.star-history.com/#milind-soni/OpenMausBot&amp;Date'>Star History 曲线</a> · <a href='https://github.com/milind-soni/OpenMausBot'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #12 NVIDIA/auto-ontology（+7,338 ★）",
+   "link": "https://github.com/NVIDIA/auto-ontology",
+   "guid": "Oct 30, 2026 – Nov 5, 2026|new|NVIDIA/auto-ontology",
+   "pubDate": "Fri, 06 Nov 2026 19:59:51 +0000",
+   "desc": "统计窗口：Oct 30, 2026 – Nov 5, 2026<br>当前排名：#12<br>统计期内新增星：+7,338<br>总星数：8,604<br><a href='https://www.star-history.com/#NVIDIA/auto-ontology&amp;Date'>Star History 曲线</a> · <a href='https://github.com/NVIDIA/auto-ontology'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #5 thedotmack/claude-mem｜前5：rea +28,729 / t3code +15,908 / agent-desktop +13,998 / impeccable +9,841 / claude-mem +9,190",
    "link": "https://github.com/thedotmack/claude-mem",
@@ -374,10 +402,11 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "c295f0fc8b44063962fc00d0a1c388961ac65ccd70916b613dd6abfff44e2417",
+ "source_hash": "e6e1c31c1e35e0697c9d36883eb6ab1cf3c4fd317f91b817cb9a98a1582afb14",
  "window_guids": [
-  "Oct 29, 2026 – Nov 4, 2026|new|D4Vinci/Scrapling",
-  "Oct 29, 2026 – Nov 4, 2026|new|JiaFeiMiao-K-Cat/DiscImageStudio",
-  "Oct 29, 2026 – Nov 4, 2026|top5|thedotmack/claude-mem"
+  "Oct 30, 2026 – Nov 5, 2026|new|NVIDIA/auto-ontology",
+  "Oct 30, 2026 – Nov 5, 2026|new|milind-soni/OpenMausBot",
+  "Oct 30, 2026 – Nov 5, 2026|top5|cloudflare/security-audit-skill",
+  "Oct 30, 2026 – Nov 5, 2026|top5|mattpocock/skills"
  ]
 }
