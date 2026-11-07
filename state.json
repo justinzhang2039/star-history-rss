@@ -1,35 +1,56 @@
 {
- "window": "Oct 30, 2026 – Nov 5, 2026",
+ "window": "Oct 31, 2026 – Nov 6, 2026",
  "top20": [
   "morluto/rea",
   "pingdotgg/t3code",
   "vercel-labs/agent-desktop",
-  "mattpocock/skills",
   "cloudflare/security-audit-skill",
-  "thedotmack/claude-mem",
-  "pbakaus/impeccable",
+  "mattpocock/skills",
+  "NVIDIA/auto-ontology",
   "deepseek-ai/deepseek-harness",
   "D4Vinci/Scrapling",
-  "debpalash/VoiceStudio",
   "JiaFeiMiao-K-Cat/DiscImageStudio",
-  "NVIDIA/auto-ontology",
-  "Gathin23/cleanyourtv",
-  "Nutlope/hallmark",
-  "stablyai/orca",
-  "Donchitos/Claude-Code-Game-Studios",
-  "HunYiSage/dsh-purge",
-  "ifixai-ai/iFixAi",
+  "pbakaus/impeccable",
+  "thedotmack/claude-mem",
+  "debpalash/VoiceStudio",
   "milind-soni/OpenMausBot",
-  "Renhuai123/ziwei-doushu"
+  "stablyai/orca",
+  "Nutlope/hallmark",
+  "Gathin23/cleanyourtv",
+  "Donchitos/Claude-Code-Game-Studios",
+  "affaan-m/ECC",
+  "sindresorhus/awesome",
+  "DietrichGebert/ponytail"
  ],
  "top5": [
   "morluto/rea",
   "pingdotgg/t3code",
   "vercel-labs/agent-desktop",
-  "mattpocock/skills",
-  "cloudflare/security-audit-skill"
+  "cloudflare/security-audit-skill",
+  "mattpocock/skills"
  ],
  "items": [
+  {
+   "title": "🆕 新进榜单 Top20 #20 DietrichGebert/ponytail（+5,124 ★）",
+   "link": "https://github.com/DietrichGebert/ponytail",
+   "guid": "Oct 31, 2026 – Nov 6, 2026|new|DietrichGebert/ponytail",
+   "pubDate": "Sat, 07 Nov 2026 18:07:45 +0000",
+   "desc": "统计窗口：Oct 31, 2026 – Nov 6, 2026<br>当前排名：#20<br>统计期内新增星：+5,124<br>总星数：186,196<br><a href='https://www.star-history.com/#DietrichGebert/ponytail&amp;Date'>Star History 曲线</a> · <a href='https://github.com/DietrichGebert/ponytail'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #19 sindresorhus/awesome（+5,293 ★）",
+   "link": "https://github.com/sindresorhus/awesome",
+   "guid": "Oct 31, 2026 – Nov 6, 2026|new|sindresorhus/awesome",
+   "pubDate": "Sat, 07 Nov 2026 18:07:45 +0000",
+   "desc": "统计窗口：Oct 31, 2026 – Nov 6, 2026<br>当前排名：#19<br>统计期内新增星：+5,293<br>总星数：532,943<br><a href='https://www.star-history.com/#sindresorhus/awesome&amp;Date'>Star History 曲线</a> · <a href='https://github.com/sindresorhus/awesome'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #18 affaan-m/ECC（+5,509 ★）",
+   "link": "https://github.com/affaan-m/ECC",
+   "guid": "Oct 31, 2026 – Nov 6, 2026|new|affaan-m/ECC",
+   "pubDate": "Sat, 07 Nov 2026 18:07:45 +0000",
+   "desc": "统计窗口：Oct 31, 2026 – Nov 6, 2026<br>当前排名：#18<br>统计期内新增星：+5,509<br>总星数：298,943<br><a href='https://www.star-history.com/#affaan-m/ECC&amp;Date'>Star History 曲线</a> · <a href='https://github.com/affaan-m/ECC'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #5 cloudflare/security-audit-skill｜前5：rea +27,195 / t3code +16,705 / agent-desktop +15,586 / skills +9,288 / security-audit-skill +9,246",
    "link": "https://github.com/cloudflare/security-audit-skill",
@@ -402,11 +423,10 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "e6e1c31c1e35e0697c9d36883eb6ab1cf3c4fd317f91b817cb9a98a1582afb14",
+ "source_hash": "3b75360913d0b0f72d03cc551662aa76a01c2d04eb1e856a57163a8c8113e2de",
  "window_guids": [
-  "Oct 30, 2026 – Nov 5, 2026|new|NVIDIA/auto-ontology",
-  "Oct 30, 2026 – Nov 5, 2026|new|milind-soni/OpenMausBot",
-  "Oct 30, 2026 – Nov 5, 2026|top5|cloudflare/security-audit-skill",
-  "Oct 30, 2026 – Nov 5, 2026|top5|mattpocock/skills"
+  "Oct 31, 2026 – Nov 6, 2026|new|DietrichGebert/ponytail",
+  "Oct 31, 2026 – Nov 6, 2026|new|affaan-m/ECC",
+  "Oct 31, 2026 – Nov 6, 2026|new|sindresorhus/awesome"
  ]
 }
