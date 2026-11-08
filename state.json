@@ -1,5 +1,5 @@
 {
- "window": "Oct 31, 2026 – Nov 6, 2026",
+ "window": "Nov 1, 2026 – Nov 7, 2026",
  "top20": [
   "morluto/rea",
   "pingdotgg/t3code",
@@ -10,17 +10,17 @@
   "deepseek-ai/deepseek-harness",
   "D4Vinci/Scrapling",
   "JiaFeiMiao-K-Cat/DiscImageStudio",
-  "pbakaus/impeccable",
-  "thedotmack/claude-mem",
-  "debpalash/VoiceStudio",
   "milind-soni/OpenMausBot",
+  "pbakaus/impeccable",
+  "debpalash/VoiceStudio",
   "stablyai/orca",
+  "thedotmack/claude-mem",
   "Nutlope/hallmark",
   "Gathin23/cleanyourtv",
-  "Donchitos/Claude-Code-Game-Studios",
-  "affaan-m/ECC",
+  "sherlock-project/sherlock",
   "sindresorhus/awesome",
-  "DietrichGebert/ponytail"
+  "affaan-m/ECC",
+  "Donchitos/Claude-Code-Game-Studios"
  ],
  "top5": [
   "morluto/rea",
@@ -30,6 +30,13 @@
   "mattpocock/skills"
  ],
  "items": [
+  {
+   "title": "🆕 新进榜单 Top20 #17 sherlock-project/sherlock（+5,933 ★）",
+   "link": "https://github.com/sherlock-project/sherlock",
+   "guid": "Nov 1, 2026 – Nov 7, 2026|new|sherlock-project/sherlock",
+   "pubDate": "Sun, 08 Nov 2026 18:24:30 +0000",
+   "desc": "统计窗口：Nov 1, 2026 – Nov 7, 2026<br>当前排名：#17<br>统计期内新增星：+5,933<br>总星数：99,764<br><a href='https://www.star-history.com/#sherlock-project/sherlock&amp;Date'>Star History 曲线</a> · <a href='https://github.com/sherlock-project/sherlock'>GitHub</a>"
+  },
   {
    "title": "🆕 新进榜单 Top20 #20 DietrichGebert/ponytail（+5,124 ★）",
    "link": "https://github.com/DietrichGebert/ponytail",
@@ -423,10 +430,8 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "3b75360913d0b0f72d03cc551662aa76a01c2d04eb1e856a57163a8c8113e2de",
+ "source_hash": "4bcb4cfa29ba81ea944b9b9d496d7bd685a9003874b1107df08a4e61b70ed4eb",
  "window_guids": [
-  "Oct 31, 2026 – Nov 6, 2026|new|DietrichGebert/ponytail",
-  "Oct 31, 2026 – Nov 6, 2026|new|affaan-m/ECC",
-  "Oct 31, 2026 – Nov 6, 2026|new|sindresorhus/awesome"
+  "Nov 1, 2026 – Nov 7, 2026|new|sherlock-project/sherlock"
  ]
 }
