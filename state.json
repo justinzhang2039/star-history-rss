@@ -1,35 +1,49 @@
 {
- "window": "Nov 1, 2026 – Nov 7, 2026",
+ "window": "Nov 2, 2026 – Nov 8, 2026",
  "top20": [
   "morluto/rea",
   "pingdotgg/t3code",
   "vercel-labs/agent-desktop",
   "cloudflare/security-audit-skill",
-  "mattpocock/skills",
   "NVIDIA/auto-ontology",
+  "mattpocock/skills",
+  "sherlock-project/sherlock",
   "deepseek-ai/deepseek-harness",
   "D4Vinci/Scrapling",
-  "JiaFeiMiao-K-Cat/DiscImageStudio",
   "milind-soni/OpenMausBot",
-  "pbakaus/impeccable",
+  "JiaFeiMiao-K-Cat/DiscImageStudio",
   "debpalash/VoiceStudio",
   "stablyai/orca",
-  "thedotmack/claude-mem",
+  "pbakaus/impeccable",
   "Nutlope/hallmark",
   "Gathin23/cleanyourtv",
-  "sherlock-project/sherlock",
+  "thedotmack/claude-mem",
   "sindresorhus/awesome",
   "affaan-m/ECC",
-  "Donchitos/Claude-Code-Game-Studios"
+  "DietrichGebert/ponytail"
  ],
  "top5": [
   "morluto/rea",
   "pingdotgg/t3code",
   "vercel-labs/agent-desktop",
   "cloudflare/security-audit-skill",
-  "mattpocock/skills"
+  "NVIDIA/auto-ontology"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #5 NVIDIA/auto-ontology｜前5：rea +25,434 / t3code +14,122 / agent-desktop +12,434 / security-audit-skill +10,675 / auto-ontology +9,939",
+   "link": "https://github.com/NVIDIA/auto-ontology",
+   "guid": "Nov 2, 2026 – Nov 8, 2026|top5|NVIDIA/auto-ontology",
+   "pubDate": "Mon, 09 Nov 2026 23:03:42 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +25,434 ★<br>#2 <a href='https://github.com/pingdotgg/t3code'>pingdotgg/t3code</a> +14,122 ★<br>#3 <a href='https://github.com/vercel-labs/agent-desktop'>vercel-labs/agent-desktop</a> +12,434 ★<br>#4 <a href='https://github.com/cloudflare/security-audit-skill'>cloudflare/security-audit-skill</a> +10,675 ★<br>#5 <a href='https://github.com/NVIDIA/auto-ontology'>NVIDIA/auto-ontology</a> +9,939 ★ ← 新进<br><br>统计窗口：Nov 2, 2026 – Nov 8, 2026<br>当前排名：#5<br>统计期内新增星：+9,939<br>总星数：10,959<br><a href='https://www.star-history.com/#NVIDIA/auto-ontology&amp;Date'>Star History 曲线</a> · <a href='https://github.com/NVIDIA/auto-ontology'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #20 DietrichGebert/ponytail（+4,946 ★）",
+   "link": "https://github.com/DietrichGebert/ponytail",
+   "guid": "Nov 2, 2026 – Nov 8, 2026|new|DietrichGebert/ponytail",
+   "pubDate": "Mon, 09 Nov 2026 23:03:42 +0000",
+   "desc": "统计窗口：Nov 2, 2026 – Nov 8, 2026<br>当前排名：#20<br>统计期内新增星：+4,946<br>总星数：187,546<br><a href='https://www.star-history.com/#DietrichGebert/ponytail&amp;Date'>Star History 曲线</a> · <a href='https://github.com/DietrichGebert/ponytail'>GitHub</a>"
+  },
   {
    "title": "🆕 新进榜单 Top20 #17 sherlock-project/sherlock（+5,933 ★）",
    "link": "https://github.com/sherlock-project/sherlock",
@@ -430,8 +444,9 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "4bcb4cfa29ba81ea944b9b9d496d7bd685a9003874b1107df08a4e61b70ed4eb",
+ "source_hash": "d6d8225763509e0d1a3281107f72b686405f17825bd480e2e4999f01b9a9f46e",
  "window_guids": [
-  "Nov 1, 2026 – Nov 7, 2026|new|sherlock-project/sherlock"
+  "Nov 2, 2026 – Nov 8, 2026|new|DietrichGebert/ponytail",
+  "Nov 2, 2026 – Nov 8, 2026|top5|NVIDIA/auto-ontology"
  ]
 }
