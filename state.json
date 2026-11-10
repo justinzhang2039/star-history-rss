@@ -1,35 +1,56 @@
 {
- "window": "Nov 2, 2026 – Nov 8, 2026",
+ "window": "Nov 3, 2026 – Nov 9, 2026",
  "top20": [
   "morluto/rea",
+  "sherlock-project/sherlock",
   "pingdotgg/t3code",
-  "vercel-labs/agent-desktop",
   "cloudflare/security-audit-skill",
   "NVIDIA/auto-ontology",
+  "vercel-labs/agent-desktop",
   "mattpocock/skills",
-  "sherlock-project/sherlock",
+  "milind-soni/OpenMausBot",
   "deepseek-ai/deepseek-harness",
   "D4Vinci/Scrapling",
-  "milind-soni/OpenMausBot",
-  "JiaFeiMiao-K-Cat/DiscImageStudio",
   "debpalash/VoiceStudio",
+  "deepseek-ai/dsh-superagent-prototype",
+  "meta/astryx",
   "stablyai/orca",
   "pbakaus/impeccable",
   "Nutlope/hallmark",
+  "JiaFeiMiao-K-Cat/DiscImageStudio",
   "Gathin23/cleanyourtv",
-  "thedotmack/claude-mem",
-  "sindresorhus/awesome",
-  "affaan-m/ECC",
-  "DietrichGebert/ponytail"
+  "DietrichGebert/ponytail",
+  "sindresorhus/awesome"
  ],
  "top5": [
   "morluto/rea",
+  "sherlock-project/sherlock",
   "pingdotgg/t3code",
-  "vercel-labs/agent-desktop",
   "cloudflare/security-audit-skill",
   "NVIDIA/auto-ontology"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #2 sherlock-project/sherlock｜前5：rea +24,468 / sherlock +12,462 / t3code +12,099 / security-audit-skill +10,897 / auto-ontology +10,077",
+   "link": "https://github.com/sherlock-project/sherlock",
+   "guid": "Nov 3, 2026 – Nov 9, 2026|top5|sherlock-project/sherlock",
+   "pubDate": "Tue, 10 Nov 2026 20:30:32 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +24,468 ★<br>#2 <a href='https://github.com/sherlock-project/sherlock'>sherlock-project/sherlock</a> +12,462 ★ ← 新进<br>#3 <a href='https://github.com/pingdotgg/t3code'>pingdotgg/t3code</a> +12,099 ★<br>#4 <a href='https://github.com/cloudflare/security-audit-skill'>cloudflare/security-audit-skill</a> +10,897 ★<br>#5 <a href='https://github.com/NVIDIA/auto-ontology'>NVIDIA/auto-ontology</a> +10,077 ★<br><br>统计窗口：Nov 3, 2026 – Nov 9, 2026<br>当前排名：#2<br>统计期内新增星：+12,462<br>总星数：108,578<br><a href='https://www.star-history.com/#sherlock-project/sherlock&amp;Date'>Star History 曲线</a> · <a href='https://github.com/sherlock-project/sherlock'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #13 meta/astryx（+7,170 ★）",
+   "link": "https://github.com/meta/astryx",
+   "guid": "Nov 3, 2026 – Nov 9, 2026|new|meta/astryx",
+   "pubDate": "Tue, 10 Nov 2026 20:30:32 +0000",
+   "desc": "统计窗口：Nov 3, 2026 – Nov 9, 2026<br>当前排名：#13<br>统计期内新增星：+7,170<br>总星数：22,113<br><a href='https://www.star-history.com/#meta/astryx&amp;Date'>Star History 曲线</a> · <a href='https://github.com/meta/astryx'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #12 deepseek-ai/dsh-superagent-prototype（+7,248 ★）",
+   "link": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+   "guid": "Nov 3, 2026 – Nov 9, 2026|new|deepseek-ai/dsh-superagent-prototype",
+   "pubDate": "Tue, 10 Nov 2026 20:30:32 +0000",
+   "desc": "统计窗口：Nov 3, 2026 – Nov 9, 2026<br>当前排名：#12<br>统计期内新增星：+7,248<br>总星数：22,124<br><a href='https://www.star-history.com/#deepseek-ai/dsh-superagent-prototype&amp;Date'>Star History 曲线</a> · <a href='https://github.com/deepseek-ai/dsh-superagent-prototype'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #5 NVIDIA/auto-ontology｜前5：rea +25,434 / t3code +14,122 / agent-desktop +12,434 / security-audit-skill +10,675 / auto-ontology +9,939",
    "link": "https://github.com/NVIDIA/auto-ontology",
@@ -444,9 +465,10 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "d6d8225763509e0d1a3281107f72b686405f17825bd480e2e4999f01b9a9f46e",
+ "source_hash": "43f5e903887caff0f7d5c3816d3ceae228b8025404335849a56660b51a345bdb",
  "window_guids": [
-  "Nov 2, 2026 – Nov 8, 2026|new|DietrichGebert/ponytail",
-  "Nov 2, 2026 – Nov 8, 2026|top5|NVIDIA/auto-ontology"
+  "Nov 3, 2026 – Nov 9, 2026|new|deepseek-ai/dsh-superagent-prototype",
+  "Nov 3, 2026 – Nov 9, 2026|new|meta/astryx",
+  "Nov 3, 2026 – Nov 9, 2026|top5|sherlock-project/sherlock"
  ]
 }
