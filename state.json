@@ -1,35 +1,63 @@
 {
- "window": "Nov 3, 2026 – Nov 9, 2026",
+ "window": "Nov 4, 2026 – Nov 10, 2026",
  "top20": [
   "morluto/rea",
   "sherlock-project/sherlock",
-  "pingdotgg/t3code",
   "cloudflare/security-audit-skill",
-  "NVIDIA/auto-ontology",
-  "vercel-labs/agent-desktop",
+  "pingdotgg/t3code",
+  "meta/astryx",
   "mattpocock/skills",
   "milind-soni/OpenMausBot",
-  "deepseek-ai/deepseek-harness",
-  "D4Vinci/Scrapling",
+  "NVIDIA/auto-ontology",
+  "vercel-labs/agent-desktop",
   "debpalash/VoiceStudio",
-  "deepseek-ai/dsh-superagent-prototype",
-  "meta/astryx",
+  "deepseek-ai/deepseek-harness",
   "stablyai/orca",
   "pbakaus/impeccable",
+  "D4Vinci/Scrapling",
+  "anomalyco/rune",
   "Nutlope/hallmark",
-  "JiaFeiMiao-K-Cat/DiscImageStudio",
-  "Gathin23/cleanyourtv",
-  "DietrichGebert/ponytail",
-  "sindresorhus/awesome"
+  "anthropics/skills",
+  "yetone/magpie",
+  "sindresorhus/awesome",
+  "DietrichGebert/ponytail"
  ],
  "top5": [
   "morluto/rea",
   "sherlock-project/sherlock",
-  "pingdotgg/t3code",
   "cloudflare/security-audit-skill",
-  "NVIDIA/auto-ontology"
+  "pingdotgg/t3code",
+  "meta/astryx"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #5 meta/astryx｜前5：rea +23,286 / sherlock +14,031 / security-audit-skill +11,388 / t3code +11,213 / astryx +9,923",
+   "link": "https://github.com/meta/astryx",
+   "guid": "Nov 4, 2026 – Nov 10, 2026|top5|meta/astryx",
+   "pubDate": "Wed, 11 Nov 2026 20:16:22 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +23,286 ★<br>#2 <a href='https://github.com/sherlock-project/sherlock'>sherlock-project/sherlock</a> +14,031 ★<br>#3 <a href='https://github.com/cloudflare/security-audit-skill'>cloudflare/security-audit-skill</a> +11,388 ★<br>#4 <a href='https://github.com/pingdotgg/t3code'>pingdotgg/t3code</a> +11,213 ★<br>#5 <a href='https://github.com/meta/astryx'>meta/astryx</a> +9,923 ★ ← 新进<br><br>统计窗口：Nov 4, 2026 – Nov 10, 2026<br>当前排名：#5<br>统计期内新增星：+9,923<br>总星数：24,519<br><a href='https://www.star-history.com/#meta/astryx&amp;Date'>Star History 曲线</a> · <a href='https://github.com/meta/astryx'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #18 yetone/magpie（+4,982 ★）",
+   "link": "https://github.com/yetone/magpie",
+   "guid": "Nov 4, 2026 – Nov 10, 2026|new|yetone/magpie",
+   "pubDate": "Wed, 11 Nov 2026 20:16:22 +0000",
+   "desc": "统计窗口：Nov 4, 2026 – Nov 10, 2026<br>当前排名：#18<br>统计期内新增星：+4,982<br>总星数：34,623<br><a href='https://www.star-history.com/#yetone/magpie&amp;Date'>Star History 曲线</a> · <a href='https://github.com/yetone/magpie'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #17 anthropics/skills（+5,589 ★）",
+   "link": "https://github.com/anthropics/skills",
+   "guid": "Nov 4, 2026 – Nov 10, 2026|new|anthropics/skills",
+   "pubDate": "Wed, 11 Nov 2026 20:16:22 +0000",
+   "desc": "统计窗口：Nov 4, 2026 – Nov 10, 2026<br>当前排名：#17<br>统计期内新增星：+5,589<br>总星数：192,938<br><a href='https://www.star-history.com/#anthropics/skills&amp;Date'>Star History 曲线</a> · <a href='https://github.com/anthropics/skills'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #15 anomalyco/rune（+5,875 ★）",
+   "link": "https://github.com/anomalyco/rune",
+   "guid": "Nov 4, 2026 – Nov 10, 2026|new|anomalyco/rune",
+   "pubDate": "Wed, 11 Nov 2026 20:16:22 +0000",
+   "desc": "统计窗口：Nov 4, 2026 – Nov 10, 2026<br>当前排名：#15<br>统计期内新增星：+5,875<br>总星数：6,566<br><a href='https://www.star-history.com/#anomalyco/rune&amp;Date'>Star History 曲线</a> · <a href='https://github.com/anomalyco/rune'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #2 sherlock-project/sherlock｜前5：rea +24,468 / sherlock +12,462 / t3code +12,099 / security-audit-skill +10,897 / auto-ontology +10,077",
    "link": "https://github.com/sherlock-project/sherlock",
@@ -465,10 +493,11 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "43f5e903887caff0f7d5c3816d3ceae228b8025404335849a56660b51a345bdb",
+ "source_hash": "844b6ae3bc26e95e085aba807b1880ac51301e238e436d9f7c727607e2c21cae",
  "window_guids": [
-  "Nov 3, 2026 – Nov 9, 2026|new|deepseek-ai/dsh-superagent-prototype",
-  "Nov 3, 2026 – Nov 9, 2026|new|meta/astryx",
-  "Nov 3, 2026 – Nov 9, 2026|top5|sherlock-project/sherlock"
+  "Nov 4, 2026 – Nov 10, 2026|new|anomalyco/rune",
+  "Nov 4, 2026 – Nov 10, 2026|new|anthropics/skills",
+  "Nov 4, 2026 – Nov 10, 2026|new|yetone/magpie",
+  "Nov 4, 2026 – Nov 10, 2026|top5|meta/astryx"
  ]
 }
