@@ -120,3 +120,106 @@ PY
 
 若需调整容忍时间，本地设置环境变量 `MAX_SOURCE_AGE_HOURS`，Actions 在仓库 Settings → Secrets and variables → Actions → Variables 设置同名变量；不要仅为消除失败状态放宽阈值，应先核对源窗口与上游证据。
 
+---
+
+# 福利吧导航 - 最新收录 RSS 订阅
+
+本仓库同时提供 [福利吧导航](https://fuliba123.com)（fuliba123.com）最新收录网站目录的 RSS 订阅源。
+
+## 功能说明
+
+订阅源会在以下情况推送新条目：
+
+- **🆕 新收录站点** — 有新网站被收录到福利吧导航的"最新收录"目录
+
+数据来源：福利吧导航首页"最新收录"标签页（OneNav 主题的 AJAX 接口）。该订阅源独立于福利吧博客（fuliba.net）的文章内容。
+
+### 去重机制
+
+- 使用站点 ID 作为唯一标识符（如 `4368`、`4380` 等）
+- 同一站点 ID 只会产生一次 RSS 条目，无论其名称、描述或排序如何变化
+- 首次运行时记录当前已有的站点 ID，**不产生历史条目**，后续只推送真正的新站点
+- GUID 格式：`fuliba123-site-{id}`，稳定不变
+
+### RSS 条目内容
+
+每个新站点的 RSS 条目包含：
+
+- 站点名称（如"人类基准测试"）
+- 站点简介
+- 外部链接（指向原始网站）
+- 详情页面链接（指向 fuliba123.com 的站点详情页）
+
+## 订阅地址
+
+```
+https://raw.githubusercontent.com/justinzhang2039/star-history-rss/main/fuliba-latest.xml
+```
+
+将此链接添加到你的 RSS 阅读器即可订阅。
+
+**注意**：订阅源需要在 `main` 分支合入后，由 GitHub Actions 实际运行并提交数据后才可用。PR 期间工作流只运行测试，不生成正式数据。
+
+## 更新频率
+
+GitHub Actions 每天计划于 01:00 和 13:00 UTC 各检查一次（约北京时间 09:00 和 21:00）。
+
+- 09:00 CST = 01:00 UTC（亚洲/上海早间）
+- 21:00 CST = 13:00 UTC（亚洲/上海晚间）
+
+生成脚本、测试或工作流修改合入 `main` 时也会检查一次。PR 只运行回归测试，不写订阅数据。
+
+## 健康检查
+
+每次检查写入 `fuliba-latest-health.json`：
+
+| 字段 | 含义 |
+| --- | --- |
+| `status` | `ok` 或 `error` |
+| `new_items` | 本次新增 RSS 条目数 |
+| `known_site_count` | 已知站点 ID 总数 |
+| `seeded` | 首次运行种子数量（仅首次运行） |
+| `last_successful_fetch_at` | 最近一次成功获取时间 |
+| `error` | 错误原因（如有） |
+
+## 错误保护
+
+- 网络错误、解析错误、空响应等均保留原有状态和 RSS，不会丢失历史数据
+- 仅在成功获取并解析有效数据后才更新 `fuliba-latest-state.json` 和 `fuliba-latest.xml`
+- 健康文件 `fuliba-latest-health.json` 每次都会更新，记录最新检查结果
+
+## 手动触发
+
+1. 进入本仓库的 **Actions** 页面
+2. 左侧选择 **Update Fuliba Latest Sites RSS Feed**
+3. 点击 **Run workflow** → **Run workflow**
+
+或使用 GitHub CLI：
+
+```bash
+gh workflow run update-fuliba-latest.yml
+```
+
+## 本地验证
+
+运行回归测试：
+
+```bash
+python3 -m unittest test_fuliba_latest_feed -v
+```
+
+用临时副本实测（不覆盖正式文件）：
+
+```bash
+rss_check_dir=$(mktemp -d)
+if [ -f fuliba-latest-state.json ]; then
+  cp fuliba-latest-state.json "$rss_check_dir/"
+fi
+FULIBA_STATE="$rss_check_dir/fuliba-latest-state.json" \
+FULIBA_OUT="$rss_check_dir/fuliba-latest.xml" \
+FULIBA_HEALTH="$rss_check_dir/fuliba-latest-health.json" \
+python3 fuliba_latest_feed.py
+
+cat "$rss_check_dir/fuliba-latest-health.json"
+```
+
