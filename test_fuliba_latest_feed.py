@@ -183,18 +183,25 @@ class ValidationTests(unittest.TestCase):
 
 
 class StateTests(unittest.TestCase):
-    def test_first_run_seeds_without_creating_items(self):
+    def test_first_run_seeds_with_rss_items(self):
+        """First run creates RSS items for all current sites so subscription is useful."""
         st = {"seen_ids": [], "items": []}
         sites = sample_sites()
         updated, added = feed.update_state(st, sites, NOW)
         
-        self.assertEqual(added, 0)
+        self.assertEqual(added, 3)
         self.assertEqual(len(updated["seen_ids"]), 3)
-        self.assertEqual(len(updated["items"]), 0)
+        self.assertEqual(len(updated["items"]), 3)
         self.assertEqual(updated["seeded_count"], 3)
         self.assertIn("4368", updated["seen_ids"])
         self.assertIn("4380", updated["seen_ids"])
         self.assertIn("4379", updated["seen_ids"])
+        
+        # Verify items have stable GUIDs and discovery timestamps
+        for item in updated["items"]:
+            self.assertTrue(item["guid"].startswith("fuliba123-site-"))
+            self.assertIn("discovered_at", item)
+            self.assertIn(NOW.isoformat()[:10], item["discovered_at"])
 
     def test_subsequent_run_adds_only_new_sites(self):
         st = {"seen_ids": ["4368", "4379"], "items": []}
@@ -354,19 +361,25 @@ class RunTests(unittest.TestCase):
         with redirect_stdout(io.StringIO()):
             return feed.run(self.state_path, self.out_path, self.health_path, now=now)
 
-    def test_first_run_seeds_state(self):
+    def test_first_run_seeds_state_with_items(self):
+        """First run populates RSS with current sites so subscription is immediately useful."""
         with patch.object(feed, "fetch_latest_sites", return_value=SAMPLE_HTML):
             result = self.run_feed()
         
         self.assertEqual(result, 0)
         state = json.loads(self.state_path.read_text())
         self.assertEqual(len(state["seen_ids"]), 3)
-        self.assertEqual(len(state["items"]), 0)
+        self.assertEqual(len(state["items"]), 3)
         self.assertEqual(state["seeded_count"], 3)
+        
+        # Verify RSS has items with stable GUIDs
+        for item in state["items"]:
+            self.assertTrue(item["guid"].startswith("fuliba123-site-"))
         
         health = json.loads(self.health_path.read_text())
         self.assertEqual(health["status"], "ok")
-        self.assertEqual(health["new_items"], 0)
+        self.assertEqual(health["new_items"], 3)
+        self.assertEqual(health["seeded"], 3)
 
     def test_subsequent_run_adds_new_items(self):
         initial_state = {"seen_ids": ["4368", "4379"], "items": []}
@@ -424,16 +437,22 @@ class RunTests(unittest.TestCase):
         self.assertEqual(health["status"], "error")
 
     def test_idempotent_runs(self):
+        """Repeated runs with same data produce identical state/feed."""
         with patch.object(feed, "fetch_latest_sites", return_value=SAMPLE_HTML):
             self.run_feed()
             state1 = self.state_path.read_bytes()
             feed1 = self.out_path.read_bytes()
             
+            # Second run should find no new sites
             self.run_feed()
             state2 = self.state_path.read_bytes()
             feed2 = self.out_path.read_bytes()
         
-        self.assertEqual(state1, state2)
+        # State may differ in last_fetch timestamp, but items should be same
+        s1 = json.loads(state1)
+        s2 = json.loads(state2)
+        self.assertEqual(s1["items"], s2["items"])
+        self.assertEqual(s1["seen_ids"], s2["seen_ids"])
         self.assertEqual(feed1, feed2)
 
     def test_health_preserves_last_successful_fetch(self):

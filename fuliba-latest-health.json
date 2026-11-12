@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-11-12T00:14:44.052083+00:00",
+  "checked_at": "2026-11-12T00:18:31.060637+00:00",
   "status": "ok",
   "source_url": "https://fuliba123.com",
-  "last_successful_fetch_at": "2026-11-12T00:14:44.052083+00:00",
+  "last_successful_fetch_at": "2026-11-12T00:18:31.060637+00:00",
   "known_site_count": 20,
   "fetched_site_count": 20,
-  "new_items": 0,
-  "item_count": 0,
+  "new_items": 20,
+  "item_count": 20,
   "seeded": 20,
   "error": null
 }

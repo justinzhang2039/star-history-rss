@@ -147,8 +147,12 @@ def update_state(st, sites, now):
     """
     Update state with new site entries.
     
-    - First run (no seen_ids): seed with current entries, no RSS items
+    - First run (no seen_ids): seed with current entries AS RSS items
+      so the subscription is immediately useful
     - Subsequent runs: only emit items for genuinely new site IDs
+    
+    Discovery timestamps (pubDate) reflect when we first saw the site,
+    not when the site was originally published (that info is unavailable).
     """
     st = copy.deepcopy(st)
     st.setdefault("seen_ids", [])
@@ -168,14 +172,7 @@ def update_state(st, sites, now):
             new_sites.append(site)
             seen_set.add(site["id"])
     
-    if first_run:
-        # Seed: record all IDs but don't create RSS items
-        st["seen_ids"] = sorted(seen_set)
-        st["last_fetch"] = now.isoformat()
-        st["seeded_count"] = len(sites)
-        return st, 0
-    
-    # Add new items to feed
+    # Add new items to feed (including first run - seeds current entries as items)
     added = 0
     for site in new_sites:
         guid = f"fuliba123-site-{site['id']}"
@@ -207,6 +204,8 @@ def update_state(st, sites, now):
     st["seen_ids"] = sorted(seen_set)
     st["items"] = st["items"][:MAX_ITEMS]
     st["last_fetch"] = now.isoformat()
+    if first_run:
+        st["seeded_count"] = len(sites)
     
     return st, added
 
@@ -300,10 +299,10 @@ def run(state_path, out_path, health_path, now=None):
             error=None,
         )
         
-        if added > 0:
+        if updated.get("seeded_count"):
+            print(f"Seeded {updated['seeded_count']} sites as initial feed items (first run)")
+        elif added > 0:
             print(f"Added {added} new site(s) to feed")
-        elif updated.get("seeded_count"):
-            print(f"Seeded {updated['seeded_count']} sites (first run)")
         else:
             print("No new sites found")
             
