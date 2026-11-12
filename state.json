@@ -1,33 +1,33 @@
 {
- "window": "Nov 4, 2026 – Nov 10, 2026",
+ "window": "Nov 5, 2026 – Nov 11, 2026",
  "top20": [
   "morluto/rea",
   "sherlock-project/sherlock",
+  "meta/astryx",
   "cloudflare/security-audit-skill",
   "pingdotgg/t3code",
-  "meta/astryx",
-  "mattpocock/skills",
   "milind-soni/OpenMausBot",
-  "NVIDIA/auto-ontology",
-  "vercel-labs/agent-desktop",
+  "mattpocock/skills",
   "debpalash/VoiceStudio",
-  "deepseek-ai/deepseek-harness",
   "stablyai/orca",
-  "pbakaus/impeccable",
-  "D4Vinci/Scrapling",
+  "deepseek-ai/deepseek-harness",
+  "vercel-labs/agent-desktop",
   "anomalyco/rune",
-  "Nutlope/hallmark",
+  "NVIDIA/auto-ontology",
   "anthropics/skills",
+  "pbakaus/impeccable",
+  "Nutlope/hallmark",
   "yetone/magpie",
-  "sindresorhus/awesome",
-  "DietrichGebert/ponytail"
+  "D4Vinci/Scrapling",
+  "DietrichGebert/ponytail",
+  "sindresorhus/awesome"
  ],
  "top5": [
   "morluto/rea",
   "sherlock-project/sherlock",
+  "meta/astryx",
   "cloudflare/security-audit-skill",
-  "pingdotgg/t3code",
-  "meta/astryx"
+  "pingdotgg/t3code"
  ],
  "items": [
   {
@@ -493,11 +493,6 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "844b6ae3bc26e95e085aba807b1880ac51301e238e436d9f7c727607e2c21cae",
- "window_guids": [
-  "Nov 4, 2026 – Nov 10, 2026|new|anomalyco/rune",
-  "Nov 4, 2026 – Nov 10, 2026|new|anthropics/skills",
-  "Nov 4, 2026 – Nov 10, 2026|new|yetone/magpie",
-  "Nov 4, 2026 – Nov 10, 2026|top5|meta/astryx"
- ]
+ "source_hash": "9d787358d93d9ebada232dbeafaa5c6cdbace7464bbadff6279ffa6c9f2d402a",
+ "window_guids": []
 }
