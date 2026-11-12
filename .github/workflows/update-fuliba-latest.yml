@@ -1,0 +1,81 @@
+name: Update Fuliba Latest Sites RSS Feed
+
+on:
+  schedule:
+    # Twice daily at Asia/Shanghai morning (09:00) and evening (21:00)
+    # 09:00 CST = 01:00 UTC, 21:00 CST = 13:00 UTC
+    - cron: '0 1 * * *'   # 01:00 UTC = 09:00 Asia/Shanghai
+    - cron: '0 13 * * *'  # 13:00 UTC = 21:00 Asia/Shanghai
+  workflow_dispatch:
+  pull_request:
+  push:
+    branches: [main]
+    paths:
+      - fuliba_latest_feed.py
+      - test_fuliba_latest_feed.py
+      - .github/workflows/update-fuliba-latest.yml
+
+permissions:
+  contents: read
+
+concurrency:
+  group: fuliba-latest-rss-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Run tests
+        run: python -m unittest test_fuliba_latest_feed -v
+
+  update-feed:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' || github.event_name == 'push'
+    needs: test
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run feed update script
+        id: update
+        continue-on-error: true
+        run: python fuliba_latest_feed.py
+
+      - name: Persist feed state changes
+        env:
+          UPDATE_OUTCOME: ${{ steps.update.outcome }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -f fuliba-latest-health.json ]; then
+            git add fuliba-latest-health.json
+          fi
+          if [ "$UPDATE_OUTCOME" = success ]; then
+            git add fuliba-latest-state.json fuliba-latest.xml
+          fi
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update fuliba123.com latest sites feed"
+            git push
+          fi
+
+      - name: Check update status
+        if: always()
+        env:
+          UPDATE_OUTCOME: ${{ steps.update.outcome }}
+        run: |
+          test "$UPDATE_OUTCOME" = success
+          python -c 'import json, sys; h = json.load(open("fuliba-latest-health.json")); print(h); sys.exit(0 if h["status"] == "ok" else 1)'
