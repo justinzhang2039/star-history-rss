@@ -1,35 +1,42 @@
 {
- "window": "Nov 5, 2026 – Nov 11, 2026",
+ "window": "Nov 6, 2026 – Nov 12, 2026",
  "top20": [
   "morluto/rea",
   "sherlock-project/sherlock",
   "meta/astryx",
-  "cloudflare/security-audit-skill",
   "pingdotgg/t3code",
+  "cloudflare/security-audit-skill",
   "milind-soni/OpenMausBot",
   "mattpocock/skills",
   "debpalash/VoiceStudio",
   "stablyai/orca",
   "deepseek-ai/deepseek-harness",
-  "vercel-labs/agent-desktop",
-  "anomalyco/rune",
-  "NVIDIA/auto-ontology",
   "anthropics/skills",
-  "pbakaus/impeccable",
+  "anomalyco/rune",
+  "vercel-labs/agent-desktop",
   "Nutlope/hallmark",
+  "pbakaus/impeccable",
   "yetone/magpie",
-  "D4Vinci/Scrapling",
   "DietrichGebert/ponytail",
-  "sindresorhus/awesome"
+  "sindresorhus/awesome",
+  "NVIDIA/auto-ontology",
+  "Gathin23/cleanyourtv"
  ],
  "top5": [
   "morluto/rea",
   "sherlock-project/sherlock",
   "meta/astryx",
-  "cloudflare/security-audit-skill",
-  "pingdotgg/t3code"
+  "pingdotgg/t3code",
+  "cloudflare/security-audit-skill"
  ],
  "items": [
+  {
+   "title": "🆕 新进榜单 Top20 #20 Gathin23/cleanyourtv（+4,415 ★）",
+   "link": "https://github.com/Gathin23/cleanyourtv",
+   "guid": "Nov 6, 2026 – Nov 12, 2026|new|Gathin23/cleanyourtv",
+   "pubDate": "Fri, 13 Nov 2026 20:33:31 +0000",
+   "desc": "统计窗口：Nov 6, 2026 – Nov 12, 2026<br>当前排名：#20<br>统计期内新增星：+4,415<br>总星数：57,316<br><a href='https://www.star-history.com/#Gathin23/cleanyourtv&amp;Date'>Star History 曲线</a> · <a href='https://github.com/Gathin23/cleanyourtv'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #5 meta/astryx｜前5：rea +23,286 / sherlock +14,031 / security-audit-skill +11,388 / t3code +11,213 / astryx +9,923",
    "link": "https://github.com/meta/astryx",
@@ -493,6 +500,8 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "9d787358d93d9ebada232dbeafaa5c6cdbace7464bbadff6279ffa6c9f2d402a",
- "window_guids": []
+ "source_hash": "e3daebb00c01a2d2ba4d2cde53f0e99c694385bdb2f5d609b2ff7dc25ac8cb1d",
+ "window_guids": [
+  "Nov 6, 2026 – Nov 12, 2026|new|Gathin23/cleanyourtv"
+ ]
 }
