@@ -1,35 +1,56 @@
 {
- "window": "Nov 6, 2026 – Nov 12, 2026",
+ "window": "Nov 7, 2026 – Nov 13, 2026",
  "top20": [
   "morluto/rea",
-  "sherlock-project/sherlock",
   "meta/astryx",
+  "sherlock-project/sherlock",
   "pingdotgg/t3code",
   "cloudflare/security-audit-skill",
-  "milind-soni/OpenMausBot",
   "mattpocock/skills",
   "debpalash/VoiceStudio",
   "stablyai/orca",
-  "deepseek-ai/deepseek-harness",
+  "milind-soni/OpenMausBot",
   "anthropics/skills",
-  "anomalyco/rune",
+  "deepseek-ai/deepseek-harness",
   "vercel-labs/agent-desktop",
+  "yetone/magpie",
   "Nutlope/hallmark",
   "pbakaus/impeccable",
-  "yetone/magpie",
+  "h4ckf0r0day/obscura",
   "DietrichGebert/ponytail",
+  "vercel-labs/agent-browser",
   "sindresorhus/awesome",
-  "NVIDIA/auto-ontology",
-  "Gathin23/cleanyourtv"
+  "ZhuLinsen/daily_stock_analysis"
  ],
  "top5": [
   "morluto/rea",
-  "sherlock-project/sherlock",
   "meta/astryx",
+  "sherlock-project/sherlock",
   "pingdotgg/t3code",
   "cloudflare/security-audit-skill"
  ],
  "items": [
+  {
+   "title": "🆕 新进榜单 Top20 #20 ZhuLinsen/daily_stock_analysis（+4,350 ★）",
+   "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+   "guid": "Nov 7, 2026 – Nov 13, 2026|new|ZhuLinsen/daily_stock_analysis",
+   "pubDate": "Sat, 14 Nov 2026 18:47:17 +0000",
+   "desc": "统计窗口：Nov 7, 2026 – Nov 13, 2026<br>当前排名：#20<br>统计期内新增星：+4,350<br>总星数：71,410<br><a href='https://www.star-history.com/#ZhuLinsen/daily_stock_analysis&amp;Date'>Star History 曲线</a> · <a href='https://github.com/ZhuLinsen/daily_stock_analysis'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #18 vercel-labs/agent-browser（+4,536 ★）",
+   "link": "https://github.com/vercel-labs/agent-browser",
+   "guid": "Nov 7, 2026 – Nov 13, 2026|new|vercel-labs/agent-browser",
+   "pubDate": "Sat, 14 Nov 2026 18:47:17 +0000",
+   "desc": "统计窗口：Nov 7, 2026 – Nov 13, 2026<br>当前排名：#18<br>统计期内新增星：+4,536<br>总星数：50,614<br><a href='https://www.star-history.com/#vercel-labs/agent-browser&amp;Date'>Star History 曲线</a> · <a href='https://github.com/vercel-labs/agent-browser'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #16 h4ckf0r0day/obscura（+4,722 ★）",
+   "link": "https://github.com/h4ckf0r0day/obscura",
+   "guid": "Nov 7, 2026 – Nov 13, 2026|new|h4ckf0r0day/obscura",
+   "pubDate": "Sat, 14 Nov 2026 18:47:17 +0000",
+   "desc": "统计窗口：Nov 7, 2026 – Nov 13, 2026<br>当前排名：#16<br>统计期内新增星：+4,722<br>总星数：34,868<br><a href='https://www.star-history.com/#h4ckf0r0day/obscura&amp;Date'>Star History 曲线</a> · <a href='https://github.com/h4ckf0r0day/obscura'>GitHub</a>"
+  },
   {
    "title": "🆕 新进榜单 Top20 #20 Gathin23/cleanyourtv（+4,415 ★）",
    "link": "https://github.com/Gathin23/cleanyourtv",
@@ -500,8 +521,10 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "e3daebb00c01a2d2ba4d2cde53f0e99c694385bdb2f5d609b2ff7dc25ac8cb1d",
+ "source_hash": "4363f263815611d5f71e58da4b3dc1a49b28e8e9ea551fb4d3edbb9f3f193039",
  "window_guids": [
-  "Nov 6, 2026 – Nov 12, 2026|new|Gathin23/cleanyourtv"
+  "Nov 7, 2026 – Nov 13, 2026|new|ZhuLinsen/daily_stock_analysis",
+  "Nov 7, 2026 – Nov 13, 2026|new|h4ckf0r0day/obscura",
+  "Nov 7, 2026 – Nov 13, 2026|new|vercel-labs/agent-browser"
  ]
 }
