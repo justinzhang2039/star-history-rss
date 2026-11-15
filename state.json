@@ -1,35 +1,56 @@
 {
- "window": "Nov 7, 2026 – Nov 13, 2026",
+ "window": "Nov 8, 2026 – Nov 14, 2026",
  "top20": [
   "morluto/rea",
   "meta/astryx",
   "sherlock-project/sherlock",
   "pingdotgg/t3code",
-  "cloudflare/security-audit-skill",
   "mattpocock/skills",
   "debpalash/VoiceStudio",
+  "cloudflare/security-audit-skill",
   "stablyai/orca",
-  "milind-soni/OpenMausBot",
   "anthropics/skills",
   "deepseek-ai/deepseek-harness",
-  "vercel-labs/agent-desktop",
+  "milind-soni/OpenMausBot",
+  "GoogleChrome/modern-web-guidance-src",
+  "h4ckf0r0day/obscura",
   "yetone/magpie",
+  "vercel-labs/agent-desktop",
   "Nutlope/hallmark",
   "pbakaus/impeccable",
-  "h4ckf0r0day/obscura",
   "DietrichGebert/ponytail",
-  "vercel-labs/agent-browser",
-  "sindresorhus/awesome",
-  "ZhuLinsen/daily_stock_analysis"
+  "ZhuLinsen/daily_stock_analysis",
+  "we-promise/sure"
  ],
  "top5": [
   "morluto/rea",
   "meta/astryx",
   "sherlock-project/sherlock",
   "pingdotgg/t3code",
-  "cloudflare/security-audit-skill"
+  "mattpocock/skills"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #5 mattpocock/skills｜前5：rea +19,395 / astryx +13,591 / sherlock +10,850 / t3code +9,406 / skills +6,946",
+   "link": "https://github.com/mattpocock/skills",
+   "guid": "Nov 8, 2026 – Nov 14, 2026|top5|mattpocock/skills",
+   "pubDate": "Sun, 15 Nov 2026 19:24:59 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +19,395 ★<br>#2 <a href='https://github.com/meta/astryx'>meta/astryx</a> +13,591 ★<br>#3 <a href='https://github.com/sherlock-project/sherlock'>sherlock-project/sherlock</a> +10,850 ★<br>#4 <a href='https://github.com/pingdotgg/t3code'>pingdotgg/t3code</a> +9,406 ★<br>#5 <a href='https://github.com/mattpocock/skills'>mattpocock/skills</a> +6,946 ★ ← 新进<br><br>统计窗口：Nov 8, 2026 – Nov 14, 2026<br>当前排名：#5<br>统计期内新增星：+6,946<br>总星数：324,898<br><a href='https://www.star-history.com/#mattpocock/skills&amp;Date'>Star History 曲线</a> · <a href='https://github.com/mattpocock/skills'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #20 we-promise/sure（+4,528 ★）",
+   "link": "https://github.com/we-promise/sure",
+   "guid": "Nov 8, 2026 – Nov 14, 2026|new|we-promise/sure",
+   "pubDate": "Sun, 15 Nov 2026 19:24:59 +0000",
+   "desc": "统计窗口：Nov 8, 2026 – Nov 14, 2026<br>当前排名：#20<br>统计期内新增星：+4,528<br>总星数：15,588<br><a href='https://www.star-history.com/#we-promise/sure&amp;Date'>Star History 曲线</a> · <a href='https://github.com/we-promise/sure'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #12 GoogleChrome/modern-web-guidance-src（+5,108 ★）",
+   "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
+   "guid": "Nov 8, 2026 – Nov 14, 2026|new|GoogleChrome/modern-web-guidance-src",
+   "pubDate": "Sun, 15 Nov 2026 19:24:59 +0000",
+   "desc": "统计窗口：Nov 8, 2026 – Nov 14, 2026<br>当前排名：#12<br>统计期内新增星：+5,108<br>总星数：6,832<br><a href='https://www.star-history.com/#GoogleChrome/modern-web-guidance-src&amp;Date'>Star History 曲线</a> · <a href='https://github.com/GoogleChrome/modern-web-guidance-src'>GitHub</a>"
+  },
   {
    "title": "🆕 新进榜单 Top20 #20 ZhuLinsen/daily_stock_analysis（+4,350 ★）",
    "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
@@ -521,10 +542,10 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "4363f263815611d5f71e58da4b3dc1a49b28e8e9ea551fb4d3edbb9f3f193039",
+ "source_hash": "668d2de5c9fddef3fe45f0dd53a65427e4fecc0867b5427db1cab7c8a468dc81",
  "window_guids": [
-  "Nov 7, 2026 – Nov 13, 2026|new|ZhuLinsen/daily_stock_analysis",
-  "Nov 7, 2026 – Nov 13, 2026|new|h4ckf0r0day/obscura",
-  "Nov 7, 2026 – Nov 13, 2026|new|vercel-labs/agent-browser"
+  "Nov 8, 2026 – Nov 14, 2026|new|GoogleChrome/modern-web-guidance-src",
+  "Nov 8, 2026 – Nov 14, 2026|new|we-promise/sure",
+  "Nov 8, 2026 – Nov 14, 2026|top5|mattpocock/skills"
  ]
 }
