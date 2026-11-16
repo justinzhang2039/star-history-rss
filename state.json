@@ -1,35 +1,42 @@
 {
- "window": "Nov 8, 2026 – Nov 14, 2026",
+ "window": "Nov 9, 2026 – Nov 15, 2026",
  "top20": [
   "morluto/rea",
   "meta/astryx",
-  "sherlock-project/sherlock",
   "pingdotgg/t3code",
+  "sherlock-project/sherlock",
   "mattpocock/skills",
-  "debpalash/VoiceStudio",
-  "cloudflare/security-audit-skill",
   "stablyai/orca",
+  "debpalash/VoiceStudio",
+  "GoogleChrome/modern-web-guidance-src",
+  "cloudflare/security-audit-skill",
   "anthropics/skills",
   "deepseek-ai/deepseek-harness",
-  "milind-soni/OpenMausBot",
-  "GoogleChrome/modern-web-guidance-src",
   "h4ckf0r0day/obscura",
-  "yetone/magpie",
-  "vercel-labs/agent-desktop",
-  "Nutlope/hallmark",
-  "pbakaus/impeccable",
+  "milind-soni/OpenMausBot",
   "DietrichGebert/ponytail",
-  "ZhuLinsen/daily_stock_analysis",
-  "we-promise/sure"
+  "yetone/magpie",
+  "pbakaus/impeccable",
+  "we-promise/sure",
+  "Nutlope/hallmark",
+  "vercel-labs/agent-desktop",
+  "affaan-m/ECC"
  ],
  "top5": [
   "morluto/rea",
   "meta/astryx",
-  "sherlock-project/sherlock",
   "pingdotgg/t3code",
+  "sherlock-project/sherlock",
   "mattpocock/skills"
  ],
  "items": [
+  {
+   "title": "🆕 新进榜单 Top20 #20 affaan-m/ECC（+4,473 ★）",
+   "link": "https://github.com/affaan-m/ECC",
+   "guid": "Nov 9, 2026 – Nov 15, 2026|new|affaan-m/ECC",
+   "pubDate": "Mon, 16 Nov 2026 22:57:07 +0000",
+   "desc": "统计窗口：Nov 9, 2026 – Nov 15, 2026<br>当前排名：#20<br>统计期内新增星：+4,473<br>总星数：304,456<br><a href='https://www.star-history.com/#affaan-m/ECC&amp;Date'>Star History 曲线</a> · <a href='https://github.com/affaan-m/ECC'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #5 mattpocock/skills｜前5：rea +19,395 / astryx +13,591 / sherlock +10,850 / t3code +9,406 / skills +6,946",
    "link": "https://github.com/mattpocock/skills",
@@ -542,10 +549,8 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "668d2de5c9fddef3fe45f0dd53a65427e4fecc0867b5427db1cab7c8a468dc81",
+ "source_hash": "1ec22646e5424ab7179f16bed4dd330f8b27e09e74e6839c2a43294ac93cd5ea",
  "window_guids": [
-  "Nov 8, 2026 – Nov 14, 2026|new|GoogleChrome/modern-web-guidance-src",
-  "Nov 8, 2026 – Nov 14, 2026|new|we-promise/sure",
-  "Nov 8, 2026 – Nov 14, 2026|top5|mattpocock/skills"
+  "Nov 9, 2026 – Nov 15, 2026|new|affaan-m/ECC"
  ]
 }
