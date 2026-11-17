@@ -1,35 +1,63 @@
 {
- "window": "Nov 9, 2026 – Nov 15, 2026",
+ "window": "Nov 10, 2026 – Nov 16, 2026",
  "top20": [
   "morluto/rea",
   "meta/astryx",
   "pingdotgg/t3code",
-  "sherlock-project/sherlock",
-  "mattpocock/skills",
-  "stablyai/orca",
-  "debpalash/VoiceStudio",
   "GoogleChrome/modern-web-guidance-src",
+  "stablyai/orca",
+  "mattpocock/skills",
   "cloudflare/security-audit-skill",
-  "anthropics/skills",
+  "debpalash/VoiceStudio",
+  "sherlock-project/sherlock",
+  "dream-num/univer",
   "deepseek-ai/deepseek-harness",
-  "h4ckf0r0day/obscura",
-  "milind-soni/OpenMausBot",
-  "DietrichGebert/ponytail",
-  "yetone/magpie",
-  "pbakaus/impeccable",
+  "anthropics/skills",
+  "affaan-m/ECC",
   "we-promise/sure",
+  "DietrichGebert/ponytail",
+  "pbakaus/impeccable",
+  "Leonxlnx/taste-skill",
+  "yetone/magpie",
   "Nutlope/hallmark",
-  "vercel-labs/agent-desktop",
-  "affaan-m/ECC"
+  "milind-soni/OpenMausBot"
  ],
  "top5": [
   "morluto/rea",
   "meta/astryx",
   "pingdotgg/t3code",
-  "sherlock-project/sherlock",
-  "mattpocock/skills"
+  "GoogleChrome/modern-web-guidance-src",
+  "stablyai/orca"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #5 stablyai/orca｜前5：rea +17,492 / astryx +8,912 / t3code +8,721 / modern-web-guidance-src +6,912 / orca +6,557",
+   "link": "https://github.com/stablyai/orca",
+   "guid": "Nov 10, 2026 – Nov 16, 2026|top5|stablyai/orca",
+   "pubDate": "Tue, 17 Nov 2026 21:49:51 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +17,492 ★<br>#2 <a href='https://github.com/meta/astryx'>meta/astryx</a> +8,912 ★<br>#3 <a href='https://github.com/pingdotgg/t3code'>pingdotgg/t3code</a> +8,721 ★<br>#4 <a href='https://github.com/GoogleChrome/modern-web-guidance-src'>GoogleChrome/modern-web-guidance-src</a> +6,912 ★<br>#5 <a href='https://github.com/stablyai/orca'>stablyai/orca</a> +6,557 ★ ← 新进<br><br>统计窗口：Nov 10, 2026 – Nov 16, 2026<br>当前排名：#5<br>统计期内新增星：+6,557<br>总星数：127,637<br><a href='https://www.star-history.com/#stablyai/orca&amp;Date'>Star History 曲线</a> · <a href='https://github.com/stablyai/orca'>GitHub</a>"
+  },
+  {
+   "title": "🔥 新进前5 #4 GoogleChrome/modern-web-guidance-src｜前5：rea +17,492 / astryx +8,912 / t3code +8,721 / modern-web-guidance-src +6,912 / orca +6,557",
+   "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
+   "guid": "Nov 10, 2026 – Nov 16, 2026|top5|GoogleChrome/modern-web-guidance-src",
+   "pubDate": "Tue, 17 Nov 2026 21:49:51 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +17,492 ★<br>#2 <a href='https://github.com/meta/astryx'>meta/astryx</a> +8,912 ★<br>#3 <a href='https://github.com/pingdotgg/t3code'>pingdotgg/t3code</a> +8,721 ★<br>#4 <a href='https://github.com/GoogleChrome/modern-web-guidance-src'>GoogleChrome/modern-web-guidance-src</a> +6,912 ★ ← 新进<br>#5 <a href='https://github.com/stablyai/orca'>stablyai/orca</a> +6,557 ★<br><br>统计窗口：Nov 10, 2026 – Nov 16, 2026<br>当前排名：#4<br>统计期内新增星：+6,912<br>总星数：8,346<br><a href='https://www.star-history.com/#GoogleChrome/modern-web-guidance-src&amp;Date'>Star History 曲线</a> · <a href='https://github.com/GoogleChrome/modern-web-guidance-src'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #17 Leonxlnx/taste-skill（+4,587 ★）",
+   "link": "https://github.com/Leonxlnx/taste-skill",
+   "guid": "Nov 10, 2026 – Nov 16, 2026|new|Leonxlnx/taste-skill",
+   "pubDate": "Tue, 17 Nov 2026 21:49:51 +0000",
+   "desc": "统计窗口：Nov 10, 2026 – Nov 16, 2026<br>当前排名：#17<br>统计期内新增星：+4,587<br>总星数：117,565<br><a href='https://www.star-history.com/#Leonxlnx/taste-skill&amp;Date'>Star History 曲线</a> · <a href='https://github.com/Leonxlnx/taste-skill'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #10 dream-num/univer（+5,499 ★）",
+   "link": "https://github.com/dream-num/univer",
+   "guid": "Nov 10, 2026 – Nov 16, 2026|new|dream-num/univer",
+   "pubDate": "Tue, 17 Nov 2026 21:49:51 +0000",
+   "desc": "统计窗口：Nov 10, 2026 – Nov 16, 2026<br>当前排名：#10<br>统计期内新增星：+5,499<br>总星数：28,784<br><a href='https://www.star-history.com/#dream-num/univer&amp;Date'>Star History 曲线</a> · <a href='https://github.com/dream-num/univer'>GitHub</a>"
+  },
   {
    "title": "🆕 新进榜单 Top20 #20 affaan-m/ECC（+4,473 ★）",
    "link": "https://github.com/affaan-m/ECC",
@@ -549,8 +577,11 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "1ec22646e5424ab7179f16bed4dd330f8b27e09e74e6839c2a43294ac93cd5ea",
+ "source_hash": "776b3e296c62e77f7608c932ab2b69e162eef653d5b6dfa3ef8c1f06844cda07",
  "window_guids": [
-  "Nov 9, 2026 – Nov 15, 2026|new|affaan-m/ECC"
+  "Nov 10, 2026 – Nov 16, 2026|new|Leonxlnx/taste-skill",
+  "Nov 10, 2026 – Nov 16, 2026|new|dream-num/univer",
+  "Nov 10, 2026 – Nov 16, 2026|top5|GoogleChrome/modern-web-guidance-src",
+  "Nov 10, 2026 – Nov 16, 2026|top5|stablyai/orca"
  ]
 }
