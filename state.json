@@ -1,35 +1,49 @@
 {
- "window": "Nov 10, 2026 – Nov 16, 2026",
+ "window": "Nov 11, 2026 – Nov 17, 2026",
  "top20": [
   "morluto/rea",
-  "meta/astryx",
   "pingdotgg/t3code",
   "GoogleChrome/modern-web-guidance-src",
   "stablyai/orca",
-  "mattpocock/skills",
-  "cloudflare/security-audit-skill",
-  "debpalash/VoiceStudio",
-  "sherlock-project/sherlock",
+  "meta/astryx",
   "dream-num/univer",
-  "deepseek-ai/deepseek-harness",
-  "anthropics/skills",
+  "mattpocock/skills",
+  "debpalash/VoiceStudio",
+  "cloudflare/security-audit-skill",
   "affaan-m/ECC",
-  "we-promise/sure",
   "DietrichGebert/ponytail",
-  "pbakaus/impeccable",
+  "deepseek-ai/deepseek-harness",
   "Leonxlnx/taste-skill",
-  "yetone/magpie",
+  "pbakaus/impeccable",
+  "sherlock-project/sherlock",
+  "elementalsouls/Claude-BugHunter",
+  "anthropics/skills",
   "Nutlope/hallmark",
-  "milind-soni/OpenMausBot"
+  "yetone/magpie",
+  "alibaba/open-code-review"
  ],
  "top5": [
   "morluto/rea",
-  "meta/astryx",
   "pingdotgg/t3code",
   "GoogleChrome/modern-web-guidance-src",
-  "stablyai/orca"
+  "stablyai/orca",
+  "meta/astryx"
  ],
  "items": [
+  {
+   "title": "🆕 新进榜单 Top20 #20 alibaba/open-code-review（+4,253 ★）",
+   "link": "https://github.com/alibaba/open-code-review",
+   "guid": "Nov 11, 2026 – Nov 17, 2026|new|alibaba/open-code-review",
+   "pubDate": "Wed, 18 Nov 2026 21:29:06 +0000",
+   "desc": "统计窗口：Nov 11, 2026 – Nov 17, 2026<br>当前排名：#20<br>统计期内新增星：+4,253<br>总星数：54,146<br><a href='https://www.star-history.com/#alibaba/open-code-review&amp;Date'>Star History 曲线</a> · <a href='https://github.com/alibaba/open-code-review'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #16 elementalsouls/Claude-BugHunter（+4,478 ★）",
+   "link": "https://github.com/elementalsouls/Claude-BugHunter",
+   "guid": "Nov 11, 2026 – Nov 17, 2026|new|elementalsouls/Claude-BugHunter",
+   "pubDate": "Wed, 18 Nov 2026 21:29:06 +0000",
+   "desc": "统计窗口：Nov 11, 2026 – Nov 17, 2026<br>当前排名：#16<br>统计期内新增星：+4,478<br>总星数：10,968<br><a href='https://www.star-history.com/#elementalsouls/Claude-BugHunter&amp;Date'>Star History 曲线</a> · <a href='https://github.com/elementalsouls/Claude-BugHunter'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #5 stablyai/orca｜前5：rea +17,492 / astryx +8,912 / t3code +8,721 / modern-web-guidance-src +6,912 / orca +6,557",
    "link": "https://github.com/stablyai/orca",
@@ -577,11 +591,9 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "776b3e296c62e77f7608c932ab2b69e162eef653d5b6dfa3ef8c1f06844cda07",
+ "source_hash": "690c7a87e225e080070f23ef8a9db9c87377db4a905217390be892e65e7e27c3",
  "window_guids": [
-  "Nov 10, 2026 – Nov 16, 2026|new|Leonxlnx/taste-skill",
-  "Nov 10, 2026 – Nov 16, 2026|new|dream-num/univer",
-  "Nov 10, 2026 – Nov 16, 2026|top5|GoogleChrome/modern-web-guidance-src",
-  "Nov 10, 2026 – Nov 16, 2026|top5|stablyai/orca"
+  "Nov 11, 2026 – Nov 17, 2026|new|alibaba/open-code-review",
+  "Nov 11, 2026 – Nov 17, 2026|new|elementalsouls/Claude-BugHunter"
  ]
 }
