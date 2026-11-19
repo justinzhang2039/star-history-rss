@@ -1,35 +1,63 @@
 {
- "window": "Nov 11, 2026 – Nov 17, 2026",
+ "window": "Nov 12, 2026 – Nov 18, 2026",
  "top20": [
   "morluto/rea",
   "pingdotgg/t3code",
   "GoogleChrome/modern-web-guidance-src",
-  "stablyai/orca",
-  "meta/astryx",
   "dream-num/univer",
-  "mattpocock/skills",
-  "debpalash/VoiceStudio",
-  "cloudflare/security-audit-skill",
-  "affaan-m/ECC",
-  "DietrichGebert/ponytail",
-  "deepseek-ai/deepseek-harness",
-  "Leonxlnx/taste-skill",
-  "pbakaus/impeccable",
-  "sherlock-project/sherlock",
+  "stablyai/orca",
   "elementalsouls/Claude-BugHunter",
+  "mattpocock/skills",
+  "affaan-m/ECC",
+  "obra/superpowers",
+  "debpalash/VoiceStudio",
+  "DietrichGebert/ponytail",
+  "meta/astryx",
+  "cloudflare/security-audit-skill",
+  "Leonxlnx/taste-skill",
+  "deepseek-ai/deepseek-harness",
+  "pbakaus/impeccable",
+  "alibaba/open-code-review",
+  "google-research/paper-orchestra",
   "anthropics/skills",
-  "Nutlope/hallmark",
-  "yetone/magpie",
-  "alibaba/open-code-review"
+  "milind-soni/OpenMausBot"
  ],
  "top5": [
   "morluto/rea",
   "pingdotgg/t3code",
   "GoogleChrome/modern-web-guidance-src",
-  "stablyai/orca",
-  "meta/astryx"
+  "dream-num/univer",
+  "stablyai/orca"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #4 dream-num/univer｜前5：rea +15,843 / t3code +8,282 / modern-web-guidance-src +6,908 / univer +6,786 / orca +6,641",
+   "link": "https://github.com/dream-num/univer",
+   "guid": "Nov 12, 2026 – Nov 18, 2026|top5|dream-num/univer",
+   "pubDate": "Thu, 19 Nov 2026 21:41:26 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +15,843 ★<br>#2 <a href='https://github.com/pingdotgg/t3code'>pingdotgg/t3code</a> +8,282 ★<br>#3 <a href='https://github.com/GoogleChrome/modern-web-guidance-src'>GoogleChrome/modern-web-guidance-src</a> +6,908 ★<br>#4 <a href='https://github.com/dream-num/univer'>dream-num/univer</a> +6,786 ★ ← 新进<br>#5 <a href='https://github.com/stablyai/orca'>stablyai/orca</a> +6,641 ★<br><br>统计窗口：Nov 12, 2026 – Nov 18, 2026<br>当前排名：#4<br>统计期内新增星：+6,786<br>总星数：29,842<br><a href='https://www.star-history.com/#dream-num/univer&amp;Date'>Star History 曲线</a> · <a href='https://github.com/dream-num/univer'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #20 milind-soni/OpenMausBot（+4,219 ★）",
+   "link": "https://github.com/milind-soni/OpenMausBot",
+   "guid": "Nov 12, 2026 – Nov 18, 2026|new|milind-soni/OpenMausBot",
+   "pubDate": "Thu, 19 Nov 2026 21:41:26 +0000",
+   "desc": "统计窗口：Nov 12, 2026 – Nov 18, 2026<br>当前排名：#20<br>统计期内新增星：+4,219<br>总星数：25,283<br><a href='https://www.star-history.com/#milind-soni/OpenMausBot&amp;Date'>Star History 曲线</a> · <a href='https://github.com/milind-soni/OpenMausBot'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #18 google-research/paper-orchestra（+4,425 ★）",
+   "link": "https://github.com/google-research/paper-orchestra",
+   "guid": "Nov 12, 2026 – Nov 18, 2026|new|google-research/paper-orchestra",
+   "pubDate": "Thu, 19 Nov 2026 21:41:26 +0000",
+   "desc": "统计窗口：Nov 12, 2026 – Nov 18, 2026<br>当前排名：#18<br>统计期内新增星：+4,425<br>总星数：4,041<br><a href='https://www.star-history.com/#google-research/paper-orchestra&amp;Date'>Star History 曲线</a> · <a href='https://github.com/google-research/paper-orchestra'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #9 obra/superpowers（+5,373 ★）",
+   "link": "https://github.com/obra/superpowers",
+   "guid": "Nov 12, 2026 – Nov 18, 2026|new|obra/superpowers",
+   "pubDate": "Thu, 19 Nov 2026 21:41:26 +0000",
+   "desc": "统计窗口：Nov 12, 2026 – Nov 18, 2026<br>当前排名：#9<br>统计期内新增星：+5,373<br>总星数：319,870<br><a href='https://www.star-history.com/#obra/superpowers&amp;Date'>Star History 曲线</a> · <a href='https://github.com/obra/superpowers'>GitHub</a>"
+  },
   {
    "title": "🆕 新进榜单 Top20 #20 alibaba/open-code-review（+4,253 ★）",
    "link": "https://github.com/alibaba/open-code-review",
@@ -591,9 +619,11 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "690c7a87e225e080070f23ef8a9db9c87377db4a905217390be892e65e7e27c3",
+ "source_hash": "687b475f996635df8391cbbc1b6c0451159c1d7030d603b6db100e8abe6c4cb4",
  "window_guids": [
-  "Nov 11, 2026 – Nov 17, 2026|new|alibaba/open-code-review",
-  "Nov 11, 2026 – Nov 17, 2026|new|elementalsouls/Claude-BugHunter"
+  "Nov 12, 2026 – Nov 18, 2026|new|google-research/paper-orchestra",
+  "Nov 12, 2026 – Nov 18, 2026|new|milind-soni/OpenMausBot",
+  "Nov 12, 2026 – Nov 18, 2026|new|obra/superpowers",
+  "Nov 12, 2026 – Nov 18, 2026|top5|dream-num/univer"
  ]
 }
