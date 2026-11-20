@@ -1,35 +1,56 @@
 {
- "window": "Nov 12, 2026 – Nov 18, 2026",
+ "window": "Nov 13, 2026 – Nov 19, 2026",
  "top20": [
   "morluto/rea",
   "pingdotgg/t3code",
-  "GoogleChrome/modern-web-guidance-src",
+  "elementalsouls/Claude-BugHunter",
   "dream-num/univer",
   "stablyai/orca",
-  "elementalsouls/Claude-BugHunter",
-  "mattpocock/skills",
-  "affaan-m/ECC",
   "obra/superpowers",
+  "affaan-m/ECC",
+  "GoogleChrome/modern-web-guidance-src",
   "debpalash/VoiceStudio",
   "DietrichGebert/ponytail",
-  "meta/astryx",
+  "mattpocock/skills",
+  "google-research/paper-orchestra",
+  "boykopovar/AnyPS5",
   "cloudflare/security-audit-skill",
-  "Leonxlnx/taste-skill",
   "deepseek-ai/deepseek-harness",
   "pbakaus/impeccable",
+  "Leonxlnx/taste-skill",
+  "Tencent/LoopForge",
   "alibaba/open-code-review",
-  "google-research/paper-orchestra",
-  "anthropics/skills",
-  "milind-soni/OpenMausBot"
+  "meta/astryx"
  ],
  "top5": [
   "morluto/rea",
   "pingdotgg/t3code",
-  "GoogleChrome/modern-web-guidance-src",
+  "elementalsouls/Claude-BugHunter",
   "dream-num/univer",
   "stablyai/orca"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #3 elementalsouls/Claude-BugHunter｜前5：rea +15,015 / t3code +8,164 / Claude-BugHunter +7,405 / univer +7,098 / orca +6,644",
+   "link": "https://github.com/elementalsouls/Claude-BugHunter",
+   "guid": "Nov 13, 2026 – Nov 19, 2026|top5|elementalsouls/Claude-BugHunter",
+   "pubDate": "Fri, 20 Nov 2026 21:21:49 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +15,015 ★<br>#2 <a href='https://github.com/pingdotgg/t3code'>pingdotgg/t3code</a> +8,164 ★<br>#3 <a href='https://github.com/elementalsouls/Claude-BugHunter'>elementalsouls/Claude-BugHunter</a> +7,405 ★ ← 新进<br>#4 <a href='https://github.com/dream-num/univer'>dream-num/univer</a> +7,098 ★<br>#5 <a href='https://github.com/stablyai/orca'>stablyai/orca</a> +6,644 ★<br><br>统计窗口：Nov 13, 2026 – Nov 19, 2026<br>当前排名：#3<br>统计期内新增星：+7,405<br>总星数：13,770<br><a href='https://www.star-history.com/#elementalsouls/Claude-BugHunter&amp;Date'>Star History 曲线</a> · <a href='https://github.com/elementalsouls/Claude-BugHunter'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #18 Tencent/LoopForge（+4,510 ★）",
+   "link": "https://github.com/Tencent/LoopForge",
+   "guid": "Nov 13, 2026 – Nov 19, 2026|new|Tencent/LoopForge",
+   "pubDate": "Fri, 20 Nov 2026 21:21:49 +0000",
+   "desc": "统计窗口：Nov 13, 2026 – Nov 19, 2026<br>当前排名：#18<br>统计期内新增星：+4,510<br>总星数：5,243<br><a href='https://www.star-history.com/#Tencent/LoopForge&amp;Date'>Star History 曲线</a> · <a href='https://github.com/Tencent/LoopForge'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #13 boykopovar/AnyPS5（+4,674 ★）",
+   "link": "https://github.com/boykopovar/AnyPS5",
+   "guid": "Nov 13, 2026 – Nov 19, 2026|new|boykopovar/AnyPS5",
+   "pubDate": "Fri, 20 Nov 2026 21:21:49 +0000",
+   "desc": "统计窗口：Nov 13, 2026 – Nov 19, 2026<br>当前排名：#13<br>统计期内新增星：+4,674<br>总星数：58,576<br><a href='https://www.star-history.com/#boykopovar/AnyPS5&amp;Date'>Star History 曲线</a> · <a href='https://github.com/boykopovar/AnyPS5'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #4 dream-num/univer｜前5：rea +15,843 / t3code +8,282 / modern-web-guidance-src +6,908 / univer +6,786 / orca +6,641",
    "link": "https://github.com/dream-num/univer",
@@ -619,11 +640,10 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "687b475f996635df8391cbbc1b6c0451159c1d7030d603b6db100e8abe6c4cb4",
+ "source_hash": "c6fa8d641d0d8766780cabc02fba9578212fd2834b6089d92901e974ea084660",
  "window_guids": [
-  "Nov 12, 2026 – Nov 18, 2026|new|google-research/paper-orchestra",
-  "Nov 12, 2026 – Nov 18, 2026|new|milind-soni/OpenMausBot",
-  "Nov 12, 2026 – Nov 18, 2026|new|obra/superpowers",
-  "Nov 12, 2026 – Nov 18, 2026|top5|dream-num/univer"
+  "Nov 13, 2026 – Nov 19, 2026|new|Tencent/LoopForge",
+  "Nov 13, 2026 – Nov 19, 2026|new|boykopovar/AnyPS5",
+  "Nov 13, 2026 – Nov 19, 2026|top5|elementalsouls/Claude-BugHunter"
  ]
 }
