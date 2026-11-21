@@ -1,35 +1,49 @@
 {
- "window": "Nov 13, 2026 – Nov 19, 2026",
+ "window": "Nov 14, 2026 – Nov 20, 2026",
  "top20": [
   "morluto/rea",
-  "pingdotgg/t3code",
   "elementalsouls/Claude-BugHunter",
-  "dream-num/univer",
+  "pingdotgg/t3code",
   "stablyai/orca",
+  "dream-num/univer",
   "obra/superpowers",
   "affaan-m/ECC",
-  "GoogleChrome/modern-web-guidance-src",
   "debpalash/VoiceStudio",
   "DietrichGebert/ponytail",
   "mattpocock/skills",
   "google-research/paper-orchestra",
   "boykopovar/AnyPS5",
-  "cloudflare/security-audit-skill",
-  "deepseek-ai/deepseek-harness",
-  "pbakaus/impeccable",
-  "Leonxlnx/taste-skill",
   "Tencent/LoopForge",
-  "alibaba/open-code-review",
-  "meta/astryx"
+  "pbakaus/impeccable",
+  "GoogleChrome/modern-web-guidance-src",
+  "cloudflare/security-audit-skill",
+  "nexu-io/openmotion",
+  "deepseek-ai/deepseek-harness",
+  "Leonxlnx/taste-skill",
+  "Nutlope/hallmark"
  ],
  "top5": [
   "morluto/rea",
-  "pingdotgg/t3code",
   "elementalsouls/Claude-BugHunter",
-  "dream-num/univer",
-  "stablyai/orca"
+  "pingdotgg/t3code",
+  "stablyai/orca",
+  "dream-num/univer"
  ],
  "items": [
+  {
+   "title": "🆕 新进榜单 Top20 #20 Nutlope/hallmark（+4,194 ★）",
+   "link": "https://github.com/Nutlope/hallmark",
+   "guid": "Nov 14, 2026 – Nov 20, 2026|new|Nutlope/hallmark",
+   "pubDate": "Sat, 21 Nov 2026 20:10:19 +0000",
+   "desc": "统计窗口：Nov 14, 2026 – Nov 20, 2026<br>当前排名：#20<br>统计期内新增星：+4,194<br>总星数：58,933<br><a href='https://www.star-history.com/#Nutlope/hallmark&amp;Date'>Star History 曲线</a> · <a href='https://github.com/Nutlope/hallmark'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #17 nexu-io/openmotion（+4,402 ★）",
+   "link": "https://github.com/nexu-io/openmotion",
+   "guid": "Nov 14, 2026 – Nov 20, 2026|new|nexu-io/openmotion",
+   "pubDate": "Sat, 21 Nov 2026 20:10:19 +0000",
+   "desc": "统计窗口：Nov 14, 2026 – Nov 20, 2026<br>当前排名：#17<br>统计期内新增星：+4,402<br>总星数：14,558<br><a href='https://www.star-history.com/#nexu-io/openmotion&amp;Date'>Star History 曲线</a> · <a href='https://github.com/nexu-io/openmotion'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #3 elementalsouls/Claude-BugHunter｜前5：rea +15,015 / t3code +8,164 / Claude-BugHunter +7,405 / univer +7,098 / orca +6,644",
    "link": "https://github.com/elementalsouls/Claude-BugHunter",
@@ -640,10 +654,9 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "c6fa8d641d0d8766780cabc02fba9578212fd2834b6089d92901e974ea084660",
+ "source_hash": "ca25b2b6dce9721c15d1ab363d8d96358819fcd30e7568c04294b6ffebabdf58",
  "window_guids": [
-  "Nov 13, 2026 – Nov 19, 2026|new|Tencent/LoopForge",
-  "Nov 13, 2026 – Nov 19, 2026|new|boykopovar/AnyPS5",
-  "Nov 13, 2026 – Nov 19, 2026|top5|elementalsouls/Claude-BugHunter"
+  "Nov 14, 2026 – Nov 20, 2026|new|Nutlope/hallmark",
+  "Nov 14, 2026 – Nov 20, 2026|new|nexu-io/openmotion"
  ]
 }
