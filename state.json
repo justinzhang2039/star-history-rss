@@ -1,35 +1,63 @@
 {
- "window": "Nov 14, 2026 – Nov 20, 2026",
+ "window": "Nov 15, 2026 – Nov 21, 2026",
  "top20": [
   "morluto/rea",
   "elementalsouls/Claude-BugHunter",
   "pingdotgg/t3code",
+  "erkamyaman/rust-anything",
   "stablyai/orca",
   "dream-num/univer",
   "obra/superpowers",
-  "affaan-m/ECC",
-  "debpalash/VoiceStudio",
+  "boykopovar/AnyPS5",
   "DietrichGebert/ponytail",
   "mattpocock/skills",
+  "affaan-m/ECC",
+  "debpalash/VoiceStudio",
   "google-research/paper-orchestra",
-  "boykopovar/AnyPS5",
+  "nexu-io/openmotion",
+  "firecrawl/firecrawl",
+  "mvanhorn/last30days-skill",
   "Tencent/LoopForge",
   "pbakaus/impeccable",
-  "GoogleChrome/modern-web-guidance-src",
-  "cloudflare/security-audit-skill",
-  "nexu-io/openmotion",
   "deepseek-ai/deepseek-harness",
-  "Leonxlnx/taste-skill",
-  "Nutlope/hallmark"
+  "Leonxlnx/taste-skill"
  ],
  "top5": [
   "morluto/rea",
   "elementalsouls/Claude-BugHunter",
   "pingdotgg/t3code",
-  "stablyai/orca",
-  "dream-num/univer"
+  "erkamyaman/rust-anything",
+  "stablyai/orca"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #4 erkamyaman/rust-anything｜前5：rea +13,184 / Claude-BugHunter +10,655 / t3code +9,382 / rust-anything +7,585 / orca +7,247",
+   "link": "https://github.com/erkamyaman/rust-anything",
+   "guid": "Nov 15, 2026 – Nov 21, 2026|top5|erkamyaman/rust-anything",
+   "pubDate": "Sun, 22 Nov 2026 20:24:56 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +13,184 ★<br>#2 <a href='https://github.com/elementalsouls/Claude-BugHunter'>elementalsouls/Claude-BugHunter</a> +10,655 ★<br>#3 <a href='https://github.com/pingdotgg/t3code'>pingdotgg/t3code</a> +9,382 ★<br>#4 <a href='https://github.com/erkamyaman/rust-anything'>erkamyaman/rust-anything</a> +7,585 ★ ← 新进<br>#5 <a href='https://github.com/stablyai/orca'>stablyai/orca</a> +7,247 ★<br><br>统计窗口：Nov 15, 2026 – Nov 21, 2026<br>当前排名：#4<br>统计期内新增星：+7,585<br>总星数：7,202<br><a href='https://www.star-history.com/#erkamyaman/rust-anything&amp;Date'>Star History 曲线</a> · <a href='https://github.com/erkamyaman/rust-anything'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #16 mvanhorn/last30days-skill（+4,610 ★）",
+   "link": "https://github.com/mvanhorn/last30days-skill",
+   "guid": "Nov 15, 2026 – Nov 21, 2026|new|mvanhorn/last30days-skill",
+   "pubDate": "Sun, 22 Nov 2026 20:24:56 +0000",
+   "desc": "统计窗口：Nov 15, 2026 – Nov 21, 2026<br>当前排名：#16<br>统计期内新增星：+4,610<br>总星数：71,802<br><a href='https://www.star-history.com/#mvanhorn/last30days-skill&amp;Date'>Star History 曲线</a> · <a href='https://github.com/mvanhorn/last30days-skill'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #15 firecrawl/firecrawl（+4,761 ★）",
+   "link": "https://github.com/firecrawl/firecrawl",
+   "guid": "Nov 15, 2026 – Nov 21, 2026|new|firecrawl/firecrawl",
+   "pubDate": "Sun, 22 Nov 2026 20:24:56 +0000",
+   "desc": "统计窗口：Nov 15, 2026 – Nov 21, 2026<br>当前排名：#15<br>统计期内新增星：+4,761<br>总星数：206,760<br><a href='https://www.star-history.com/#firecrawl/firecrawl&amp;Date'>Star History 曲线</a> · <a href='https://github.com/firecrawl/firecrawl'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #4 erkamyaman/rust-anything（+7,585 ★）",
+   "link": "https://github.com/erkamyaman/rust-anything",
+   "guid": "Nov 15, 2026 – Nov 21, 2026|new|erkamyaman/rust-anything",
+   "pubDate": "Sun, 22 Nov 2026 20:24:56 +0000",
+   "desc": "统计窗口：Nov 15, 2026 – Nov 21, 2026<br>当前排名：#4<br>统计期内新增星：+7,585<br>总星数：7,202<br><a href='https://www.star-history.com/#erkamyaman/rust-anything&amp;Date'>Star History 曲线</a> · <a href='https://github.com/erkamyaman/rust-anything'>GitHub</a>"
+  },
   {
    "title": "🆕 新进榜单 Top20 #20 Nutlope/hallmark（+4,194 ★）",
    "link": "https://github.com/Nutlope/hallmark",
@@ -654,9 +682,11 @@
    "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "ca25b2b6dce9721c15d1ab363d8d96358819fcd30e7568c04294b6ffebabdf58",
+ "source_hash": "098e0711388ce4fe890a2085a107aa4a0789d1cd82e5b4665b72dec459f91fc4",
  "window_guids": [
-  "Nov 14, 2026 – Nov 20, 2026|new|Nutlope/hallmark",
-  "Nov 14, 2026 – Nov 20, 2026|new|nexu-io/openmotion"
+  "Nov 15, 2026 – Nov 21, 2026|new|erkamyaman/rust-anything",
+  "Nov 15, 2026 – Nov 21, 2026|new|firecrawl/firecrawl",
+  "Nov 15, 2026 – Nov 21, 2026|new|mvanhorn/last30days-skill",
+  "Nov 15, 2026 – Nov 21, 2026|top5|erkamyaman/rust-anything"
  ]
 }
