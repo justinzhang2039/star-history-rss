@@ -1,35 +1,63 @@
 {
- "window": "Nov 16, 2026 – Nov 22, 2026",
+ "window": "Nov 17, 2026 – Nov 23, 2026",
  "top20": [
-  "ItsNotRexed/Leonida",
-  "morluto/rea",
-  "elementalsouls/Claude-BugHunter",
+  "BaaRai/ARTEX",
   "pingdotgg/t3code",
+  "elementalsouls/Claude-BugHunter",
+  "morluto/rea",
   "erkamyaman/rust-anything",
   "stablyai/orca",
   "obra/superpowers",
   "boykopovar/AnyPS5",
-  "DietrichGebert/ponytail",
-  "mattpocock/skills",
-  "nexu-io/openmotion",
-  "affaan-m/ECC",
   "firecrawl/firecrawl",
-  "debpalash/VoiceStudio",
+  "nexu-io/openmotion",
+  "mattpocock/skills",
+  "DietrichGebert/ponytail",
   "mvanhorn/last30days-skill",
-  "google-research/paper-orchestra",
-  "dream-num/univer",
-  "pbakaus/impeccable",
+  "debpalash/VoiceStudio",
   "HKUDS/CLI-Anything",
-  "XiaoYouChR/Ghost-Downloader-3"
+  "affaan-m/ECC",
+  "XiaoYouChR/Ghost-Downloader-3",
+  "ivall/xcl",
+  "mjmirza/app-store-compliance",
+  "pbakaus/impeccable"
  ],
  "top5": [
-  "ItsNotRexed/Leonida",
-  "morluto/rea",
-  "elementalsouls/Claude-BugHunter",
+  "BaaRai/ARTEX",
   "pingdotgg/t3code",
+  "elementalsouls/Claude-BugHunter",
+  "morluto/rea",
   "erkamyaman/rust-anything"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #1 BaaRai/ARTEX｜前5：ARTEX +13,114 / t3code +12,683 / Claude-BugHunter +12,522 / rea +11,784 / rust-anything +8,895",
+   "link": "https://github.com/BaaRai/ARTEX",
+   "guid": "Nov 17, 2026 – Nov 23, 2026|top5|BaaRai/ARTEX",
+   "pubDate": "Tue, 24 Nov 2026 23:08:16 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/BaaRai/ARTEX'>BaaRai/ARTEX</a> +13,114 ★ ← 新进<br>#2 <a href='https://github.com/pingdotgg/t3code'>pingdotgg/t3code</a> +12,683 ★<br>#3 <a href='https://github.com/elementalsouls/Claude-BugHunter'>elementalsouls/Claude-BugHunter</a> +12,522 ★<br>#4 <a href='https://github.com/morluto/rea'>morluto/rea</a> +11,784 ★<br>#5 <a href='https://github.com/erkamyaman/rust-anything'>erkamyaman/rust-anything</a> +8,895 ★<br><br>统计窗口：Nov 17, 2026 – Nov 23, 2026<br>当前排名：#1<br>统计期内新增星：+13,114<br>总星数：18,803<br><a href='https://www.star-history.com/#BaaRai/ARTEX&amp;Date'>Star History 曲线</a> · <a href='https://github.com/BaaRai/ARTEX'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #19 mjmirza/app-store-compliance（+4,800 ★）",
+   "link": "https://github.com/mjmirza/app-store-compliance",
+   "guid": "Nov 17, 2026 – Nov 23, 2026|new|mjmirza/app-store-compliance",
+   "pubDate": "Tue, 24 Nov 2026 23:08:16 +0000",
+   "desc": "统计窗口：Nov 17, 2026 – Nov 23, 2026<br>当前排名：#19<br>统计期内新增星：+4,800<br>总星数：3,189<br><a href='https://www.star-history.com/#mjmirza/app-store-compliance&amp;Date'>Star History 曲线</a> · <a href='https://github.com/mjmirza/app-store-compliance'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #18 ivall/xcl（+5,003 ★）",
+   "link": "https://github.com/ivall/xcl",
+   "guid": "Nov 17, 2026 – Nov 23, 2026|new|ivall/xcl",
+   "pubDate": "Tue, 24 Nov 2026 23:08:16 +0000",
+   "desc": "统计窗口：Nov 17, 2026 – Nov 23, 2026<br>当前排名：#18<br>统计期内新增星：+5,003<br>总星数：3,832<br><a href='https://www.star-history.com/#ivall/xcl&amp;Date'>Star History 曲线</a> · <a href='https://github.com/ivall/xcl'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #1 BaaRai/ARTEX（+13,114 ★）",
+   "link": "https://github.com/BaaRai/ARTEX",
+   "guid": "Nov 17, 2026 – Nov 23, 2026|new|BaaRai/ARTEX",
+   "pubDate": "Tue, 24 Nov 2026 23:08:16 +0000",
+   "desc": "统计窗口：Nov 17, 2026 – Nov 23, 2026<br>当前排名：#1<br>统计期内新增星：+13,114<br>总星数：18,803<br><a href='https://www.star-history.com/#BaaRai/ARTEX&amp;Date'>Star History 曲线</a> · <a href='https://github.com/BaaRai/ARTEX'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #1 ItsNotRexed/Leonida｜前5：Leonida +17,268 / rea +12,471 / Claude-BugHunter +11,680 / t3code +11,022 / rust-anything +8,216",
    "link": "https://github.com/ItsNotRexed/Leonida",
@@ -701,20 +729,13 @@
    "guid": "Oct 14, 2026 – Oct 20, 2026|new|google-research/harness2",
    "pubDate": "Wed, 21 Oct 2026 18:08:55 +0000",
    "desc": "统计窗口：Oct 14, 2026 – Oct 20, 2026<br>当前排名：#2<br>统计期内新增星：+16,085<br>总星数：16,757<br><a href='https://www.star-history.com/#google-research/harness2&amp;Date'>Star History 曲线</a> · <a href='https://github.com/google-research/harness2'>GitHub</a>"
-  },
-  {
-   "title": "🆕 新进榜单 Top20 #7 MadsLorentzen/ai-job-search（+8,192 ★）",
-   "link": "https://github.com/MadsLorentzen/ai-job-search",
-   "guid": "Oct 12, 2026 – Oct 18, 2026|new|MadsLorentzen/ai-job-search",
-   "pubDate": "Mon, 19 Oct 2026 19:23:34 +0000",
-   "desc": "统计窗口：Oct 12, 2026 – Oct 18, 2026（每日滚动）<br>当前排名：#7<br>近7天新增星：+8,192<br>总星数：56,091<br><a href='https://www.star-history.com/#MadsLorentzen/ai-job-search&amp;Date'>Star History 曲线</a> · <a href='https://github.com/MadsLorentzen/ai-job-search'>GitHub</a>"
   }
  ],
- "source_hash": "11fedd662ee60887efe344d3862ddce2c7e31a8511fb2f07431b254c1e6eefae",
+ "source_hash": "acfb33a0e9e726b9ce26f39f7c37ef21faacd50b37b4bb6402ed6f3e4bd4dd46",
  "window_guids": [
-  "Nov 16, 2026 – Nov 22, 2026|new|HKUDS/CLI-Anything",
-  "Nov 16, 2026 – Nov 22, 2026|new|ItsNotRexed/Leonida",
-  "Nov 16, 2026 – Nov 22, 2026|new|XiaoYouChR/Ghost-Downloader-3",
-  "Nov 16, 2026 – Nov 22, 2026|top5|ItsNotRexed/Leonida"
+  "Nov 17, 2026 – Nov 23, 2026|new|BaaRai/ARTEX",
+  "Nov 17, 2026 – Nov 23, 2026|new|ivall/xcl",
+  "Nov 17, 2026 – Nov 23, 2026|new|mjmirza/app-store-compliance",
+  "Nov 17, 2026 – Nov 23, 2026|top5|BaaRai/ARTEX"
  ]
 }
