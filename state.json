@@ -1,35 +1,63 @@
 {
- "window": "Nov 17, 2026 – Nov 23, 2026",
+ "window": "Nov 18, 2026 – Nov 24, 2026",
  "top20": [
-  "BaaRai/ARTEX",
   "pingdotgg/t3code",
+  "BaaRai/ARTEX",
   "elementalsouls/Claude-BugHunter",
   "morluto/rea",
-  "erkamyaman/rust-anything",
   "stablyai/orca",
+  "xcl-dev/xcl",
+  "erkamyaman/rust-anything",
+  "storytold/craft-anything",
   "obra/superpowers",
-  "boykopovar/AnyPS5",
   "firecrawl/firecrawl",
-  "nexu-io/openmotion",
-  "mattpocock/skills",
-  "DietrichGebert/ponytail",
-  "mvanhorn/last30days-skill",
-  "debpalash/VoiceStudio",
+  "boykopovar/AnyPS5",
   "HKUDS/CLI-Anything",
-  "affaan-m/ECC",
   "XiaoYouChR/Ghost-Downloader-3",
-  "ivall/xcl",
+  "mattpocock/skills",
+  "mvanhorn/last30days-skill",
   "mjmirza/app-store-compliance",
-  "pbakaus/impeccable"
+  "debpalash/VoiceStudio",
+  "DietrichGebert/ponytail",
+  "zhouxiaoka/autoclip",
+  "nexu-io/openmotion"
  ],
  "top5": [
-  "BaaRai/ARTEX",
   "pingdotgg/t3code",
+  "BaaRai/ARTEX",
   "elementalsouls/Claude-BugHunter",
   "morluto/rea",
-  "erkamyaman/rust-anything"
+  "stablyai/orca"
  ],
  "items": [
+  {
+   "title": "🔥 新进前5 #5 stablyai/orca｜前5：t3code +13,974 / ARTEX +12,185 / Claude-BugHunter +11,995 / rea +11,102 / orca +8,805",
+   "link": "https://github.com/stablyai/orca",
+   "guid": "Nov 18, 2026 – Nov 24, 2026|top5|stablyai/orca",
+   "pubDate": "Wed, 25 Nov 2026 22:38:11 +0000",
+   "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/pingdotgg/t3code'>pingdotgg/t3code</a> +13,974 ★<br>#2 <a href='https://github.com/BaaRai/ARTEX'>BaaRai/ARTEX</a> +12,185 ★<br>#3 <a href='https://github.com/elementalsouls/Claude-BugHunter'>elementalsouls/Claude-BugHunter</a> +11,995 ★<br>#4 <a href='https://github.com/morluto/rea'>morluto/rea</a> +11,102 ★<br>#5 <a href='https://github.com/stablyai/orca'>stablyai/orca</a> +8,805 ★ ← 新进<br><br>统计窗口：Nov 18, 2026 – Nov 24, 2026<br>当前排名：#5<br>统计期内新增星：+8,805<br>总星数：137,723<br><a href='https://www.star-history.com/#stablyai/orca&amp;Date'>Star History 曲线</a> · <a href='https://github.com/stablyai/orca'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #19 zhouxiaoka/autoclip（+5,009 ★）",
+   "link": "https://github.com/zhouxiaoka/autoclip",
+   "guid": "Nov 18, 2026 – Nov 24, 2026|new|zhouxiaoka/autoclip",
+   "pubDate": "Wed, 25 Nov 2026 22:38:11 +0000",
+   "desc": "统计窗口：Nov 18, 2026 – Nov 24, 2026<br>当前排名：#19<br>统计期内新增星：+5,009<br>总星数：16,070<br><a href='https://www.star-history.com/#zhouxiaoka/autoclip&amp;Date'>Star History 曲线</a> · <a href='https://github.com/zhouxiaoka/autoclip'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #8 storytold/craft-anything（+6,992 ★）",
+   "link": "https://github.com/storytold/craft-anything",
+   "guid": "Nov 18, 2026 – Nov 24, 2026|new|storytold/craft-anything",
+   "pubDate": "Wed, 25 Nov 2026 22:38:11 +0000",
+   "desc": "统计窗口：Nov 18, 2026 – Nov 24, 2026<br>当前排名：#8<br>统计期内新增星：+6,992<br>总星数：43,373<br><a href='https://www.star-history.com/#storytold/craft-anything&amp;Date'>Star History 曲线</a> · <a href='https://github.com/storytold/craft-anything'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #6 xcl-dev/xcl（+7,981 ★）",
+   "link": "https://github.com/xcl-dev/xcl",
+   "guid": "Nov 18, 2026 – Nov 24, 2026|new|xcl-dev/xcl",
+   "pubDate": "Wed, 25 Nov 2026 22:38:11 +0000",
+   "desc": "统计窗口：Nov 18, 2026 – Nov 24, 2026<br>当前排名：#6<br>统计期内新增星：+7,981<br>总星数：8,241<br><a href='https://www.star-history.com/#xcl-dev/xcl&amp;Date'>Star History 曲线</a> · <a href='https://github.com/xcl-dev/xcl'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #1 BaaRai/ARTEX｜前5：ARTEX +13,114 / t3code +12,683 / Claude-BugHunter +12,522 / rea +11,784 / rust-anything +8,895",
    "link": "https://github.com/BaaRai/ARTEX",
@@ -701,41 +729,13 @@
    "guid": "Oct 14, 2026 – Oct 20, 2026|new|anomalyco/opencode",
    "pubDate": "Wed, 21 Oct 2026 18:08:55 +0000",
    "desc": "统计窗口：Oct 14, 2026 – Oct 20, 2026<br>当前排名：#16<br>统计期内新增星：+6,165<br>总星数：219,500<br><a href='https://www.star-history.com/#anomalyco/opencode&amp;Date'>Star History 曲线</a> · <a href='https://github.com/anomalyco/opencode'>GitHub</a>"
-  },
-  {
-   "title": "🆕 新进榜单 Top20 #15 yetone/magpie（+6,299 ★）",
-   "link": "https://github.com/yetone/magpie",
-   "guid": "Oct 14, 2026 – Oct 20, 2026|new|yetone/magpie",
-   "pubDate": "Wed, 21 Oct 2026 18:08:55 +0000",
-   "desc": "统计窗口：Oct 14, 2026 – Oct 20, 2026<br>当前排名：#15<br>统计期内新增星：+6,299<br>总星数：18,651<br><a href='https://www.star-history.com/#yetone/magpie&amp;Date'>Star History 曲线</a> · <a href='https://github.com/yetone/magpie'>GitHub</a>"
-  },
-  {
-   "title": "🆕 新进榜单 Top20 #14 tangency-labs/solidcraft（+6,504 ★）",
-   "link": "https://github.com/tangency-labs/solidcraft",
-   "guid": "Oct 14, 2026 – Oct 20, 2026|new|tangency-labs/solidcraft",
-   "pubDate": "Wed, 21 Oct 2026 18:08:55 +0000",
-   "desc": "统计窗口：Oct 14, 2026 – Oct 20, 2026<br>当前排名：#14<br>统计期内新增星：+6,504<br>总星数：8,660<br><a href='https://www.star-history.com/#tangency-labs/solidcraft&amp;Date'>Star History 曲线</a> · <a href='https://github.com/tangency-labs/solidcraft'>GitHub</a>"
-  },
-  {
-   "title": "🆕 新进榜单 Top20 #8 xerj-org/xerj（+8,679 ★）",
-   "link": "https://github.com/xerj-org/xerj",
-   "guid": "Oct 14, 2026 – Oct 20, 2026|new|xerj-org/xerj",
-   "pubDate": "Wed, 21 Oct 2026 18:08:55 +0000",
-   "desc": "统计窗口：Oct 14, 2026 – Oct 20, 2026<br>当前排名：#8<br>统计期内新增星：+8,679<br>总星数：12,648<br><a href='https://www.star-history.com/#xerj-org/xerj&amp;Date'>Star History 曲线</a> · <a href='https://github.com/xerj-org/xerj'>GitHub</a>"
-  },
-  {
-   "title": "🆕 新进榜单 Top20 #2 google-research/harness2（+16,085 ★）",
-   "link": "https://github.com/google-research/harness2",
-   "guid": "Oct 14, 2026 – Oct 20, 2026|new|google-research/harness2",
-   "pubDate": "Wed, 21 Oct 2026 18:08:55 +0000",
-   "desc": "统计窗口：Oct 14, 2026 – Oct 20, 2026<br>当前排名：#2<br>统计期内新增星：+16,085<br>总星数：16,757<br><a href='https://www.star-history.com/#google-research/harness2&amp;Date'>Star History 曲线</a> · <a href='https://github.com/google-research/harness2'>GitHub</a>"
   }
  ],
- "source_hash": "acfb33a0e9e726b9ce26f39f7c37ef21faacd50b37b4bb6402ed6f3e4bd4dd46",
+ "source_hash": "3cccb3d9de4346a65c9d6f3dbff82894a108dcf50d4a7d06fee5db3d0c0712cc",
  "window_guids": [
-  "Nov 17, 2026 – Nov 23, 2026|new|BaaRai/ARTEX",
-  "Nov 17, 2026 – Nov 23, 2026|new|ivall/xcl",
-  "Nov 17, 2026 – Nov 23, 2026|new|mjmirza/app-store-compliance",
-  "Nov 17, 2026 – Nov 23, 2026|top5|BaaRai/ARTEX"
+  "Nov 18, 2026 – Nov 24, 2026|new|storytold/craft-anything",
+  "Nov 18, 2026 – Nov 24, 2026|new|xcl-dev/xcl",
+  "Nov 18, 2026 – Nov 24, 2026|new|zhouxiaoka/autoclip",
+  "Nov 18, 2026 – Nov 24, 2026|top5|stablyai/orca"
  ]
 }
