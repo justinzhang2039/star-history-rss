@@ -1,35 +1,49 @@
 {
- "window": "Nov 18, 2026 – Nov 24, 2026",
+ "window": "Nov 19, 2026 – Nov 25, 2026",
  "top20": [
   "pingdotgg/t3code",
-  "BaaRai/ARTEX",
   "elementalsouls/Claude-BugHunter",
+  "BaaRai/ARTEX",
   "morluto/rea",
   "stablyai/orca",
   "xcl-dev/xcl",
-  "erkamyaman/rust-anything",
+  "firecrawl/firecrawl",
+  "XiaoYouChR/Ghost-Downloader-3",
   "storytold/craft-anything",
   "obra/superpowers",
-  "firecrawl/firecrawl",
-  "boykopovar/AnyPS5",
   "HKUDS/CLI-Anything",
-  "XiaoYouChR/Ghost-Downloader-3",
-  "mattpocock/skills",
-  "mvanhorn/last30days-skill",
-  "mjmirza/app-store-compliance",
-  "debpalash/VoiceStudio",
-  "DietrichGebert/ponytail",
+  "erkamyaman/rust-anything",
   "zhouxiaoka/autoclip",
-  "nexu-io/openmotion"
+  "mattpocock/skills",
+  "mjmirza/app-store-compliance",
+  "boykopovar/AnyPS5",
+  "cathrynlavery/diagram-design",
+  "mvanhorn/last30days-skill",
+  "debpalash/VoiceStudio",
+  "jingyaogong/minimind"
  ],
  "top5": [
   "pingdotgg/t3code",
-  "BaaRai/ARTEX",
   "elementalsouls/Claude-BugHunter",
+  "BaaRai/ARTEX",
   "morluto/rea",
   "stablyai/orca"
  ],
  "items": [
+  {
+   "title": "🆕 新进榜单 Top20 #20 jingyaogong/minimind（+4,766 ★）",
+   "link": "https://github.com/jingyaogong/minimind",
+   "guid": "Nov 19, 2026 – Nov 25, 2026|new|jingyaogong/minimind",
+   "pubDate": "Thu, 26 Nov 2026 22:28:11 +0000",
+   "desc": "统计窗口：Nov 19, 2026 – Nov 25, 2026<br>当前排名：#20<br>统计期内新增星：+4,766<br>总星数：71,548<br><a href='https://www.star-history.com/#jingyaogong/minimind&amp;Date'>Star History 曲线</a> · <a href='https://github.com/jingyaogong/minimind'>GitHub</a>"
+  },
+  {
+   "title": "🆕 新进榜单 Top20 #17 cathrynlavery/diagram-design（+5,118 ★）",
+   "link": "https://github.com/cathrynlavery/diagram-design",
+   "guid": "Nov 19, 2026 – Nov 25, 2026|new|cathrynlavery/diagram-design",
+   "pubDate": "Thu, 26 Nov 2026 22:28:11 +0000",
+   "desc": "统计窗口：Nov 19, 2026 – Nov 25, 2026<br>当前排名：#17<br>统计期内新增星：+5,118<br>总星数：73,710<br><a href='https://www.star-history.com/#cathrynlavery/diagram-design&amp;Date'>Star History 曲线</a> · <a href='https://github.com/cathrynlavery/diagram-design'>GitHub</a>"
+  },
   {
    "title": "🔥 新进前5 #5 stablyai/orca｜前5：t3code +13,974 / ARTEX +12,185 / Claude-BugHunter +11,995 / rea +11,102 / orca +8,805",
    "link": "https://github.com/stablyai/orca",
@@ -715,27 +729,11 @@
    "guid": "Oct 14, 2026 – Oct 20, 2026|new|cloudflare/security-audit-skill",
    "pubDate": "Wed, 21 Oct 2026 18:08:55 +0000",
    "desc": "统计窗口：Oct 14, 2026 – Oct 20, 2026<br>当前排名：#20<br>统计期内新增星：+5,414<br>总星数：35,249<br><a href='https://www.star-history.com/#cloudflare/security-audit-skill&amp;Date'>Star History 曲线</a> · <a href='https://github.com/cloudflare/security-audit-skill'>GitHub</a>"
-  },
-  {
-   "title": "🆕 新进榜单 Top20 #19 anthropics/claude-plugins-official（+5,620 ★）",
-   "link": "https://github.com/anthropics/claude-plugins-official",
-   "guid": "Oct 14, 2026 – Oct 20, 2026|new|anthropics/claude-plugins-official",
-   "pubDate": "Wed, 21 Oct 2026 18:08:55 +0000",
-   "desc": "统计窗口：Oct 14, 2026 – Oct 20, 2026<br>当前排名：#19<br>统计期内新增星：+5,620<br>总星数：43,533<br><a href='https://www.star-history.com/#anthropics/claude-plugins-official&amp;Date'>Star History 曲线</a> · <a href='https://github.com/anthropics/claude-plugins-official'>GitHub</a>"
-  },
-  {
-   "title": "🆕 新进榜单 Top20 #16 anomalyco/opencode（+6,165 ★）",
-   "link": "https://github.com/anomalyco/opencode",
-   "guid": "Oct 14, 2026 – Oct 20, 2026|new|anomalyco/opencode",
-   "pubDate": "Wed, 21 Oct 2026 18:08:55 +0000",
-   "desc": "统计窗口：Oct 14, 2026 – Oct 20, 2026<br>当前排名：#16<br>统计期内新增星：+6,165<br>总星数：219,500<br><a href='https://www.star-history.com/#anomalyco/opencode&amp;Date'>Star History 曲线</a> · <a href='https://github.com/anomalyco/opencode'>GitHub</a>"
   }
  ],
- "source_hash": "3cccb3d9de4346a65c9d6f3dbff82894a108dcf50d4a7d06fee5db3d0c0712cc",
+ "source_hash": "4d6b0dba5aec1bd23ef4fd98072ac543316fa1e63124f24b5599a11791abefb4",
  "window_guids": [
-  "Nov 18, 2026 – Nov 24, 2026|new|storytold/craft-anything",
-  "Nov 18, 2026 – Nov 24, 2026|new|xcl-dev/xcl",
-  "Nov 18, 2026 – Nov 24, 2026|new|zhouxiaoka/autoclip",
-  "Nov 18, 2026 – Nov 24, 2026|top5|stablyai/orca"
+  "Nov 19, 2026 – Nov 25, 2026|new|cathrynlavery/diagram-design",
+  "Nov 19, 2026 – Nov 25, 2026|new|jingyaogong/minimind"
  ]
 }
