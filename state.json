@@ -1,35 +1,42 @@
 {
- "window": "Nov 19, 2026 – Nov 25, 2026",
+ "window": "Nov 20, 2026 – Nov 26, 2026",
  "top20": [
   "pingdotgg/t3code",
   "elementalsouls/Claude-BugHunter",
+  "stablyai/orca",
   "BaaRai/ARTEX",
   "morluto/rea",
-  "stablyai/orca",
   "xcl-dev/xcl",
   "firecrawl/firecrawl",
   "XiaoYouChR/Ghost-Downloader-3",
-  "storytold/craft-anything",
   "obra/superpowers",
   "HKUDS/CLI-Anything",
-  "erkamyaman/rust-anything",
-  "zhouxiaoka/autoclip",
   "mattpocock/skills",
-  "mjmirza/app-store-compliance",
-  "boykopovar/AnyPS5",
+  "zhouxiaoka/autoclip",
+  "storytold/craft-anything",
   "cathrynlavery/diagram-design",
   "mvanhorn/last30days-skill",
-  "debpalash/VoiceStudio",
-  "jingyaogong/minimind"
+  "mjmirza/app-store-compliance",
+  "erkamyaman/rust-anything",
+  "jingyaogong/minimind",
+  "DietrichGebert/ponytail",
+  "debpalash/VoiceStudio"
  ],
  "top5": [
   "pingdotgg/t3code",
   "elementalsouls/Claude-BugHunter",
+  "stablyai/orca",
   "BaaRai/ARTEX",
-  "morluto/rea",
-  "stablyai/orca"
+  "morluto/rea"
  ],
  "items": [
+  {
+   "title": "🆕 新进榜单 Top20 #19 DietrichGebert/ponytail（+4,633 ★）",
+   "link": "https://github.com/DietrichGebert/ponytail",
+   "guid": "Nov 20, 2026 – Nov 26, 2026|new|DietrichGebert/ponytail",
+   "pubDate": "Fri, 27 Nov 2026 22:09:44 +0000",
+   "desc": "统计窗口：Nov 20, 2026 – Nov 26, 2026<br>当前排名：#19<br>统计期内新增星：+4,633<br>总星数：199,942<br><a href='https://www.star-history.com/#DietrichGebert/ponytail&amp;Date'>Star History 曲线</a> · <a href='https://github.com/DietrichGebert/ponytail'>GitHub</a>"
+  },
   {
    "title": "🆕 新进榜单 Top20 #20 jingyaogong/minimind（+4,766 ★）",
    "link": "https://github.com/jingyaogong/minimind",
@@ -722,18 +729,10 @@
    "guid": "Oct 14, 2026 – Oct 20, 2026|top5|google-research/harness2",
    "pubDate": "Wed, 21 Oct 2026 18:08:55 +0000",
    "desc": "当前前5（统计期内新增星）：<br>#1 <a href='https://github.com/morluto/rea'>morluto/rea</a> +133,434 ★<br>#2 <a href='https://github.com/google-research/harness2'>google-research/harness2</a> +16,085 ★ ← 新进<br>#3 <a href='https://github.com/debpalash/VoiceStudio'>debpalash/VoiceStudio</a> +15,318 ★<br>#4 <a href='https://github.com/MadsLorentzen/ai-job-search'>MadsLorentzen/ai-job-search</a> +14,869 ★<br>#5 <a href='https://github.com/storytold/photocraft'>storytold/photocraft</a> +11,317 ★<br><br>统计窗口：Oct 14, 2026 – Oct 20, 2026<br>当前排名：#2<br>统计期内新增星：+16,085<br>总星数：16,757<br><a href='https://www.star-history.com/#google-research/harness2&amp;Date'>Star History 曲线</a> · <a href='https://github.com/google-research/harness2'>GitHub</a>"
-  },
-  {
-   "title": "🆕 新进榜单 Top20 #20 cloudflare/security-audit-skill（+5,414 ★）",
-   "link": "https://github.com/cloudflare/security-audit-skill",
-   "guid": "Oct 14, 2026 – Oct 20, 2026|new|cloudflare/security-audit-skill",
-   "pubDate": "Wed, 21 Oct 2026 18:08:55 +0000",
-   "desc": "统计窗口：Oct 14, 2026 – Oct 20, 2026<br>当前排名：#20<br>统计期内新增星：+5,414<br>总星数：35,249<br><a href='https://www.star-history.com/#cloudflare/security-audit-skill&amp;Date'>Star History 曲线</a> · <a href='https://github.com/cloudflare/security-audit-skill'>GitHub</a>"
   }
  ],
- "source_hash": "4d6b0dba5aec1bd23ef4fd98072ac543316fa1e63124f24b5599a11791abefb4",
+ "source_hash": "7cd4e86da89f45a110beb188bf8f9ff60028a9464661c423cc1f7eda05ed7873",
  "window_guids": [
-  "Nov 19, 2026 – Nov 25, 2026|new|cathrynlavery/diagram-design",
-  "Nov 19, 2026 – Nov 25, 2026|new|jingyaogong/minimind"
+  "Nov 20, 2026 – Nov 26, 2026|new|DietrichGebert/ponytail"
  ]
 }
